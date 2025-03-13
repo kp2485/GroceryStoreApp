@@ -38,7 +38,6 @@ class User: Identifiable, ObservableObject {
         }
     }
     
-    // Function to add the entire cart to the order history
     func checkoutCart() {
         let currentDate = Date()
         
@@ -51,7 +50,7 @@ class User: Identifiable, ObservableObject {
                 orderHistory[productID] = (date: currentDate, quantity: quantity)
             }
         }
-        cart.removeAll() // Empty the cart after checkout
+        cart.removeAll()
     }
 }
 

@@ -10,7 +10,6 @@ import Foundation
 struct Product: Identifiable, Hashable {
     let id = UUID()
     let name: String
-    let imageName: String
     let brand: String
     let price: Double
     let salePrice: Double?
