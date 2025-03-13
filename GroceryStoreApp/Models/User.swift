@@ -21,6 +21,23 @@ class User: Identifiable, ObservableObject {
         self.orderHistory = orderHistory
     }
     
+    // Add product to the cart
+    func addToCart(product: Product, quantity: Int = 1) {
+        cart[product.id, default: 0] += quantity
+    }
+    
+    // Remove product from the cart
+    func removeFromCart(product: Product, quantity: Int = 1) {
+        if let currentQuantity = cart[product.id] {
+            let newQuantity = currentQuantity - quantity
+            if newQuantity <= 0 {
+                cart.removeValue(forKey: product.id)
+            } else {
+                cart[product.id] = newQuantity
+            }
+        }
+    }
+    
     // Function to add the entire cart to the order history
     func checkoutCart() {
         let currentDate = Date()
