@@ -158,10 +158,10 @@ enum SportingGoodsSubcategory: String, CaseIterable, Hashable {
 }
 
 enum OurBrandsSubcategory: String, CaseIterable, Hashable {
-    case meijerBrandProducts = "Meijer Brand Products"
-    case frederiksByMeijer = "Frederik's by Meijer"
-    case trueGoodness = "True Goodness"
-    case purpleCow = "Purple Cow"
+    case storeBrand1 = "Store Brand 1"
+    case storeBrand2 = "Store Brand 2"
+    case storeBrand3 = "Store Brand 3"
+    case storeBrandIceCream = "Store Brand Ice Cream"
 }
 
 enum HealthCareSubcategory: String, CaseIterable, Hashable {
