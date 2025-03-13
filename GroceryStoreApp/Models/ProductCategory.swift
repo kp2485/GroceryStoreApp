@@ -7,7 +7,6 @@
 
 enum ProductCategory: Hashable {
     case grocery(GrocerySubcategory)
-    case fresh(FreshSubcategory)
     case electronics(ElectronicsSubcategory)
     case householdEssentials(HouseholdEssentialsSubcategory)
     case beautyAndPersonalCare(BeautyAndPersonalCareSubcategory)
@@ -24,17 +23,52 @@ enum ProductCategory: Hashable {
     case booksAndEntertainment(BooksAndEntertainmentSubcategory)
     case homeImprovementAndAuto(HomeImprovementAndAutoSubcategory)
     case gardenAndOutdoorLiving(GardenAndOutdoorLivingSubcategory)
+
+    var rawValue: String {
+        switch self {
+        case .grocery(let subcategory): return "Grocery - \(subcategory.rawValue)"
+        case .electronics(let subcategory): return "Electronics - \(subcategory.rawValue)"
+        case .householdEssentials(let subcategory): return "Household Essentials - \(subcategory.rawValue)"
+        case .beautyAndPersonalCare(let subcategory): return "Beauty & Personal Care - \(subcategory.rawValue)"
+        case .toys(let subcategory): return "Toys - \(subcategory.rawValue)"
+        case .beerWineAndSpirits(let subcategory): return "Beer, Wine & Spirits - \(subcategory.rawValue)"
+        case .petCare(let subcategory): return "Pet Care - \(subcategory.rawValue)"
+        case .home(let subcategory): return "Home - \(subcategory.rawValue)"
+        case .babyAndToddler(let subcategory): return "Baby & Toddler - \(subcategory.rawValue)"
+        case .sportingGoods(let subcategory): return "Sporting Goods - \(subcategory.rawValue)"
+        case .ourBrands(let subcategory): return "Our Brands - \(subcategory.rawValue)"
+        case .healthCare(let subcategory): return "Health Care - \(subcategory.rawValue)"
+        case .cardAndParty(let subcategory): return "Card & Party - \(subcategory.rawValue)"
+        case .clothingShoesAndAccessories(let subcategory): return "Clothing, Shoes & Accessories - \(subcategory.rawValue)"
+        case .booksAndEntertainment(let subcategory): return "Books & Entertainment - \(subcategory.rawValue)"
+        case .homeImprovementAndAuto(let subcategory): return "Home Improvement & Auto - \(subcategory.rawValue)"
+        case .gardenAndOutdoorLiving(let subcategory): return "Garden & Outdoor Living - \(subcategory.rawValue)"
+        }
+    }
 }
 
-enum GrocerySubcategory: String, CaseIterable, Hashable {
-    case freshProduce = "Fresh Produce"
-    case dairyAndEggs = "Dairy & Eggs"
-    case bakery = "Bakery"
-    case meatAndSeafood = "Meat & Seafood"
-    case pantry = "Pantry"
-    case frozenFoods = "Frozen Foods"
-    case beverages = "Beverages"
-    case snacks = "Snacks"
+enum GrocerySubcategory: Hashable {
+    case freshProduce(FreshSubcategory)
+    case dairyAndEggs
+    case bakery
+    case meatAndSeafood
+    case pantry
+    case frozenFoods
+    case beverages
+    case snacks
+    
+    var rawValue: String {
+        switch self {
+        case .freshProduce(let subcategory): return "Fresh Produce - \(subcategory.rawValue)"
+        case .dairyAndEggs: return "Dairy & Eggs"
+        case .bakery: return "Bakery"
+        case .meatAndSeafood: return "Meat & Seafood"
+        case .pantry: return "Pantry"
+        case .frozenFoods: return "Frozen Foods"
+        case .beverages: return "Beverages"
+        case .snacks: return "Snacks"
+        }
+    }
 }
 
 enum FreshSubcategory: String, CaseIterable, Hashable {
