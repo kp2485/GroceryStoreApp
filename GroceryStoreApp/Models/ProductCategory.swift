@@ -5,7 +5,6 @@
 //  Created by Kyle Peterson on 3/13/25.
 //
 
-
 enum ProductCategory: Hashable {
     case grocery(GrocerySubcategory)
     case fresh(FreshSubcategory)
