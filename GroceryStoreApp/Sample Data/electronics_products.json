@@ -1,0 +1,842 @@
+[
+    {
+        "id": "6312e480-3c4a-46e0-a985-d8031d0fae3d",
+        "name": "Smart TV",
+        "brand": "Samsung 55-inch 4K UHD",
+        "price": 499.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "TV & Home Theater"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2b16a0e7-7a63-4e24-b381-594641db0965",
+        "name": "Soundbar",
+        "brand": "Bose Smart Soundbar 700",
+        "price": 799.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "TV & Home Theater"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "aaf7f56e-32c6-4ad9-93a7-f9c86e9e61cb",
+        "name": "Streaming Device",
+        "brand": "Roku Ultra",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "TV & Home Theater"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "438ec57a-8c12-45b3-862d-aab0e0cfdf06",
+        "name": "Home Theater System",
+        "brand": "Sony 7.1 Surround Sound",
+        "price": 599.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "TV & Home Theater"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2da2bb52-0faf-46d6-b2f6-2571d5ba7986",
+        "name": "Projector",
+        "brand": "Epson Home Cinema 2250",
+        "price": 699.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "TV & Home Theater"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0e300a71-6c95-4c24-b375-868c05cd8ff9",
+        "name": "Blu-ray Player",
+        "brand": "LG 4K Ultra HD",
+        "price": 199.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "TV & Home Theater"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "57972bca-a44e-4de9-91f3-8773be186fb3",
+        "name": "TV Mount",
+        "brand": "Sanus Wall Mount",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "TV & Home Theater"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f312695d-abbf-4ded-a95f-9766dae29995",
+        "name": "Streaming Stick",
+        "brand": "Amazon Fire Stick 4K",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "TV & Home Theater"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2bba8266-bdb6-4431-a4bf-928f3529322b",
+        "name": "Universal Remote",
+        "brand": "Logitech Harmony Elite",
+        "price": 249.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "TV & Home Theater"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "246c3487-bfb5-4962-b825-0a0e1d6510ed",
+        "name": "Outdoor TV",
+        "brand": "SunBrite 55-inch Weatherproof",
+        "price": 2499.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "TV & Home Theater"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6c91f5be-e3a2-4b1d-b872-f2028b03149e",
+        "name": "Laptop",
+        "brand": "Apple MacBook Air M2",
+        "price": 1099.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Computers & Tablets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a20ff3cf-81ae-4ce7-ab5d-917d28c7575f",
+        "name": "Desktop PC",
+        "brand": "Dell XPS 8940",
+        "price": 1299.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Computers & Tablets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "66ff41d5-aca4-4a07-8e54-138af2eb8c64",
+        "name": "Gaming Laptop",
+        "brand": "Razer Blade 15",
+        "price": 1999.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Computers & Tablets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d779ec34-f4b3-4273-ba62-033730547340",
+        "name": "Tablet",
+        "brand": "Apple iPad Pro 11-inch",
+        "price": 799.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Computers & Tablets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e2cea23b-424d-4dfa-8dc1-16a3a3a5bd35",
+        "name": "2-in-1 Laptop",
+        "brand": "Microsoft Surface Pro 9",
+        "price": 999.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Computers & Tablets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "986f359b-792e-4473-9faf-b1dd3a945749",
+        "name": "External Hard Drive",
+        "brand": "WD My Passport 2TB",
+        "price": 89.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Computers & Tablets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c3745498-adb9-4ce3-a312-c25fce2847ef",
+        "name": "Monitor",
+        "brand": "LG UltraFine 27-inch 4K",
+        "price": 499.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Computers & Tablets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7300d960-0cdc-440d-bede-9b0ac7d8097b",
+        "name": "Keyboard",
+        "brand": "Logitech MX Keys",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Computers & Tablets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0b0a28a6-1bba-4321-a148-cf184a034eef",
+        "name": "Mouse",
+        "brand": "Razer DeathAdder V2",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Computers & Tablets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8c8f29f9-cd13-414a-8499-96d75ca4e24d",
+        "name": "USB-C Dock",
+        "brand": "Anker PowerExpand Elite",
+        "price": 149.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Computers & Tablets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "944871d7-5ba3-406f-b3d3-4ab46da416aa",
+        "name": "Smartphone",
+        "brand": "Apple iPhone 14 Pro",
+        "price": 999.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cell Phones"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "73bc058e-cb3a-4f63-a2d6-b3a8ed0a1f7b",
+        "name": "Android Phone",
+        "brand": "Samsung Galaxy S23 Ultra",
+        "price": 1199.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cell Phones"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f40bd72b-647a-4e89-9506-55941e70cb5d",
+        "name": "Budget Phone",
+        "brand": "Google Pixel 6a",
+        "price": 449.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cell Phones"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a6fddc2a-7693-40a7-b2ef-92c9bd3bc64d",
+        "name": "Foldable Phone",
+        "brand": "Samsung Galaxy Z Fold 4",
+        "price": 1799.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cell Phones"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3a89f0f7-b56c-4174-86a2-38676b04f262",
+        "name": "Wireless Charger",
+        "brand": "Belkin MagSafe Charger",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cell Phones"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e2ea2611-2fd8-43be-9c43-a554f3182d9b",
+        "name": "Screen Protector",
+        "brand": "ZAGG InvisibleShield",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cell Phones"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cd3738c6-0c3b-472a-b1a9-ad1332144013",
+        "name": "Phone Case",
+        "brand": "OtterBox Defender Series",
+        "price": 59.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cell Phones"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d2f4ac3a-29a9-413f-88b4-e0bb4b313855",
+        "name": "Portable Battery Pack",
+        "brand": "Anker PowerCore 20K",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cell Phones"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ac765239-1a8b-4e1e-b8b1-2a1d89d739a0",
+        "name": "Bluetooth Headset",
+        "brand": "Jabra Elite 7 Pro",
+        "price": 199.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cell Phones"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "667bd293-352e-4331-a4a3-f8111e6d2814",
+        "name": "Smartwatch",
+        "brand": "Apple Watch Series 8",
+        "price": 399.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cell Phones"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "413edd1f-8f9c-49b5-acc4-da894949ad15",
+        "name": "Gaming Console",
+        "brand": "Sony PlayStation 5",
+        "price": 499.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a823f243-cffc-4e1e-9715-9f8dfe81a52e",
+        "name": "Xbox Console",
+        "brand": "Microsoft Xbox Series X",
+        "price": 499.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "64a9552b-22e8-48fa-a509-688b97fd1c3d",
+        "name": "Gaming Headset",
+        "brand": "SteelSeries Arctis 7",
+        "price": 149.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "519f34d4-be94-4e75-99af-6b92089fa65f",
+        "name": "Controller",
+        "brand": "Xbox Elite Series 2",
+        "price": 179.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "df2a5ab3-2848-4f54-975c-e6599b61590b",
+        "name": "PC Game",
+        "brand": "Cyberpunk 2077",
+        "price": 59.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b7bd7b38-90b7-48e6-b4d2-ab0d7dd83c99",
+        "name": "Nintendo Switch",
+        "brand": "Nintendo Switch OLED",
+        "price": 349.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "916830bf-2792-45df-a337-5f2c74a2cfa4",
+        "name": "Gaming Chair",
+        "brand": "Secretlab Titan Evo 2022",
+        "price": 549.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "48a96424-10de-4a9d-9c8d-dacda2e0888e",
+        "name": "VR Headset",
+        "brand": "Meta Quest 2",
+        "price": 399.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b61680ad-5c83-4c49-8e17-e16301284fbf",
+        "name": "Gaming Keyboard",
+        "brand": "Corsair K100 RGB",
+        "price": 229.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "fca5e00d-9f61-40ae-9b44-413b4e96b839",
+        "name": "Gaming Mouse",
+        "brand": "Logitech G Pro X Superlight",
+        "price": 159.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "085b99f2-f215-4de1-81fa-7eb1a766f66e",
+        "name": "Mirrorless Camera",
+        "brand": "Sony Alpha A7 IV",
+        "price": 2499.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cameras"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "930f02f9-195c-4d64-9cc1-00cf1c128e80",
+        "name": "DSLR Camera",
+        "brand": "Canon EOS 90D",
+        "price": 1199.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cameras"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8210886c-0d73-4458-8de2-8dd3b288bac9",
+        "name": "Action Camera",
+        "brand": "GoPro HERO11 Black",
+        "price": 499.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cameras"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f0433c60-6c9c-4632-b706-52b333265d08",
+        "name": "Instant Camera",
+        "brand": "Fujifilm Instax Mini 11",
+        "price": 69.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cameras"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "441f777f-d2f7-47f8-af71-8b218379b945",
+        "name": "Drone",
+        "brand": "DJI Mavic Air 2",
+        "price": 799.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cameras"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ce531bb4-37e4-4263-b638-9b50fe1e372b",
+        "name": "Tripod",
+        "brand": "Manfrotto Befree Advanced",
+        "price": 189.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cameras"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "be390e57-4044-4c66-8b77-b2662115cc5c",
+        "name": "Memory Card",
+        "brand": "SanDisk Extreme Pro 128GB",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cameras"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3b5fb425-ea70-41de-ac06-bf60e3d74af1",
+        "name": "Camera Bag",
+        "brand": "Lowepro ProTactic BP 450 AW II",
+        "price": 199.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cameras"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7fa82b9a-ebef-4757-855b-38aaa0f9a58d",
+        "name": "Lens",
+        "brand": "Canon EF 50mm f/1.8 STM",
+        "price": 125.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cameras"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "27fa4731-7eed-4911-85a1-bc62025cfebe",
+        "name": "External Flash",
+        "brand": "Godox V1",
+        "price": 229.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Cameras"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "65380229-24e0-4e7d-b48e-46017d65f27d",
+        "name": "Wireless Earbuds",
+        "brand": "Apple AirPods Pro 2",
+        "price": 249.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Audio"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "07a932d9-2ef2-4091-bec5-092b2523921c",
+        "name": "Over-Ear Headphones",
+        "brand": "Sony WH-1000XM5",
+        "price": 399.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Audio"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0843db39-7cee-48b8-b9f0-a1868dbfcb50",
+        "name": "Bluetooth Speaker",
+        "brand": "JBL Charge 5",
+        "price": 179.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Audio"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6d1db37a-5806-4ec8-9c2c-0a554238798e",
+        "name": "Soundbar",
+        "brand": "Sonos Beam Gen 2",
+        "price": 449.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Audio"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "789833bf-443f-444c-9348-2a683b453690",
+        "name": "Turntable",
+        "brand": "Audio-Technica AT-LP120XUSB",
+        "price": 349.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Audio"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "50c4934f-c07d-4376-aca6-282ed1c5df91",
+        "name": "Wireless Subwoofer",
+        "brand": "Klipsch R-12SW",
+        "price": 349.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Audio"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "adafd9e2-e4db-49bf-bf3b-010ea6e72af1",
+        "name": "Headphone Amplifier",
+        "brand": "FiiO K5 Pro",
+        "price": 149.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Audio"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9cb5ea40-15f1-4e32-a700-6787f55ee7a0",
+        "name": "Streaming DAC",
+        "brand": "Cambridge Audio CXN V2",
+        "price": 1099.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Audio"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4b8bfde5-18a4-47f5-b735-312d831db845",
+        "name": "Wired Earbuds",
+        "brand": "Shure SE215",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Audio"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "80bc1c6d-78cd-4f09-a2eb-a76b4e152c09",
+        "name": "Home Audio Receiver",
+        "brand": "Denon AVR-X3700H",
+        "price": 1499.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Audio"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ecca2e72-6473-4a96-888f-063138e07171",
+        "name": "Smartwatch",
+        "brand": "Apple Watch Ultra",
+        "price": 799.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Wearable Technology"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "37dde86d-38b1-49b3-8da8-863a6ceddd8e",
+        "name": "Fitness Tracker",
+        "brand": "Fitbit Charge 5",
+        "price": 149.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Wearable Technology"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1b4efb57-16c6-4bfa-adbc-c94c4454e9e2",
+        "name": "Smart Glasses",
+        "brand": "Ray-Ban Stories",
+        "price": 299.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Wearable Technology"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d7c53aa6-e75e-4166-ac36-4118dab5830e",
+        "name": "VR Headset",
+        "brand": "HTC Vive Pro 2",
+        "price": 799.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Wearable Technology"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cff4e856-f707-43c4-825e-6166897d7317",
+        "name": "Smart Ring",
+        "brand": "Oura Ring Gen 3",
+        "price": 299.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Wearable Technology"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e62d6b24-3433-4451-ac98-119ef0d29091",
+        "name": "Sleep Tracker",
+        "brand": "Withings Sleep Analyzer",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Wearable Technology"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a661fb57-661a-4375-95d5-65a82e5fa9fe",
+        "name": "Wearable ECG",
+        "brand": "KardiaMobile 6L",
+        "price": 149.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Wearable Technology"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8ea5eab8-d5bc-418e-a12e-14ce87b0614b",
+        "name": "Smart Headphones",
+        "brand": "Bose Frames Tempo",
+        "price": 249.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Wearable Technology"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e11742f9-7344-4e41-ae84-e47fe3542c97",
+        "name": "AR Glasses",
+        "brand": "Nreal Air",
+        "price": 379.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Wearable Technology"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "28f63c2b-4044-49e9-b16c-d60bb34b208e",
+        "name": "Wearable Camera",
+        "brand": "Insta360 Go 2",
+        "price": 299.99,
+        "salePrice": null,
+        "category": {
+            "electronics": "Wearable Technology"
+        },
+        "inStock": true,
+        "onSale": false
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "id": "532c5e59-53f0-4dd4-aec0-ce40da887aab",
+        "name": "IPA",
+        "brand": "Lagunitas IPA",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Beer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c1f48a3f-0fed-4695-9c17-09a16cbeb71c",
+        "name": "Lager",
+        "brand": "Budweiser",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Beer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4cb4c5af-92b5-412e-a251-b34528444429",
+        "name": "Stout",
+        "brand": "Guinness Draught",
+        "price": 10.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Beer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c05b8d99-584e-4fac-b61d-10591d754295",
+        "name": "Pilsner",
+        "brand": "Stella Artois",
+        "price": 11.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Beer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "58cbf35b-809c-450b-bfd5-4b90b8367238",
+        "name": "Amber Ale",
+        "brand": "Fat Tire Amber",
+        "price": 10.49,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Beer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9257e38b-97e8-4d4c-ae62-fd464a0de2d5",
+        "name": "Hefeweizen",
+        "brand": "Weihenstephaner",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Beer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "03746de1-a5a6-437c-8cb0-3a05b950685d",
+        "name": "Porter",
+        "brand": "Founders Porter",
+        "price": 9.49,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Beer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "90c18aeb-8c3f-4ba0-94e7-815219e154d5",
+        "name": "Light Beer",
+        "brand": "Michelob Ultra",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Beer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2fe1ebe3-921f-496b-a100-176b15b280a9",
+        "name": "Craft Beer",
+        "brand": "Sierra Nevada Pale Ale",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Beer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b297671e-025e-4195-8853-e3b59e466b8f",
+        "name": "Non-Alcoholic Beer",
+        "brand": "Heineken 0.0",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Beer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8135677e-2182-47ec-bd3a-e8c725d71242",
+        "name": "Red Wine",
+        "brand": "Cabernet Sauvignon - Robert Mondavi",
+        "price": 15.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Wine"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c88368b2-4dd1-4299-bfec-57976dbc2f27",
+        "name": "White Wine",
+        "brand": "Chardonnay - Kendall-Jackson",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Wine"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "19b85033-df82-4340-804b-581ea7019723",
+        "name": "Ros\u00e9 Wine",
+        "brand": "Whispering Angel Ros\u00e9",
+        "price": 21.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Wine"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c129a432-fc8d-46fc-b821-63c3233f3413",
+        "name": "Sparkling Wine",
+        "brand": "Mo\u00ebt & Chandon Champagne",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Wine"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4f543d1f-d74a-4f85-afe0-506d46613699",
+        "name": "Pinot Noir",
+        "brand": "Meiomi Pinot Noir",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Wine"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ec1b9960-4de3-4004-9793-9e40c783093a",
+        "name": "Sauvignon Blanc",
+        "brand": "Kim Crawford Sauvignon Blanc",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Wine"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "970959ee-2832-4b96-881f-f73e68bc3917",
+        "name": "Merlot",
+        "brand": "Duckhorn Merlot",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Wine"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "689cadfd-b8d8-40ab-96f1-815040d3fcb2",
+        "name": "Moscato",
+        "brand": "Barefoot Moscato",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Wine"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3c97fc49-1f03-4a20-a536-c603f960637d",
+        "name": "Zinfandel",
+        "brand": "Ravenswood Old Vine Zinfandel",
+        "price": 13.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Wine"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c211fbdd-f6d5-466b-828f-33ceeb7e45e6",
+        "name": "Prosecco",
+        "brand": "La Marca Prosecco",
+        "price": 16.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Wine"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6d5bb0ac-bf9f-4894-aa3e-59d51ed85d73",
+        "name": "Vodka",
+        "brand": "Grey Goose Vodka",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Spirits"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "37b38bd3-3a68-4ded-9196-5ec8c97fc0a4",
+        "name": "Whiskey",
+        "brand": "Jameson Irish Whiskey",
+        "price": 32.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Spirits"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e5a5fe74-49f9-4a5e-8edb-9f7735979b51",
+        "name": "Rum",
+        "brand": "Captain Morgan Spiced Rum",
+        "price": 21.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Spirits"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "de8f31a8-0869-4fd7-88ce-61b5fd64c0ea",
+        "name": "Tequila",
+        "brand": "Patr\u00f3n Silver Tequila",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Spirits"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7983bd4d-4ef1-4ebe-969b-532bdb5de7b5",
+        "name": "Gin",
+        "brand": "Tanqueray London Dry Gin",
+        "price": 26.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Spirits"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "888bf35d-d4d7-4f01-921b-ed77032a5b1e",
+        "name": "Scotch",
+        "brand": "Johnnie Walker Black Label",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Spirits"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "87887d80-50ea-4c76-bc78-749caf25e3e7",
+        "name": "Bourbon",
+        "brand": "Woodford Reserve",
+        "price": 35.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Spirits"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7a4797e8-2d38-473c-8bc4-3684f022de05",
+        "name": "Cognac",
+        "brand": "Hennessy VS",
+        "price": 42.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Spirits"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e61b2efb-1e0f-416a-9ea5-4592baeef84d",
+        "name": "Mezcal",
+        "brand": "Del Maguey Vida Mezcal",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Spirits"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5137e6e6-ad6c-4421-adbd-fba8187a93ee",
+        "name": "Brandy",
+        "brand": "E&J VS Brandy",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Spirits"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "66c4d2ec-92d7-4e3f-9065-d0c8c7b0a1e8",
+        "name": "Tonic Water",
+        "brand": "Fever-Tree Premium Tonic",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Mixers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6f0723e0-0747-487b-a9aa-824a39477f22",
+        "name": "Ginger Beer",
+        "brand": "Q Mixers Ginger Beer",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Mixers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8e574ad0-1336-4bcb-b708-85391ce55b83",
+        "name": "Bloody Mary Mix",
+        "brand": "Zing Zang",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Mixers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "08b3e464-85e0-4ec5-9501-6cf614a31788",
+        "name": "Margarita Mix",
+        "brand": "Master of Mixes Margarita",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Mixers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c5614284-8091-4911-9e82-7eff0a52460e",
+        "name": "Simple Syrup",
+        "brand": "Stirrings Simple Syrup",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Mixers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "12a96ae9-42ed-4cd9-8430-669b82c097cf",
+        "name": "Grenadine",
+        "brand": "Rose\u2019s Grenadine",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Mixers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c302d9a8-bd8e-46ee-8f2e-7f8689011518",
+        "name": "Lime Juice",
+        "brand": "Real Lime Juice",
+        "price": 3.49,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Mixers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8a4b0e54-06df-4012-ad25-95cc5135820c",
+        "name": "Bitters",
+        "brand": "Angostura Aromatic Bitters",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Mixers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9c8764f3-40ee-49b4-8f11-32324d16d3ae",
+        "name": "Club Soda",
+        "brand": "Schweppes Club Soda",
+        "price": 3.49,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Mixers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e52510a2-d941-4bc7-8580-7757a6d84cf1",
+        "name": "Orange Juice",
+        "brand": "Tropicana No Pulp",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Mixers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "76da3a59-7963-4a5c-b721-d66bf70185cc",
+        "name": "Cocktail Shaker",
+        "brand": "OXO Steel Cocktail Shaker",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Bar Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cbae50eb-014e-4bf6-88ea-02d6d201ba53",
+        "name": "Wine Opener",
+        "brand": "Rabbit Automatic Electric Corkscrew",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Bar Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d56d170d-6904-4bf5-ac25-ffc4cb798c54",
+        "name": "Whiskey Glasses",
+        "brand": "Glencairn Whiskey Glass Set",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Bar Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "82727f25-adea-429a-a9da-46c49b33c582",
+        "name": "Ice Cube Tray",
+        "brand": "Tovolo Sphere Ice Molds",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Bar Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bb27da86-70cc-479f-b6db-7dbc06c7ef2b",
+        "name": "Jigger",
+        "brand": "OXO Steel Double Jigger",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Bar Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "40c77856-5a59-4433-9bfc-05b61b5cee92",
+        "name": "Muddler",
+        "brand": "Barfly Stainless Steel Muddler",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Bar Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a0e0698b-c195-4f71-afbb-3669a0931c4e",
+        "name": "Strainer",
+        "brand": "Hawthorne Cocktail Strainer",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Bar Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "af2f68c2-4e66-48ac-bc32-1f666aa9727d",
+        "name": "Beer Glass Set",
+        "brand": "Libbey Craft Beer Glasses",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Bar Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "65d3be6a-90f9-4c17-b640-0ec4a834c409",
+        "name": "Decanter",
+        "brand": "James Scott Crystal Decanter",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Bar Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "723fd84f-49f7-426a-a8ae-f2e6fe298b86",
+        "name": "Wine Aerator",
+        "brand": "Vinturi Red Wine Aerator",
+        "price": 26.99,
+        "salePrice": null,
+        "category": {
+            "beerWineAndSpirits": "Bar Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    }
+]

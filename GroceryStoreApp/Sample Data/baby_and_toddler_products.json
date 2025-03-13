@@ -1,0 +1,602 @@
+[
+    {
+        "id": "54b6a4bd-c0e3-4d92-ae6c-cb845e1a7720",
+        "name": "Disposable Diapers",
+        "brand": "Pampers Swaddlers",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Diapers & Wipes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d8ba3c6a-f922-413f-8d2e-c8a7110ba73d",
+        "name": "Baby Wipes",
+        "brand": "Huggies Natural Care",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Diapers & Wipes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f809a9a3-7c72-4983-add1-d6d0a9fceece",
+        "name": "Cloth Diapers",
+        "brand": "ALVABABY Reusable",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Diapers & Wipes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6106cdee-a7b3-4b45-a601-40f3e9bef3d1",
+        "name": "Diaper Rash Cream",
+        "brand": "Desitin Maximum Strength",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Diapers & Wipes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a5e5341e-3b14-42f4-92f6-b89b3b83551e",
+        "name": "Diaper Pail",
+        "brand": "Ubbi Steel Odor Locking",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Diapers & Wipes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7e50b0f4-880c-481f-af81-642dc5c8335e",
+        "name": "Changing Pad",
+        "brand": "Munchkin Secure Grip",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Diapers & Wipes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "aaea4003-c338-4df6-a888-52cb89e5a8d1",
+        "name": "Diaper Bag",
+        "brand": "Skip Hop Forma",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Diapers & Wipes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "02f7c3ae-695c-4354-b0c7-9a0eed961132",
+        "name": "Wipe Warmer",
+        "brand": "Munchkin Warm Glow",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Diapers & Wipes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c4dccd8c-57e9-46a5-b023-ac8c9e8a2020",
+        "name": "Diaper Caddy",
+        "brand": "Parker Baby Co.",
+        "price": 21.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Diapers & Wipes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8e89c4ea-7b5c-4ae3-b6c5-2622135b984e",
+        "name": "Portable Changing Mat",
+        "brand": "KeaBabies Travel Mat",
+        "price": 16.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Diapers & Wipes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "15296f6f-d4c3-4077-84fe-f88ea661fdef",
+        "name": "Baby Bottles",
+        "brand": "Dr. Brown\u2019s Anti-Colic",
+        "price": 21.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Feeding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b8bd0ac4-e024-4ac7-ab78-29bc9758a126",
+        "name": "High Chair",
+        "brand": "Graco Table2Table",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Feeding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5e7a80af-f47e-4c40-b418-7517254e4c17",
+        "name": "Sippy Cups",
+        "brand": "Munchkin Miracle 360",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Feeding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "024dec41-8716-44b2-95d8-bb6ac893d5e5",
+        "name": "Baby Food Maker",
+        "brand": "BEABA Babycook",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Feeding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5b8495a3-ff18-49d1-b8d9-5a1bc0651daf",
+        "name": "Breast Pump",
+        "brand": "Medela Pump in Style",
+        "price": 199.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Feeding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8c958522-8bbb-4ee9-837d-189103b95240",
+        "name": "Formula Dispenser",
+        "brand": "Philips Avent Formula Dispenser",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Feeding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7490d14f-97f7-4a6f-990c-d40b346b19d8",
+        "name": "Bottle Sterilizer",
+        "brand": "Baby Brezza Electric",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Feeding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7adf21e4-94c8-4d2a-91ba-55de2df1adda",
+        "name": "Silicone Bibs",
+        "brand": "Happy Healthy Parent",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Feeding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7c1a3c93-2a72-454f-bbd1-5a0dc24be4ad",
+        "name": "Teething Toys",
+        "brand": "Nuby Ice Gel Teether",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Feeding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f5550e6d-71c5-460c-b5f9-e7cc09e3ada3",
+        "name": "Snack Catcher",
+        "brand": "Munchkin Snack Catcher",
+        "price": 10.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Feeding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7bc2cdaf-716c-4436-aff2-060c0e240ba9",
+        "name": "Stroller",
+        "brand": "UPPAbaby Vista V2",
+        "price": 999.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Baby Gear"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "964449b3-8a03-4fbf-9a00-22205c5c9a53",
+        "name": "Car Seat",
+        "brand": "Graco 4Ever DLX",
+        "price": 329.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Baby Gear"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e48ccb5d-de7e-4f48-bb15-a9e7055051e1",
+        "name": "Baby Carrier",
+        "brand": "Ergobaby Omni 360",
+        "price": 159.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Baby Gear"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "74020213-c411-475c-bbe9-5267d3054e1a",
+        "name": "Playpen",
+        "brand": "Graco Pack \u2018n Play",
+        "price": 89.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Baby Gear"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "060f77c2-5e8b-4e0e-ae30-35a9e2f37c33",
+        "name": "Baby Swing",
+        "brand": "Fisher-Price Cradle \u2018n Swing",
+        "price": 149.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Baby Gear"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "14192d9b-20ea-4bbc-8b35-f61d1b92780b",
+        "name": "Bouncer",
+        "brand": "BabyBj\u00f6rn Bouncer Bliss",
+        "price": 249.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Baby Gear"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e11482d8-808e-4c3a-90d3-8c069677f707",
+        "name": "Walker",
+        "brand": "Joovy Spoon Walker",
+        "price": 109.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Baby Gear"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e6fdbad7-4898-4a99-88ca-30d48a492242",
+        "name": "Activity Center",
+        "brand": "Skip Hop Explore & More",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Baby Gear"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "54873b66-aebd-42ac-9249-cac9e302675c",
+        "name": "Diaper Backpack",
+        "brand": "RUVALINO Multi-Function",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Baby Gear"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "41fb9d04-9f09-4e00-876d-de76bc094669",
+        "name": "Baby Monitor",
+        "brand": "Infant Optics DXR-8",
+        "price": 159.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Baby Gear"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6c4c43a2-7780-460f-8de7-0bc1e9386bbe",
+        "name": "Crib",
+        "brand": "DaVinci Kalani 4-in-1",
+        "price": 219.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Nursery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "461da2c6-c1e6-43d4-a907-03fe6478c976",
+        "name": "Crib Mattress",
+        "brand": "Graco Premium Foam",
+        "price": 89.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Nursery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a10c3e16-b32d-43a8-880b-e7a78344b130",
+        "name": "Changing Table",
+        "brand": "Delta Children Eclipse",
+        "price": 119.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Nursery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "15da4d98-c747-4892-b8c2-b49302661ab6",
+        "name": "Rocking Chair",
+        "brand": "Storkcraft Premium Glider",
+        "price": 179.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Nursery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d63dfcdb-fe74-488d-a309-261f03f82ae3",
+        "name": "Night Light",
+        "brand": "Hatch Rest Sound Machine",
+        "price": 69.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Nursery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3f17a37b-cd45-4557-bf0f-d7866611e1ed",
+        "name": "Baby Mobile",
+        "brand": "Tiny Love Meadow Days",
+        "price": 44.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Nursery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "07e3f581-4587-4072-8d59-34aea8f8d3c0",
+        "name": "Blackout Curtains",
+        "brand": "NICETOWN Nursery Curtains",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Nursery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ee615bde-94d8-49df-ad3e-307273ba36e0",
+        "name": "Crib Sheets",
+        "brand": "Burt\u2019s Bees Baby Organic",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Nursery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7e4003cb-db1a-4df1-8a81-4e0368ff7e61",
+        "name": "Humidifier",
+        "brand": "Frida Baby 3-in-1 Humidifier",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Nursery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e5b5aa11-3a87-4bf4-bb58-e3a094fafd1a",
+        "name": "Toy Organizer",
+        "brand": "Humble Crew Kids Toy Storage",
+        "price": 69.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Nursery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f602d9cc-4db7-4c8d-951a-8267eb4dde86",
+        "name": "Bodysuits",
+        "brand": "Carter\u2019s Baby 5-Pack",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Toddler Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "df2794b9-e4e0-4400-a528-a7cb8a33aae8",
+        "name": "Pajamas",
+        "brand": "Simple Joys by Carter\u2019s",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Toddler Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a7089f73-ef7c-4ee2-a80e-a07fc511740c",
+        "name": "Socks",
+        "brand": "Gerber Toddler Socks",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Toddler Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c9e8fd61-fa50-404d-aaa0-7a862469a4de",
+        "name": "Shoes",
+        "brand": "Stride Rite Soft Motion",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Toddler Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "16cdbb7c-73b9-4000-af32-1b6aa34258e4",
+        "name": "Jackets",
+        "brand": "Columbia Fleece Toddler Jacket",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Toddler Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6c8a565f-5881-4cd3-b177-edaee8b1c720",
+        "name": "Hats",
+        "brand": "N\u2019Ice Caps Winter Hat & Mittens",
+        "price": 18.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Toddler Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bc213eda-a755-4faa-997b-47d7c1b16e2f",
+        "name": "Swimsuits",
+        "brand": "RuffleButts One-Piece Swimsuit",
+        "price": 26.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Toddler Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e5a06481-da6e-4e8e-948c-f9471e33d2fe",
+        "name": "Gloves",
+        "brand": "Carhartt Toddler Mittens",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Toddler Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b24a3dc4-1d95-425d-a45a-503d63a014a5",
+        "name": "Dresses",
+        "brand": "Carter\u2019s Sleeveless Dress",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Toddler Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2d989300-3431-4cc7-b162-5aa38d0070ca",
+        "name": "Overalls",
+        "brand": "OshKosh B\u2019Gosh Classic Denim",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "babyAndToddler": "Toddler Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    }
+]

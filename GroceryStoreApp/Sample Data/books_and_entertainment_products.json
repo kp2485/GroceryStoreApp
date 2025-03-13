@@ -1,0 +1,482 @@
+[
+    {
+        "id": "b12da6cd-6933-4faa-b78b-f8a1f66d1c06",
+        "name": "Fiction",
+        "brand": "Where the Crawdads Sing - Delia Owens",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Books"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e9f3c070-b1e4-413e-8c16-c3cebfd84462",
+        "name": "Non-Fiction",
+        "brand": "Atomic Habits - James Clear",
+        "price": 16.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Books"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "97a8963f-2086-4e81-9907-3a41596243d7",
+        "name": "Mystery",
+        "brand": "The Silent Patient - Alex Michaelides",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Books"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d087377e-c318-4e57-ab11-8e309825322f",
+        "name": "Fantasy",
+        "brand": "The Hobbit - J.R.R. Tolkien",
+        "price": 10.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Books"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1f9779dc-5cb1-4da1-943f-6155097cd09d",
+        "name": "Science Fiction",
+        "brand": "Dune - Frank Herbert",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Books"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4063ad60-b79e-436b-8efe-ef349919f67c",
+        "name": "Biography",
+        "brand": "Becoming - Michelle Obama",
+        "price": 18.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Books"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e5e29130-f56b-4b14-9086-32c40e69a1c6",
+        "name": "Self-Help",
+        "brand": "The 7 Habits of Highly Effective People - Stephen Covey",
+        "price": 11.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Books"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9243ec5d-4504-4c99-a312-067b95720925",
+        "name": "Children\u2019s Book",
+        "brand": "The Very Hungry Caterpillar - Eric Carle",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Books"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6bca7112-64e9-4101-ab7b-18fce9432889",
+        "name": "Cookbook",
+        "brand": "Salt, Fat, Acid, Heat - Samin Nosrat",
+        "price": 25.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Books"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c6fcdf6e-af71-4c0d-98d9-e4dd4f6c634d",
+        "name": "Graphic Novel",
+        "brand": "Maus - Art Spiegelman",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Books"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "687da46a-b3bc-4aca-b79f-1cb4a168ed61",
+        "name": "Action",
+        "brand": "Top Gun: Maverick (Blu-ray)",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Movies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d881681c-a63b-49c8-8779-b758fc7bfebe",
+        "name": "Comedy",
+        "brand": "Superbad (DVD)",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Movies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d0cf1786-f0f8-4ed3-b53e-252e4ccba5e7",
+        "name": "Drama",
+        "brand": "The Shawshank Redemption (Blu-ray)",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Movies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "614754ac-907a-40dc-98c0-7e3cbd82139e",
+        "name": "Horror",
+        "brand": "It (2017) (DVD)",
+        "price": 11.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Movies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "048ce005-2044-4149-8856-e541c178ffd4",
+        "name": "Family",
+        "brand": "Frozen II (Blu-ray)",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Movies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f6bd6e17-564a-46a2-b52f-ad3e6d53939c",
+        "name": "Sci-Fi",
+        "brand": "Interstellar (4K UHD)",
+        "price": 22.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Movies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "96b8548b-9160-41b6-930d-67136d9b5eea",
+        "name": "Documentary",
+        "brand": "Planet Earth II (Blu-ray)",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Movies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "73baedf1-bbad-4f5e-834f-3bdf91c57633",
+        "name": "Superhero",
+        "brand": "Avengers: Endgame (4K UHD)",
+        "price": 26.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Movies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "41c13c82-168d-4721-9e7f-b97a5387f363",
+        "name": "Romance",
+        "brand": "The Notebook (DVD)",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Movies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "52d2cfdf-605a-4987-b180-45ec8ca4902e",
+        "name": "Classic",
+        "brand": "Casablanca (Blu-ray)",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Movies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "605ce3f0-c40a-47de-8b26-ac35a2fa96d0",
+        "name": "Vinyl Record",
+        "brand": "Abbey Road - The Beatles",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Music"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4ecf56d6-fe8e-4744-9e80-51b387b38481",
+        "name": "CD",
+        "brand": "Midnights - Taylor Swift",
+        "price": 13.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Music"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e77eba32-a30e-4c2a-bce1-fddc97ff962b",
+        "name": "Pop Album",
+        "brand": "Future Nostalgia - Dua Lipa (CD)",
+        "price": 11.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Music"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "074edd68-0405-4892-a03f-f12fbe5d229b",
+        "name": "Rock Album",
+        "brand": "Back in Black - AC/DC (Vinyl)",
+        "price": 27.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Music"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bd092174-98fa-4eb0-a47b-82df3c06049d",
+        "name": "Hip-Hop Album",
+        "brand": "DAMN. - Kendrick Lamar (CD)",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Music"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "06c27c80-8ef7-4cfc-ac9d-18400c73f6d3",
+        "name": "Jazz Album",
+        "brand": "Kind of Blue - Miles Davis (Vinyl)",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Music"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2e7d9965-eb43-4140-9e9b-b8e84b459523",
+        "name": "Soundtrack",
+        "brand": "Guardians of the Galaxy Awesome Mix Vol. 1 (Vinyl)",
+        "price": 22.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Music"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3e1d617f-b179-4750-b640-3bc503fea8c1",
+        "name": "Classical Music",
+        "brand": "Beethoven: Complete Symphonies (CD)",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Music"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7c172f0b-854a-4fce-a7b6-53c6be4f76a7",
+        "name": "Country Album",
+        "brand": "Golden Hour - Kacey Musgraves (Vinyl)",
+        "price": 21.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Music"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5b33a3c4-d33f-41ed-a62b-3bf21cf6c070",
+        "name": "Alternative Rock",
+        "brand": "OK Computer - Radiohead (Vinyl)",
+        "price": 28.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Music"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c753079f-8db4-4ab5-bcf1-39b381c0781e",
+        "name": "PlayStation 5",
+        "brand": "God of War Ragnarok",
+        "price": 69.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9e41dbf6-0d28-45ca-8faa-5ead3dc5fb90",
+        "name": "Xbox Series X",
+        "brand": "Halo Infinite",
+        "price": 59.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "58b1fbaa-60c0-45da-a9cf-a6b9f4110234",
+        "name": "Nintendo Switch",
+        "brand": "The Legend of Zelda: Breath of the Wild",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ff33ccf6-d80a-45b5-95a7-b216f71fe3d0",
+        "name": "PC",
+        "brand": "Elden Ring (Steam Code)",
+        "price": 59.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c58a68b1-f0be-4550-85f1-e7985df621a9",
+        "name": "RPG",
+        "brand": "Final Fantasy VII Remake (PS5)",
+        "price": 69.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "acd0ffb3-7ce7-4e40-843d-cdf513fa2f1b",
+        "name": "Shooter",
+        "brand": "Call of Duty: Modern Warfare II (PS5)",
+        "price": 69.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "47501654-b7fe-4809-9009-1844fd35616c",
+        "name": "Sports",
+        "brand": "FIFA 23 (Xbox Series X)",
+        "price": 59.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "96a0d755-e9a4-4204-96dd-fcc8755cf3d5",
+        "name": "Horror",
+        "brand": "Resident Evil Village (PS5)",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "99052d5c-8c01-44d3-be76-025f3e24a01a",
+        "name": "Indie Game",
+        "brand": "Hollow Knight (Switch)",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2bbe9ee8-28a2-477e-9cf6-7ecefe7711dc",
+        "name": "Multiplayer",
+        "brand": "Mario Kart 8 Deluxe (Switch)",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "booksAndEntertainment": "Video Games"
+        },
+        "inStock": true,
+        "onSale": false
+    }
+]

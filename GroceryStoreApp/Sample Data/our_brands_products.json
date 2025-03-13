@@ -1,0 +1,482 @@
+[
+    {
+        "id": "ad8bbc6e-d863-46a1-abeb-9bb986acf5f7",
+        "name": "Cereal",
+        "brand": "Meijer Honey Nut Toasted Oats",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Meijer Brand Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2c7b20cf-9ece-498a-a9ae-b9d8858aee47",
+        "name": "Peanut Butter",
+        "brand": "Meijer Creamy Peanut Butter",
+        "price": 3.49,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Meijer Brand Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "dde45e1b-27f1-4df0-9ed9-1264c8c92009",
+        "name": "Dish Soap",
+        "brand": "Meijer Ultra Dish Soap",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Meijer Brand Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cf8a29da-58b1-4d7d-ba21-2a95e8b94599",
+        "name": "Paper Towels",
+        "brand": "Meijer Select-A-Size",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Meijer Brand Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c4f56c47-e948-4177-a8e9-05d204e249c3",
+        "name": "Canned Vegetables",
+        "brand": "Meijer Green Beans",
+        "price": 0.79,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Meijer Brand Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "97f59fef-44dc-46d3-8fa8-e1b7af3f49dd",
+        "name": "Frozen Pizza",
+        "brand": "Meijer Rising Crust Pepperoni",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Meijer Brand Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bb19b474-08b2-4a32-bb35-036fec83f72c",
+        "name": "Laundry Detergent",
+        "brand": "Meijer Fresh Scent",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Meijer Brand Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "97b13c49-0246-43f8-b87c-0ace53034736",
+        "name": "Trash Bags",
+        "brand": "Meijer Strong & Tall",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Meijer Brand Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cc58eb51-bdf9-4685-8003-79728e810433",
+        "name": "Apple Juice",
+        "brand": "Meijer 100% Apple Juice",
+        "price": 1.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Meijer Brand Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4a6dc38d-9eff-4463-a581-85a5c065a11d",
+        "name": "Cooking Oil",
+        "brand": "Meijer Vegetable Oil",
+        "price": 3.49,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Meijer Brand Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4e592ba6-8481-4992-9fbd-8affadb577cc",
+        "name": "Gourmet Cheese",
+        "brand": "Frederik's Aged Cheddar",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Frederik's by Meijer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bc49f6a2-8272-4bc5-94fa-4a7fad7530ae",
+        "name": "Chocolate Truffles",
+        "brand": "Frederik's Belgian Truffles",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Frederik's by Meijer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "41274993-bafa-42e2-ad90-8a037cb13250",
+        "name": "Organic Coffee",
+        "brand": "Frederik's Fair Trade Blend",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Frederik's by Meijer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "642fea9d-3db8-4f35-9a18-feff17ca0363",
+        "name": "Pasta Sauce",
+        "brand": "Frederik's Rustic Marinara",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Frederik's by Meijer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "541025f9-5cf9-4ed7-a86c-e62699bdfb58",
+        "name": "Seafood",
+        "brand": "Frederik's Wild Caught Salmon",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Frederik's by Meijer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9e4c5ff7-9dd9-4238-8539-c188eb11e0e1",
+        "name": "Specialty Olive Oil",
+        "brand": "Frederik's Extra Virgin Olive Oil",
+        "price": 10.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Frederik's by Meijer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "649dfc01-fe01-40c7-897a-13d45bf4ecf4",
+        "name": "Craft Soda",
+        "brand": "Frederik's Small Batch Cola",
+        "price": 3.49,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Frederik's by Meijer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1483395a-4327-49ec-ac7f-63e1bdc7cf16",
+        "name": "Premium Ice Cream",
+        "brand": "Frederik's Dark Chocolate Gelato",
+        "price": 5.49,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Frederik's by Meijer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4b64729f-7ca1-4b3b-a53e-18552e64e1f6",
+        "name": "Gourmet Crackers",
+        "brand": "Frederik's Rosemary & Olive",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Frederik's by Meijer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b971629c-9d52-45e2-aedb-dfe1cad255e8",
+        "name": "Premium Wine",
+        "brand": "Frederik's Cabernet Sauvignon",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Frederik's by Meijer"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "aae88e0a-cde9-4379-a190-3d3305dd8e2e",
+        "name": "Organic Almond Milk",
+        "brand": "True Goodness Unsweetened",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "True Goodness"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0d080c37-4598-40d7-81ef-d0e411ba1890",
+        "name": "Organic Oatmeal",
+        "brand": "True Goodness Steel Cut Oats",
+        "price": 4.49,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "True Goodness"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "91066572-bf8e-4672-ab8c-060b815ec946",
+        "name": "Organic Eggs",
+        "brand": "True Goodness Free Range",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "True Goodness"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1178102c-a94e-4a81-804c-15b98a701b88",
+        "name": "Organic Chicken",
+        "brand": "True Goodness Boneless Breast",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "True Goodness"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "56daf9f7-e9c0-4c80-b194-2f341f31b859",
+        "name": "Organic Yogurt",
+        "brand": "True Goodness Vanilla Greek",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "True Goodness"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8590c806-c8cd-4834-9a6c-3b4a351ef6f3",
+        "name": "Organic Apple Cider Vinegar",
+        "brand": "True Goodness Unfiltered",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "True Goodness"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2805f560-b422-4637-a780-e4b0a7f1af6b",
+        "name": "Organic Granola",
+        "brand": "True Goodness Honey & Oats",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "True Goodness"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5939a1fe-6630-4f17-9d67-2fdde352bfaa",
+        "name": "Organic Peanut Butter",
+        "brand": "True Goodness Creamy",
+        "price": 5.49,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "True Goodness"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f07f65de-ab03-410f-97a8-c9db5fd8a415",
+        "name": "Organic Frozen Berries",
+        "brand": "True Goodness Mixed Berries",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "True Goodness"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "80ed6c51-4126-4fdf-a0f3-fefbe1ef45a1",
+        "name": "Organic Whole Wheat Bread",
+        "brand": "True Goodness 100% Whole Grain",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "True Goodness"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6866d5b1-7cc9-4e94-b888-f5ec5f47b1d0",
+        "name": "Ice Cream",
+        "brand": "Purple Cow Mint Chocolate Chip",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Purple Cow"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1f96f499-2733-4aa5-89ac-6b4e23deee37",
+        "name": "Frozen Yogurt",
+        "brand": "Purple Cow Vanilla Bean",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Purple Cow"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ca133f9c-e7d5-40f8-8367-d9ff6fb9d371",
+        "name": "Ice Cream Sandwiches",
+        "brand": "Purple Cow Classic",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Purple Cow"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9eda1ff1-38f5-4f68-9ff5-25ed7834e18b",
+        "name": "Popsicles",
+        "brand": "Purple Cow Fruit Bars",
+        "price": 3.49,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Purple Cow"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ca624843-ed3b-4c47-b4a0-87de8da69413",
+        "name": "Chocolate Ice Cream",
+        "brand": "Purple Cow Dutch Chocolate",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Purple Cow"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "45084b53-e3de-414b-9d3c-c70d723e399a",
+        "name": "Cookie Dough Ice Cream",
+        "brand": "Purple Cow Loaded Cookie Dough",
+        "price": 4.49,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Purple Cow"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ad71dd7e-c188-4862-b567-58c49062245e",
+        "name": "Sherbet",
+        "brand": "Purple Cow Rainbow Sherbet",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Purple Cow"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4ed9ef64-1111-416c-b031-1b240b57aa3e",
+        "name": "Non-Dairy Ice Cream",
+        "brand": "Purple Cow Almond Milk Vanilla",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Purple Cow"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cf84a0ce-a004-4da6-9d8c-106385aa4e89",
+        "name": "Moose Tracks Ice Cream",
+        "brand": "Purple Cow Original Moose Tracks",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Purple Cow"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5a025f51-9ddc-45ae-832f-19acdd540b32",
+        "name": "Ice Cream Cones",
+        "brand": "Purple Cow Sugar Cones",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "ourBrands": "Purple Cow"
+        },
+        "inStock": true,
+        "onSale": false
+    }
+]

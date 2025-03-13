@@ -1,0 +1,602 @@
+[
+    {
+        "id": "2aaf61f0-4793-40a2-ada5-3bdb1c0ccc47",
+        "name": "T-Shirt",
+        "brand": "Hanes Crew Neck 5-Pack",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Men's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "13423768-cd67-4f43-8b69-6e3fb169930e",
+        "name": "Jeans",
+        "brand": "Levi's 511 Slim Fit",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Men's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e8856125-34c3-4de4-81ac-29e52f6564ae",
+        "name": "Hoodie",
+        "brand": "Champion Powerblend Fleece",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Men's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "72c0b3c4-39cf-4b47-8cdf-22a344a42653",
+        "name": "Dress Shirt",
+        "brand": "Van Heusen Classic Fit",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Men's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9f7b94a6-33f8-46f0-a812-1d9907e66362",
+        "name": "Joggers",
+        "brand": "Nike Sportswear Club",
+        "price": 44.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Men's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "67f5a5be-d803-48c7-b148-edf89e1ede6a",
+        "name": "Winter Jacket",
+        "brand": "Columbia Whirlibird IV",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Men's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "80cc5cf3-b9b5-41cd-a34a-5d06b47b8113",
+        "name": "Sweater",
+        "brand": "Tommy Hilfiger V-Neck",
+        "price": 54.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Men's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "aab6a2d1-d96d-46d0-a190-8404ce866d32",
+        "name": "Shorts",
+        "brand": "Adidas Essentials 3-Stripes",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Men's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2c26202a-aa2a-4c28-905b-af135aab2b7f",
+        "name": "Suit",
+        "brand": "Calvin Klein Slim Fit",
+        "price": 199.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Men's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a16f83ff-23fc-4a29-b643-453b4e5e87c5",
+        "name": "Tank Tops",
+        "brand": "Fruit of the Loom 6-Pack",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Men's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7a78d2d3-0493-4c25-8e5e-2fa10992ad0e",
+        "name": "Leggings",
+        "brand": "Lululemon Align High-Rise",
+        "price": 98.0,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Women's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e9cf8b93-3e03-43da-96eb-ebe84b4892f4",
+        "name": "Blouse",
+        "brand": "Anne Klein Chiffon Blouse",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Women's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c5703a12-aeab-44fa-877d-5e2e1a9387a5",
+        "name": "Denim Jacket",
+        "brand": "Levi\u2019s Original Trucker",
+        "price": 69.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Women's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0ad8f5ff-04b9-43ea-9c76-5ca1021cac00",
+        "name": "Maxi Dress",
+        "brand": "ZESICA Bohemian Floral",
+        "price": 32.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Women's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2cadbc87-549f-44ba-b62a-f91ee9d5dcaa",
+        "name": "Pajama Set",
+        "brand": "Ekouaer Satin Sleepwear",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Women's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ebc133a1-729a-4bd5-ba24-518feb79d7bf",
+        "name": "Sweatpants",
+        "brand": "Nike Sportswear Club Fleece",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Women's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3e2aad88-161b-41f8-8d80-5b86c0848a83",
+        "name": "Winter Coat",
+        "brand": "Columbia Heavenly Hooded Jacket",
+        "price": 119.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Women's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0d4baf9a-cd9d-4a30-9a43-50f17e2e9157",
+        "name": "Sports Bra",
+        "brand": "Under Armour Crossback",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Women's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c097ad8e-bedb-47d6-925d-25ac914893c6",
+        "name": "Tunic Top",
+        "brand": "Daily Ritual Soft Rayon",
+        "price": 22.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Women's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9be07fbf-e455-4224-8091-c0fc00c4db20",
+        "name": "Skirt",
+        "brand": "GRACE KARIN High Waist",
+        "price": 28.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Women's Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "866ff8e4-202e-4aed-a3c7-a394ccde009d",
+        "name": "Graphic Tee",
+        "brand": "The Children's Place Boys' T-Shirt",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Kids' Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a991119d-2a4a-41a4-9fce-2de11c803349",
+        "name": "Jeans",
+        "brand": "OshKosh B'gosh Skinny Fit",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Kids' Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bfe36ee0-d128-412a-a8a6-94caaf87799c",
+        "name": "Hoodie",
+        "brand": "Nike Youth Club Fleece",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Kids' Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c69cd596-fc5d-4646-a615-256779f1404f",
+        "name": "Pajamas",
+        "brand": "Carter's 3-Piece PJ Set",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Kids' Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1fafa864-fe99-49b0-868c-79f67612d8da",
+        "name": "Jacket",
+        "brand": "Columbia Kids' Fleece",
+        "price": 44.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Kids' Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0a4fc79f-e573-4e45-bf97-5adbe2a91800",
+        "name": "Dress",
+        "brand": "Hope & Henry Girls' Organic Dress",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Kids' Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b44003f1-770e-4170-8d8c-982bdabd6bc9",
+        "name": "Sweatpants",
+        "brand": "Adidas Boys' Essentials",
+        "price": 21.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Kids' Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d7e0b0a5-b687-4005-8ba9-62b6c4d61fb7",
+        "name": "Shorts",
+        "brand": "Under Armour Kids' Mesh",
+        "price": 16.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Kids' Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "06db599c-d8fb-419a-82c8-c0149d9603cf",
+        "name": "Overalls",
+        "brand": "OshKosh B'gosh Classic",
+        "price": 27.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Kids' Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "43eb4b05-04dd-47f7-b041-ac5830cb0a03",
+        "name": "Raincoat",
+        "brand": "Western Chief Kids' Raincoat",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Kids' Clothing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "82ac660d-c6b7-47ca-a752-7d47d283acc9",
+        "name": "Running Shoes",
+        "brand": "Nike Air Zoom Pegasus 39",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Shoes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d60b1094-180d-4a10-84c9-b3f685bbfccc",
+        "name": "Casual Sneakers",
+        "brand": "Adidas Stan Smith",
+        "price": 89.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Shoes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9c7ee6ca-fe1d-4ef5-8b18-15efcd626a59",
+        "name": "Boots",
+        "brand": "Timberland Men's Waterproof",
+        "price": 149.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Shoes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "31e3981f-43c0-42f9-b13a-72131256e38f",
+        "name": "Dress Shoes",
+        "brand": "Clarks Tilden Cap Oxford",
+        "price": 74.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Shoes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "fee64730-60c0-4ca5-9ad4-30c1ae71e7a8",
+        "name": "Sandals",
+        "brand": "Birkenstock Arizona Soft Footbed",
+        "price": 134.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Shoes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "dc19765f-dd5a-4087-957b-c42509c01b5b",
+        "name": "Hiking Shoes",
+        "brand": "Merrell Moab 3",
+        "price": 109.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Shoes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "813b736d-48f7-4267-b628-f4c58695e88e",
+        "name": "Basketball Shoes",
+        "brand": "Air Jordan 1 Mid",
+        "price": 124.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Shoes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b9034796-035e-4ff8-aa61-3f9e6a09a669",
+        "name": "Slippers",
+        "brand": "UGG Scuff Slippers",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Shoes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "53d91491-5e3f-4ab8-a44d-9166651f291f",
+        "name": "Rain Boots",
+        "brand": "Hunter Original Tall",
+        "price": 165.0,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Shoes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c8ce7ef9-6b4b-4ea1-8e9b-8bc4f4f3899f",
+        "name": "Kids' Sneakers",
+        "brand": "Skechers Energy Lights",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Shoes"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "687ed4c8-cdd7-43c0-bfc1-1dc15321fa86",
+        "name": "Sunglasses",
+        "brand": "Ray-Ban Aviator Classic",
+        "price": 154.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "24e6ec46-4a8e-4103-90b3-e5a74304ffb5",
+        "name": "Backpack",
+        "brand": "Herschel Little America",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e0ca4efe-9fd9-4b54-b3f7-13632e6c5268",
+        "name": "Watch",
+        "brand": "Casio G-Shock DW5600",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "89fa8deb-4a38-4c4b-bc77-b6fdb1bf45c4",
+        "name": "Wallet",
+        "brand": "Fossil Men's Leather Bifold",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f00c070d-fe22-4137-af43-d651e767f55e",
+        "name": "Baseball Cap",
+        "brand": "New Era 59FIFTY Fitted",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2868b09f-c275-4c21-905b-dd60a25cbb47",
+        "name": "Handbag",
+        "brand": "Michael Kors Jet Set",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "56eb63dc-8da7-459f-b6b8-f43686138df6",
+        "name": "Scarf",
+        "brand": "Burberry Classic Check",
+        "price": 179.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cfe88b72-8e47-4d93-9c37-fabc9e5b20d9",
+        "name": "Gloves",
+        "brand": "Carhartt Insulated Work Gloves",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4394cce3-84fb-4ff2-8f76-47613c3644b3",
+        "name": "Earrings",
+        "brand": "Swarovski Crystal Studs",
+        "price": 69.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "49fd158a-56bc-4c0f-8b4e-3bc708e1a574",
+        "name": "Belt",
+        "brand": "Dockers Leather Belt",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "clothingShoesAndAccessories": "Accessories"
+        },
+        "inStock": true,
+        "onSale": false
+    }
+]

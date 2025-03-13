@@ -1,0 +1,482 @@
+[
+    {
+        "id": "7688911f-afa5-4d24-8b02-32afbccd9926",
+        "name": "Birthday Card",
+        "brand": "Hallmark Signature Collection",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Greeting Cards"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e9a03789-ec69-417d-a6de-cd6914bc9bcf",
+        "name": "Anniversary Card",
+        "brand": "Papyrus Handmade Card",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Greeting Cards"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9c08919d-2a29-404e-872e-783f019fa82e",
+        "name": "Thank You Card",
+        "brand": "American Greetings Thank You Pack",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Greeting Cards"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ae3628ab-b4db-4977-a4d3-9d0b1c9354b7",
+        "name": "Sympathy Card",
+        "brand": "Hallmark Sympathy Card",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Greeting Cards"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e8316c91-44e2-4e23-8adf-b585b0d76009",
+        "name": "Wedding Card",
+        "brand": "Papyrus Wedding Wishes",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Greeting Cards"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "006b72dd-62b5-434a-8a9d-1a8c9f778131",
+        "name": "Baby Shower Card",
+        "brand": "American Greetings Baby Congrats",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Greeting Cards"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7040ae1f-bf04-4a7d-957c-b1e352d55ec1",
+        "name": "Graduation Card",
+        "brand": "Hallmark Congrats Grad",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Greeting Cards"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "fc4d4953-f874-49f0-a7d6-ee910fc55b7d",
+        "name": "Christmas Card",
+        "brand": "Hallmark Holiday 12-Pack",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Greeting Cards"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "363fd899-4ea0-453a-b6cf-d9711cd15cf3",
+        "name": "Valentine's Day Card",
+        "brand": "Papyrus Romantic Card",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Greeting Cards"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "43f4a027-d314-458c-8a0c-27954db5aed5",
+        "name": "Get Well Soon Card",
+        "brand": "Hallmark Healing Thoughts",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Greeting Cards"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "271cb885-02d0-4ee3-a602-6d1b0ef3099c",
+        "name": "Wrapping Paper",
+        "brand": "American Greetings Multi-Pack",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Gift Wrap"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9fe1e0fd-1e63-43b0-a4a3-6290f15bfe7f",
+        "name": "Gift Bags",
+        "brand": "Hallmark Assorted Sizes 5-Pack",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Gift Wrap"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d0aae943-5845-4aff-9099-499461fa4951",
+        "name": "Tissue Paper",
+        "brand": "American Greetings White & Colored",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Gift Wrap"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "35a88eba-eca5-42b3-8286-a8e0ed65e886",
+        "name": "Gift Box",
+        "brand": "Hallmark Elegant Gift Box",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Gift Wrap"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b0cad773-e7c6-4073-8f3c-47b1cc170c10",
+        "name": "Ribbon & Bows",
+        "brand": "Papyrus Luxury Ribbon Set",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Gift Wrap"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "739921e7-a94e-46b0-a4b9-67b502772dcd",
+        "name": "Gift Tags",
+        "brand": "Hallmark Holiday Gift Tags",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Gift Wrap"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8ec41fa3-2a44-43cf-a6aa-28a2d4336545",
+        "name": "Clear Gift Wrap",
+        "brand": "Flexicore Cellophane Wrap",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Gift Wrap"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5726d7b7-c6f6-49c2-9cb2-cf9b841d16f7",
+        "name": "Kraft Paper Roll",
+        "brand": "DIY Wrapping Kraft Roll",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Gift Wrap"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "de07e19b-815a-4a3e-9076-2b96bc061bd0",
+        "name": "Decorative Gift Tins",
+        "brand": "Christmas Metal Gift Tins 3-Pack",
+        "price": 10.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Gift Wrap"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5997e848-1040-4143-87a2-6d6964efc076",
+        "name": "Foil Gift Wrap",
+        "brand": "Premium Gold & Silver Foil Wrap",
+        "price": 11.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Gift Wrap"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "81114044-7b55-489e-a2b7-615ab60cf7d0",
+        "name": "Disposable Plates",
+        "brand": "Dixie Ultra Heavy Duty",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Party Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6d9fc474-003d-4c41-bf8a-d68ef9545eb0",
+        "name": "Plastic Cups",
+        "brand": "Solo Red Party Cups 50-Pack",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Party Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9a3992d3-b797-4811-bb57-3902c61d266d",
+        "name": "Party Napkins",
+        "brand": "Hallmark Celebration Napkins",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Party Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "421a9c13-66e4-435c-8ec0-4fac952e1bc4",
+        "name": "Tablecloth",
+        "brand": "Creative Converting Plastic Table Cover",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Party Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7ea69fee-7c1b-41c0-ac33-5d13c197078d",
+        "name": "Confetti",
+        "brand": "Amscan Metallic Confetti",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Party Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0d797752-b54b-4013-a89a-49e4abb9d4f0",
+        "name": "Party Hats",
+        "brand": "Fun Express Birthday Party Hats",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Party Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5554a5b8-7e54-4d68-b96f-5ab3f11761d0",
+        "name": "Cake Toppers",
+        "brand": "Wilton Happy Birthday Topper",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Party Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4df37813-a417-4716-89e7-1aac04c7b912",
+        "name": "Streamers",
+        "brand": "Crepe Paper Streamers Multi-Pack",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Party Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d2507b30-5b92-44c7-bbef-a8817fd4b476",
+        "name": "Pinata",
+        "brand": "Large Rainbow Donkey Pinata",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Party Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9384165a-18b5-4f70-a7b0-bf0145b17bd3",
+        "name": "Party Favor Bags",
+        "brand": "American Greetings Favor Bags",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Party Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "07ccbe46-7c15-4541-92d2-9618546150e2",
+        "name": "Helium Tank",
+        "brand": "Balloon Time 50-Helium Kit",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Balloons"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c63a66e0-c342-4f45-ae81-6f25cb35aa5a",
+        "name": "Latex Balloons",
+        "brand": "Qualatex Assorted 100-Pack",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Balloons"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b114ee1d-d80a-4494-a05a-6ef6bbab5238",
+        "name": "Foil Balloons",
+        "brand": "Anagram Happy Birthday Foil",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Balloons"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f36dadfd-0554-41ac-a1e8-ca3e5d1e2461",
+        "name": "Number Balloons",
+        "brand": "Gold Jumbo 34-Inch Balloon",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Balloons"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "98bec354-2686-4d1a-88a3-3d2c0d630a93",
+        "name": "Balloon Arch Kit",
+        "brand": "LUOEM DIY Balloon Arch Set",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Balloons"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "73b8491c-9c82-430e-bd35-e02feb872a24",
+        "name": "Confetti Balloons",
+        "brand": "Amscan Clear Confetti Balloons",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Balloons"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "82c37f96-e487-47b8-993c-03806c45630f",
+        "name": "LED Balloons",
+        "brand": "Glow Party LED Balloons 12-Pack",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Balloons"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "fb738f17-2d96-48b9-b40f-555d7c8a0734",
+        "name": "Water Balloons",
+        "brand": "Bunch O Balloons Quick Fill 100-Pack",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Balloons"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "53eb8583-1b27-4f85-8600-b1077679947d",
+        "name": "Balloon Weight",
+        "brand": "Anagram Balloon Weights 10-Pack",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Balloons"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "046e9ce1-f3d2-4aa6-b18d-37b73a82e2eb",
+        "name": "Custom Message Balloon",
+        "brand": "Personalized Custom Balloon",
+        "price": 15.99,
+        "salePrice": null,
+        "category": {
+            "cardAndParty": "Balloons"
+        },
+        "inStock": true,
+        "onSale": false
+    }
+]

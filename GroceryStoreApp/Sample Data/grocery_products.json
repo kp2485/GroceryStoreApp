@@ -1,0 +1,1542 @@
+[
+    {
+        "id": "04504bc0-702a-4278-8be4-0e3b5984cb21",
+        "name": "Bananas",
+        "brand": "Dole",
+        "price": 0.59,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Fruits"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2d707cd2-8d5c-4a74-8de7-ef8a2eb5e374",
+        "name": "Apples",
+        "brand": "Honeycrisp",
+        "price": 1.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Fruits"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5a8aa2f7-099d-4d19-bf7d-c5164b72c93b",
+        "name": "Oranges",
+        "brand": "Sunkist",
+        "price": 1.49,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Fruits"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f47ac760-306c-40dd-8aa0-bb7630d8481a",
+        "name": "Grapes",
+        "brand": "Red Seedless",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Fruits"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4ca54bc5-36fb-4d18-ad57-62c81c80bd4a",
+        "name": "Blueberries",
+        "brand": "Driscoll's",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Fruits"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5255a506-e5ce-46ed-8b49-9ab5f385066d",
+        "name": "Strawberries",
+        "brand": "Driscoll's",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Fruits"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8632e49c-98d0-4b6b-ad38-12586be9e121",
+        "name": "Mangoes",
+        "brand": "Ataulfo",
+        "price": 1.89,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Fruits"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f0fbec67-a1b8-436b-9edb-739b02408db9",
+        "name": "Peaches",
+        "brand": "Georgia Peaches",
+        "price": 2.49,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Fruits"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "44363798-c214-4bc3-a950-a5abf67ee259",
+        "name": "Pineapple",
+        "brand": "Dole",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Fruits"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "fcb2308b-21aa-4f74-9706-c580bf6fcb88",
+        "name": "Watermelon",
+        "brand": "Seedless",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Fruits"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "37b13814-7e8a-4dad-8149-e33cf53e85b2",
+        "name": "Carrots",
+        "brand": "Bolthouse Farms",
+        "price": 1.29,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Vegetables"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7e2cecd2-daa2-4209-b68e-83256fe08271",
+        "name": "Broccoli",
+        "brand": "Organic",
+        "price": 2.49,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Vegetables"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c00975b0-9249-48e0-ac98-c9c641031ad7",
+        "name": "Spinach",
+        "brand": "Earthbound Farm",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Vegetables"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "fb634c83-0c20-4a34-a3d9-54ab6e4772dc",
+        "name": "Lettuce",
+        "brand": "Romaine Hearts",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Vegetables"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "291c5553-9016-4b7d-9226-d31635a947c6",
+        "name": "Bell Peppers",
+        "brand": "Tricolor",
+        "price": 3.49,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Vegetables"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "463cb752-4ff8-4175-a5d0-2e9fe224ecc3",
+        "name": "Cucumbers",
+        "brand": "Seedless",
+        "price": 1.49,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Vegetables"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "db1d89d1-98a5-4212-87c7-15b7acd9eff3",
+        "name": "Potatoes",
+        "brand": "Russet",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Vegetables"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "97fdce1f-4c81-4575-99cd-b2683b75b64e",
+        "name": "Tomatoes",
+        "brand": "Roma",
+        "price": 1.89,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Vegetables"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3eb1549a-8a3d-40a3-b11c-875cc9820b56",
+        "name": "Onions",
+        "brand": "Sweet Yellow",
+        "price": 1.49,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Vegetables"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2619c45a-794e-4c02-8c8a-5e43f36d96ab",
+        "name": "Garlic",
+        "brand": "Fresh Whole",
+        "price": 0.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Vegetables"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d43309bf-a284-4b4a-bf3f-1a0e647ccbd3",
+        "name": "Rotisserie Chicken",
+        "brand": "Meijer Deli",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Prepared Foods"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6c87fd91-1a1f-4bdb-8e95-95c4b9200a62",
+        "name": "Mac & Cheese",
+        "brand": "Stouffer's",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Prepared Foods"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2011e3e8-4ba8-45f2-8da3-29cb73cd5b30",
+        "name": "Pasta Salad",
+        "brand": "Deli Fresh",
+        "price": 5.49,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Prepared Foods"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a82e9857-2ddc-4bd6-80a6-f54cf160d6bd",
+        "name": "Sushi Roll",
+        "brand": "California Roll",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Prepared Foods"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f07230fb-37fc-42c5-9dbe-21959399bf15",
+        "name": "Chicken Tenders",
+        "brand": "Meijer Deli",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Prepared Foods"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "55bf0a12-5657-4743-a063-0035228cb164",
+        "name": "Mashed Potatoes",
+        "brand": "Bob Evans",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Prepared Foods"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1166c36a-9e13-46fb-9049-f5f1573cc476",
+        "name": "Lasagna",
+        "brand": "Stouffer's Family Size",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Prepared Foods"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "366e0872-7070-4202-95e4-be36d85b0f28",
+        "name": "Caesar Salad",
+        "brand": "Deli Fresh",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Prepared Foods"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "95ce3fe7-0a77-435c-ab4e-beb9015344cc",
+        "name": "Meatloaf",
+        "brand": "Boston Market",
+        "price": 6.49,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Prepared Foods"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "349145a0-bd08-440f-b6c3-57539a36c350",
+        "name": "Grilled Vegetables",
+        "brand": "Meijer Fresh",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Prepared Foods"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e7630d34-1112-4828-8afe-66a120ccd6a5",
+        "name": "Sliced Turkey",
+        "brand": "Boar's Head",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Deli"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "301adebb-49d4-4737-a131-e1957c482fa7",
+        "name": "Sliced Ham",
+        "brand": "Oscar Mayer",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Deli"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b4f86482-1d98-4c19-9740-da228fe9fdb9",
+        "name": "Sliced Roast Beef",
+        "brand": "Hillshire Farm",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Deli"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b79b9a46-89b5-4b41-928b-fa35f07802da",
+        "name": "Salami",
+        "brand": "Genoa",
+        "price": 7.49,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Deli"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9c295b8d-56b3-42fd-bf9d-45ab23c071ff",
+        "name": "Pepperoni",
+        "brand": "Hormel",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Deli"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5fcb083e-791e-4321-9950-0a0dfdfaefa6",
+        "name": "Swiss Cheese",
+        "brand": "Boar's Head",
+        "price": 6.49,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Deli"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e265e993-37f5-4bf9-9019-58b410189fac",
+        "name": "Cheddar Cheese",
+        "brand": "Tillamook",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Deli"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "222c68d8-b7a5-4ce0-a0d6-d7b2d3966415",
+        "name": "Provolone Cheese",
+        "brand": "Sargento",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Deli"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9a6ee5eb-9a03-4656-b092-70ce3b0edcd5",
+        "name": "Mozzarella Cheese",
+        "brand": "Galbani",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Deli"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "75ff4abe-35ed-40e6-aa34-7b1b72d01ae6",
+        "name": "Colby Jack Cheese",
+        "brand": "Kraft",
+        "price": 4.49,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Deli"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ee5268a1-9f34-4941-b56f-0c44ed0803e0",
+        "name": "Red Roses",
+        "brand": "Meijer Floral",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Floral"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ba6dd5c2-63b4-4776-a0d4-4e86dabc7708",
+        "name": "Sunflowers",
+        "brand": "Local Farm",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Floral"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0e9bb7ff-5f46-45fd-83e4-ee2a9f361b7c",
+        "name": "Tulips",
+        "brand": "Dutch Import",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Floral"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1c087584-aa48-40d0-b001-03712a4504bc",
+        "name": "Orchids",
+        "brand": "Phalaenopsis",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Floral"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c3f150fa-01b3-4427-857f-30706825990e",
+        "name": "Lilies",
+        "brand": "Easter Lily",
+        "price": 10.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Floral"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6b7fca4b-b61d-4736-80ec-3e4d447be1c3",
+        "name": "Daisies",
+        "brand": "Meijer Floral",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Floral"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e7c13ddd-857e-484b-a669-b728f171abb0",
+        "name": "Carnations",
+        "brand": "Mixed Bouquet",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Floral"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b6214734-61fa-47dc-b95f-4bd4b26a6925",
+        "name": "Succulents",
+        "brand": "Assorted Varieties",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Floral"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "60df25f4-c279-48ae-9389-b08f40155955",
+        "name": "Potted Fern",
+        "brand": "Boston Fern",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Floral"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "772e4eb9-96fa-4bb8-9997-2aad08da9120",
+        "name": "Hydrangeas",
+        "brand": "Blue Hydrangea",
+        "price": 11.99,
+        "salePrice": null,
+        "category": {
+            "grocery": {
+                "freshProduce": "Floral"
+            }
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0e5f781b-76ac-4f61-a2a8-a62f86aad54d",
+        "name": "Milk",
+        "brand": "Organic Valley",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Dairy & Eggs"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "04e9ad77-ac17-4e3f-a0a4-8e1085bc6a0f",
+        "name": "Eggs",
+        "brand": "Eggland's Best",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Dairy & Eggs"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "24ccb18c-a229-45aa-a82c-5f4e1c1cf57f",
+        "name": "Cheese",
+        "brand": "Kraft Cheddar",
+        "price": 4.49,
+        "salePrice": null,
+        "category": {
+            "grocery": "Dairy & Eggs"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "75f3a0ff-d364-436a-b781-65c355f62ac5",
+        "name": "Butter",
+        "brand": "Land O'Lakes",
+        "price": 3.79,
+        "salePrice": null,
+        "category": {
+            "grocery": "Dairy & Eggs"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a4dc38e0-0ab0-46c3-a43a-7a3021c96cb2",
+        "name": "Yogurt",
+        "brand": "Chobani Greek",
+        "price": 1.29,
+        "salePrice": null,
+        "category": {
+            "grocery": "Dairy & Eggs"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "de66c485-0c5d-423c-957d-99570e9f3377",
+        "name": "Cream",
+        "brand": "Horizon Organic",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Dairy & Eggs"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bca51ee5-00a1-49d7-8828-ef322aaa8b05",
+        "name": "Cottage Cheese",
+        "brand": "Daisy",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Dairy & Eggs"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "140c749a-ac2d-456e-b379-5931301d12e0",
+        "name": "Sour Cream",
+        "brand": "Daisy",
+        "price": 2.29,
+        "salePrice": null,
+        "category": {
+            "grocery": "Dairy & Eggs"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "db4d2177-21df-446c-b5de-9e7607ddb55c",
+        "name": "Heavy Whipping Cream",
+        "brand": "Great Value",
+        "price": 4.59,
+        "salePrice": null,
+        "category": {
+            "grocery": "Dairy & Eggs"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2eb44874-114a-4fec-bf3f-5adcccfebbe8",
+        "name": "Almond Milk",
+        "brand": "Silk",
+        "price": 3.49,
+        "salePrice": null,
+        "category": {
+            "grocery": "Dairy & Eggs"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2652bf40-e7b1-49cc-9478-3a0ba4bed88e",
+        "name": "Bread",
+        "brand": "Nature's Own",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Bakery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cf03a8c1-0354-4476-8767-0856d6771bc2",
+        "name": "Bagels",
+        "brand": "Thomas' Plain",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Bakery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "90abdac8-bfa2-4251-949d-bb6f7e37cc0d",
+        "name": "Croissants",
+        "brand": "La Boulangerie",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Bakery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e8095f95-9611-412d-a14e-ee9760ffaaa6",
+        "name": "Muffins",
+        "brand": "Otis Spunkmeyer",
+        "price": 4.49,
+        "salePrice": null,
+        "category": {
+            "grocery": "Bakery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f3a9917e-4a5c-4ec8-be9d-1ab308a72461",
+        "name": "Dinner Rolls",
+        "brand": "King's Hawaiian",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Bakery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "046d6a87-3bc6-4e84-8461-9c232000f8a3",
+        "name": "Cake",
+        "brand": "Sara Lee",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Bakery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e7b8a1a2-b376-4cf2-ab52-6ddeacdca449",
+        "name": "Donuts",
+        "brand": "Krispy Kreme",
+        "price": 6.49,
+        "salePrice": null,
+        "category": {
+            "grocery": "Bakery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3a94462a-3d59-4a39-b76c-70b0f6a12c11",
+        "name": "Pies",
+        "brand": "Marie Callender's Apple",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Bakery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "826b280c-9311-4aab-be6e-9ac0cfd23cbb",
+        "name": "Cookies",
+        "brand": "Tate's Bake Shop",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Bakery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bea32b16-905a-4cc3-9025-f7eff1494b02",
+        "name": "Brownies",
+        "brand": "Little Debbie",
+        "price": 3.79,
+        "salePrice": null,
+        "category": {
+            "grocery": "Bakery"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "20416ec7-f530-48e8-acf2-5228f76edcec",
+        "name": "Chicken Breast",
+        "brand": "Perdue",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Meat & Seafood"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cf72a071-406f-4eb2-b228-e9e60beb29d1",
+        "name": "Ground Beef",
+        "brand": "Certified Angus",
+        "price": 5.49,
+        "salePrice": null,
+        "category": {
+            "grocery": "Meat & Seafood"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d22e8d4f-b7df-4fa2-bf19-11a4814a2400",
+        "name": "Salmon",
+        "brand": "Norwegian Atlantic",
+        "price": 10.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Meat & Seafood"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5885baa9-75e8-48e4-9551-483eca250f22",
+        "name": "Shrimp",
+        "brand": "Jumbo Wild Caught",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Meat & Seafood"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9b5c14d7-f2eb-41f6-9030-2fc8eef42b09",
+        "name": "Bacon",
+        "brand": "Oscar Mayer",
+        "price": 7.49,
+        "salePrice": null,
+        "category": {
+            "grocery": "Meat & Seafood"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "66db5d42-62b0-418c-8510-8f7da6696772",
+        "name": "Sausage",
+        "brand": "Johnsonville Brats",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Meat & Seafood"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a4e53d27-5574-44a1-a8ac-baddf7430f30",
+        "name": "Turkey",
+        "brand": "Butterball",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Meat & Seafood"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c10d4d1c-0101-4716-a0f8-28deee322c0a",
+        "name": "Lobster Tail",
+        "brand": "Maine",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Meat & Seafood"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c6b00905-d3ea-4d5a-820b-1f4f483a20ea",
+        "name": "Steak",
+        "brand": "Ribeye USDA Prime",
+        "price": 15.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Meat & Seafood"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e9968b87-ad54-4f06-81f4-4a4a77c9bae9",
+        "name": "Tilapia",
+        "brand": "Freshwater",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Meat & Seafood"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f0c2843d-94ac-4f35-a7fd-e5a088d588e7",
+        "name": "Pasta",
+        "brand": "Barilla Spaghetti",
+        "price": 1.49,
+        "salePrice": null,
+        "category": {
+            "grocery": "Pantry"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "eb910570-d9fd-4e61-b482-eadfc82d608a",
+        "name": "Rice",
+        "brand": "Uncle Ben's Long Grain",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Pantry"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "fc94fcf6-a79f-42c8-a917-5f59693247c3",
+        "name": "Flour",
+        "brand": "Gold Medal All-Purpose",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Pantry"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "859b6d2b-6ae4-449f-8338-101b18c2c7e1",
+        "name": "Sugar",
+        "brand": "Domino Granulated",
+        "price": 2.49,
+        "salePrice": null,
+        "category": {
+            "grocery": "Pantry"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5b784d9d-1807-484e-a428-b5664b77cf34",
+        "name": "Peanut Butter",
+        "brand": "Jif Creamy",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Pantry"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2bc9d63c-e1bf-4cc8-91bc-78f4201f9632",
+        "name": "Olive Oil",
+        "brand": "Bertolli Extra Virgin",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Pantry"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "dadd9915-c5f3-4552-8182-4bbb486d7b40",
+        "name": "Cereal",
+        "brand": "Cheerios",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Pantry"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5fa8a253-0326-4abe-a38c-da0c2264e5e2",
+        "name": "Canned Beans",
+        "brand": "Bush's Baked",
+        "price": 1.79,
+        "salePrice": null,
+        "category": {
+            "grocery": "Pantry"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "178bd77d-307d-4d3b-9bf7-98f6830955ce",
+        "name": "Soup",
+        "brand": "Campbell's Tomato",
+        "price": 2.49,
+        "salePrice": null,
+        "category": {
+            "grocery": "Pantry"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "caf7bec8-51b4-4f85-a087-2c9bbcdf8d53",
+        "name": "Honey",
+        "brand": "Nature Nate's Raw",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Pantry"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7073b86b-92e1-4ac0-9992-80f004cb78cf",
+        "name": "Frozen Pizza",
+        "brand": "DiGiorno",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Frozen Foods"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "01b85b01-c557-44a4-bd24-a100f022915d",
+        "name": "Ice Cream",
+        "brand": "Ben & Jerry's",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Frozen Foods"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "285a7d5c-4b4c-42f5-a850-c6be11069d8c",
+        "name": "Frozen Vegetables",
+        "brand": "Birds Eye Mixed",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Frozen Foods"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "53c2c6ed-ef31-4ebe-ac1a-9019a12f4289",
+        "name": "Frozen Waffles",
+        "brand": "Eggo",
+        "price": 3.49,
+        "salePrice": null,
+        "category": {
+            "grocery": "Frozen Foods"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "69adb461-cb5b-42bb-bf9f-0c3c71879c81",
+        "name": "Frozen Meals",
+        "brand": "Healthy Choice",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Frozen Foods"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e7f17f3f-d862-4663-901f-5ca3e52d6a63",
+        "name": "Frozen French Fries",
+        "brand": "Ore-Ida",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Frozen Foods"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a9c48b65-47d4-46ca-9bc6-f2fc3bad3c7d",
+        "name": "Frozen Fruit",
+        "brand": "Dole Strawberries",
+        "price": 6.49,
+        "salePrice": null,
+        "category": {
+            "grocery": "Frozen Foods"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b857fb32-feca-4057-b514-24d35c9c66d4",
+        "name": "Frozen Chicken Nuggets",
+        "brand": "Tyson",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Frozen Foods"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "46b1ff62-6257-4957-b24b-6f8d24cb7353",
+        "name": "Frozen Burritos",
+        "brand": "El Monterey",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Frozen Foods"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bebeef87-f590-4a41-823a-a0c615d74031",
+        "name": "Frozen Fish Sticks",
+        "brand": "Gorton's",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Frozen Foods"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8166d942-ed15-47d6-a907-aec925a2cce2",
+        "name": "Coffee",
+        "brand": "Starbucks Pike Place",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Beverages"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e64bbf17-4eb1-4665-8ef4-df5f364ee5d7",
+        "name": "Tea",
+        "brand": "Lipton Black Tea",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Beverages"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a09f1f79-b1ee-4a05-b5d5-9b39327241a0",
+        "name": "Soda",
+        "brand": "Coca-Cola 12 Pack",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Beverages"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "dc3c76ad-1e7a-4ac7-897f-9ac0164d417b",
+        "name": "Juice",
+        "brand": "Tropicana Orange",
+        "price": 4.49,
+        "salePrice": null,
+        "category": {
+            "grocery": "Beverages"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d7c8f7d2-a08c-4745-943c-8a492fe72c0a",
+        "name": "Energy Drink",
+        "brand": "Red Bull",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Beverages"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7d8dc26c-30ba-4b4d-a320-38e6d26e212f",
+        "name": "Water",
+        "brand": "Fiji 1L",
+        "price": 2.49,
+        "salePrice": null,
+        "category": {
+            "grocery": "Beverages"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a9d5681a-4490-43aa-ae8e-c872273fa9f3",
+        "name": "Sports Drink",
+        "brand": "Gatorade Frost",
+        "price": 1.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Beverages"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "da73d1e4-167f-4d28-8ccc-512c3e69e461",
+        "name": "Milk",
+        "brand": "Horizon Organic",
+        "price": 4.29,
+        "salePrice": null,
+        "category": {
+            "grocery": "Beverages"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b02cec73-a235-4e3c-a170-b67de2b16322",
+        "name": "Coconut Water",
+        "brand": "Vita Coco",
+        "price": 3.49,
+        "salePrice": null,
+        "category": {
+            "grocery": "Beverages"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9084ae20-bdb2-48af-82cb-3ef32f58b74a",
+        "name": "Sparkling Water",
+        "brand": "LaCroix",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Beverages"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "496275fd-70df-4282-94c1-8956434eaa61",
+        "name": "Chips",
+        "brand": "Lay's Classic",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Snacks"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a32e853e-5e6a-4fd9-8741-02521a793883",
+        "name": "Popcorn",
+        "brand": "Orville Redenbacher's",
+        "price": 4.49,
+        "salePrice": null,
+        "category": {
+            "grocery": "Snacks"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4f41e1ad-3931-41bb-bc09-6b43f0c2bba5",
+        "name": "Granola Bars",
+        "brand": "Nature Valley Oats",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Snacks"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "afb068ad-1754-457b-be54-c666205e48dc",
+        "name": "Pretzels",
+        "brand": "Snyder's Mini",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Snacks"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9369628e-cb4e-4845-af31-b597d363a541",
+        "name": "Crackers",
+        "brand": "Ritz Original",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Snacks"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b14d69d0-1a46-4578-9b73-68c5384fffa9",
+        "name": "Trail Mix",
+        "brand": "Planters",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Snacks"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7ae64434-09e9-44b5-9b2d-6d2296a6bb28",
+        "name": "Nuts",
+        "brand": "Blue Diamond Almonds",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Snacks"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "17bdb046-d57a-42a4-bcde-5a31612186f4",
+        "name": "Chocolate",
+        "brand": "Hershey's Milk Bar",
+        "price": 1.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Snacks"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c5d2092f-8011-4fa6-b77a-a47f7e0b62b9",
+        "name": "Cookies",
+        "brand": "Chips Ahoy",
+        "price": 4.49,
+        "salePrice": null,
+        "category": {
+            "grocery": "Snacks"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c3caf3d9-1d04-4364-b90d-7ea49d2e3103",
+        "name": "Gummies",
+        "brand": "Haribo Goldbears",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "grocery": "Snacks"
+        },
+        "inStock": true,
+        "onSale": false
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "id": "041585d4-b04f-4419-a1b2-2c4cde197b41",
+        "name": "Dog Food",
+        "brand": "Blue Buffalo Life Protection",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Dog Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5e9fe719-4d6b-43ff-82f0-041ea15a69f1",
+        "name": "Dog Collar",
+        "brand": "Ruffwear Front Range",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Dog Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "92a00509-3271-48aa-80b7-29e897cb284f",
+        "name": "Dog Leash",
+        "brand": "Max and Neo Reflective",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Dog Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d613f58c-3100-42f8-823f-4cd105d69313",
+        "name": "Dog Bed",
+        "brand": "Furhaven Orthopedic",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Dog Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4aa85afd-db04-4cc4-b7b4-190152708cf2",
+        "name": "Dog Chew Toy",
+        "brand": "KONG Extreme",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Dog Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "75d1adc1-c3ca-468d-8c57-167a20043906",
+        "name": "Dog Treats",
+        "brand": "Milk-Bone Original",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Dog Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f5f4bbec-4ebf-4d60-85dd-16ff7fbc5845",
+        "name": "Dog Shampoo",
+        "brand": "Earthbath Oatmeal & Aloe",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Dog Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "87a60f65-7c6b-4d47-8533-9518e4b01ad4",
+        "name": "Dog Crate",
+        "brand": "MidWest Homes for Pets",
+        "price": 59.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Dog Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1ee17352-d0ba-4abf-a94f-304abe47ace4",
+        "name": "Dog Bowl",
+        "brand": "Outward Hound Fun Feeder",
+        "price": 10.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Dog Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5ba4563c-80e1-479e-9045-87ca718d1994",
+        "name": "Dog Harness",
+        "brand": "Julius-K9 IDC PowerHarness",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Dog Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1c29b465-01f4-422b-adba-37bf71c8efda",
+        "name": "Cat Food",
+        "brand": "Purina Pro Plan",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Cat Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "eeaaaf87-ab90-46f6-9c21-7232af011e03",
+        "name": "Cat Litter",
+        "brand": "Dr. Elsey\u2019s Ultra",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Cat Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "627953f1-a98f-4706-a9a1-ec21e7e70cde",
+        "name": "Cat Tree",
+        "brand": "Frisco 72-Inch Cat Tower",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Cat Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4e242971-c25e-4c14-8e09-d5b467d3aeef",
+        "name": "Cat Scratcher",
+        "brand": "PetFusion Ultimate Scratcher",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Cat Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "39504672-79ed-448e-8ae3-0b8bdf0d0d5c",
+        "name": "Catnip Toy",
+        "brand": "Yeowww! Catnip Banana",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Cat Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "08d21695-a3d6-4ff8-ab9e-52836755e52b",
+        "name": "Litter Box",
+        "brand": "IRIS Top Entry Cat Litter Box",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Cat Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ecd5ef1f-8f4d-45dd-9dc5-96f2f52a0d52",
+        "name": "Cat Brush",
+        "brand": "Hertzko Self-Cleaning Slicker",
+        "price": 15.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Cat Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1dea3a27-704c-471c-b0a6-448971a4920b",
+        "name": "Cat Carrier",
+        "brand": "Sherpa Deluxe Airline-Approved",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Cat Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "351ad4c5-0bff-4ab2-9218-b36fa578cb51",
+        "name": "Cat Water Fountain",
+        "brand": "PetSafe Drinkwell",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Cat Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c2bb7223-4fa9-44c7-8fd2-654f351aea8c",
+        "name": "Cat Treats",
+        "brand": "Temptations Classic",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Cat Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "97001d6b-02f6-4fd1-a748-f6960a71bac2",
+        "name": "Aquarium",
+        "brand": "Tetra 20-Gallon Aquarium Kit",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Fish Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3e441329-a6a2-44c9-940b-529ac1fd771d",
+        "name": "Fish Food",
+        "brand": "TetraMin Tropical Flakes",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Fish Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "345777ec-7d2f-48ea-9cd1-2502da435e1e",
+        "name": "Aquarium Filter",
+        "brand": "Fluval FX4 Canister Filter",
+        "price": 249.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Fish Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "63b0bfb6-a3d9-4f1e-ab88-4d905b198861",
+        "name": "Water Conditioner",
+        "brand": "API Stress Coat",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Fish Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ba618836-aecf-427b-9fba-fd5cca4ffca0",
+        "name": "Heater",
+        "brand": "Eheim Jager Aquarium Heater",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Fish Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "295fe86b-42a7-4c5b-9f4f-b29a743c5cd1",
+        "name": "Fish Tank Decorations",
+        "brand": "Penn-Plax SpongeBob Pineapple",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Fish Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b4493793-b9e2-4fdb-b97e-d686bf3ae1bf",
+        "name": "Gravel",
+        "brand": "GloFish Fluorescent Aquarium Gravel",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Fish Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "16a094bf-6579-478f-af40-a6f08571a42a",
+        "name": "Air Pump",
+        "brand": "Tetra Whisper Air Pump",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Fish Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1fc3a5ba-d6d8-40e5-a906-044466ac19a8",
+        "name": "LED Aquarium Light",
+        "brand": "NICREW ClassicLED",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Fish Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "99614c9c-91d6-4e67-9e57-d43349aca9a2",
+        "name": "Algae Scraper",
+        "brand": "Mag-Float Glass Cleaner",
+        "price": 21.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Fish Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "db1e29e1-6252-4bf7-8c31-e8e43680d2ce",
+        "name": "Bird Cage",
+        "brand": "Prevue Hendryx Flight Cage",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Bird Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0580a6f8-73df-40eb-a28d-2416feadff14",
+        "name": "Bird Food",
+        "brand": "Kaytee Forti-Diet Pro Health",
+        "price": 15.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Bird Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "64f23939-3d23-4272-82f1-a14362659278",
+        "name": "Bird Perch",
+        "brand": "JW Pet Sand Perch",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Bird Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "11fefe07-7224-4e03-8b33-3587e165ce05",
+        "name": "Bird Toys",
+        "brand": "Bonka Bird Toys Rattle",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Bird Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6d0b04c1-a874-4fb0-9bde-11e5d62e0609",
+        "name": "Cage Liner",
+        "brand": "Prevue Hendryx Cage Liner",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Bird Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6b9f4f4e-ee68-49bb-9b86-ab4f398469f6",
+        "name": "Bird Bath",
+        "brand": "Lixit Quick Lock Bird Bath",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Bird Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b5a6e14d-9dd3-4d3f-b283-64be9c96cf3e",
+        "name": "Bird Feeder",
+        "brand": "Perky-Pet Copper Panorama",
+        "price": 25.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Bird Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "38be527a-e978-46f9-9d15-bf0e47b21152",
+        "name": "Bird Nesting Material",
+        "brand": "SunGrow Coco Fiber",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Bird Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "fa214486-3d93-484b-b6c4-11491f5680d1",
+        "name": "Calcium Perch",
+        "brand": "Polly\u2019s Pet Products Tooty Fruity",
+        "price": 11.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Bird Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "be675a1f-6998-4909-83d3-d7412f5f3e4d",
+        "name": "Bird Harness",
+        "brand": "Aviator Bird Harness",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Bird Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "48413042-3e57-444e-aba1-bc1ad3ba0965",
+        "name": "Hamster Cage",
+        "brand": "Kaytee CritterTrail Habitat",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Small Animal Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "623c5950-6bfc-471f-8905-4f9de9e29d46",
+        "name": "Rabbit Food",
+        "brand": "Oxbow Essentials Adult Rabbit",
+        "price": 22.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Small Animal Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2ab523e3-351a-473a-92a4-57264b9a29f6",
+        "name": "Guinea Pig Hay",
+        "brand": "Timothy Hay by Small Pet Select",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Small Animal Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "01bd640b-698c-4564-9640-ff1ceaf4cc4e",
+        "name": "Bedding",
+        "brand": "Carefresh Natural Small Pet Bedding",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Small Animal Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d8e09e70-34d0-4282-aefd-a57dd138b6c2",
+        "name": "Exercise Wheel",
+        "brand": "Silent Runner 12-Inch",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Small Animal Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f11848fa-5e08-4756-a424-64d985fa50eb",
+        "name": "Small Pet Hideout",
+        "brand": "Kaytee Igloo Hideout",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Small Animal Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "db38a5b5-acc1-45c3-832f-2f519fdd02f1",
+        "name": "Water Bottle",
+        "brand": "Choco Nose No-Drip Bottle",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Small Animal Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7d99c353-30e5-4ceb-897b-e132ee9f0e83",
+        "name": "Small Animal Treats",
+        "brand": "Oxbow Simple Rewards",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Small Animal Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "be0cd004-bd80-4bd6-aa81-7463ac7e0302",
+        "name": "Playpen",
+        "brand": "Prevue Hendryx Small Animal Playpen",
+        "price": 32.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Small Animal Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ec2eac82-18c9-4ce3-ad6a-e4659c029b83",
+        "name": "Chew Toys",
+        "brand": "Niteangel Natural Chew Sticks",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "petCare": "Small Animal Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    }
+]

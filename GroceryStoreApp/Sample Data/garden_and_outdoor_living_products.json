@@ -1,0 +1,602 @@
+[
+    {
+        "id": "af873ce0-1b9a-47fa-9253-a9cf92584790",
+        "name": "Potted Succulent",
+        "brand": "Costa Farms Succulent Assortment",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Plants & Flowers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ac2b3000-71a6-4451-a7f1-d27cb03b4172",
+        "name": "Orchid",
+        "brand": "Just Add Ice Phalaenopsis Orchid",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Plants & Flowers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a291ef9d-c03f-4c89-84c9-4fc7407e02b4",
+        "name": "Bonsai Tree",
+        "brand": "Brussel\u2019s Live Dwarf Jade",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Plants & Flowers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "adb9a1ba-0247-4d27-be6d-659e1aa221a6",
+        "name": "Herb Garden Kit",
+        "brand": "AeroGarden Gourmet Herb Kit",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Plants & Flowers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cf4d2e67-08e7-487d-938d-e6203d1f6e6f",
+        "name": "Hanging Basket Flowers",
+        "brand": "Petunia Mix Hanging Basket",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Plants & Flowers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2093a73d-4ec1-4633-b992-9a0ec7ef2f65",
+        "name": "Indoor Ficus Plant",
+        "brand": "Costa Farms Fiddle Leaf Fig",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Plants & Flowers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b49521c4-43d6-4429-bd1f-6b78970428c4",
+        "name": "Rose Bush",
+        "brand": "Knock Out Rose Shrub",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Plants & Flowers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "37d21f93-0b34-4b87-824e-11c528cf0fcc",
+        "name": "Vegetable Starter Plants",
+        "brand": "Bonnie Plants Tomato 4-Pack",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Plants & Flowers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "32df65bc-99ef-47cd-b595-ca3f7a1f0cd0",
+        "name": "Cactus Assortment",
+        "brand": "Shop Succulents Cactus Collection",
+        "price": 22.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Plants & Flowers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "22143032-3031-4c66-95fe-7d18c7bc1fa2",
+        "name": "Flower Seeds",
+        "brand": "Burpee Wildflower Mix",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Plants & Flowers"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ddd35bd7-3afd-40c3-86dd-a76c6164e859",
+        "name": "Outdoor Dining Set",
+        "brand": "Devoko 5-Piece Patio Set",
+        "price": 199.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Patio Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c2b043ad-dff6-40b8-91d1-206b213ff7cf",
+        "name": "Adirondack Chair",
+        "brand": "POLYWOOD Classic Adirondack",
+        "price": 249.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Patio Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a851cf30-1a91-47ee-a6ae-f2c6ed1908c1",
+        "name": "Patio Umbrella",
+        "brand": "Abba Patio 9ft Market Umbrella",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Patio Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1021f7b3-f917-405b-a26c-0c100f0daca8",
+        "name": "Hammock",
+        "brand": "Vivere Double Hammock",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Patio Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "30314420-3430-4570-85a2-c8f2600653e2",
+        "name": "Fire Pit Table",
+        "brand": "Outland Living Propane Fire Table",
+        "price": 349.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Patio Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8cb1d705-c12b-4edd-b78f-f5f8e48b42af",
+        "name": "Outdoor Sofa",
+        "brand": "Wisteria Lane 4-Piece Set",
+        "price": 499.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Patio Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0e5e16bb-f37b-425c-bb3c-b9d0fd74847c",
+        "name": "Garden Bench",
+        "brand": "Belham Living Wooden Bench",
+        "price": 159.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Patio Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d05abaa9-cb44-4959-9f2b-6d136e292239",
+        "name": "Outdoor Bar Set",
+        "brand": "Best Choice Products Wicker Bar",
+        "price": 249.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Patio Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9216f8e4-20b0-471b-88e7-a283e5c15d9f",
+        "name": "Swing Chair",
+        "brand": "Y-STOP Hanging Rope Swing",
+        "price": 59.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Patio Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9ee0e6c2-445b-40d6-bb18-00d23e00f2a2",
+        "name": "Chaise Lounge",
+        "brand": "Christopher Knight Outdoor Lounge",
+        "price": 179.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Patio Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b95ab7dd-5785-4c4b-897f-b660867d91ea",
+        "name": "Gas Grill",
+        "brand": "Weber Spirit II E-310",
+        "price": 549.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Grills & Outdoor Cooking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8c70dc4e-6d57-4eda-ac16-fef9e0ca8a46",
+        "name": "Charcoal Grill",
+        "brand": "Weber Original Kettle",
+        "price": 199.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Grills & Outdoor Cooking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "282b88e3-c992-4e2c-b88f-b179e4a8e8a6",
+        "name": "Smoker",
+        "brand": "Masterbuilt Digital Electric Smoker",
+        "price": 299.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Grills & Outdoor Cooking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ce0110bc-3b37-45b9-8bd4-9cddf4e0c203",
+        "name": "BBQ Tool Set",
+        "brand": "Cuisinart 20-Piece Grill Set",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Grills & Outdoor Cooking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c90d5934-0e03-4160-bc16-3dba10faa1b5",
+        "name": "Outdoor Pizza Oven",
+        "brand": "Ooni Koda 16",
+        "price": 499.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Grills & Outdoor Cooking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3847c518-9d07-4bc9-930c-0bceedad4d0e",
+        "name": "Portable Grill",
+        "brand": "Coleman RoadTrip 285",
+        "price": 249.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Grills & Outdoor Cooking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0db26829-33ac-43c9-9417-e9e169c141fd",
+        "name": "Grill Cover",
+        "brand": "Kingkong Premium Grill Cover",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Grills & Outdoor Cooking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b6a3d010-6cbc-48e2-86ac-6b8de864a79c",
+        "name": "BBQ Rubs & Sauces",
+        "brand": "Traeger Signature Blend",
+        "price": 16.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Grills & Outdoor Cooking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "62244221-2066-48db-bb2f-dbec1ac9005f",
+        "name": "Grill Thermometer",
+        "brand": "MEATER+ Smart Wireless",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Grills & Outdoor Cooking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "22f3b4b2-2ff5-46de-9c68-c7ee9269cac5",
+        "name": "Fire Pit Grill",
+        "brand": "Bali Outdoors Wood Burning Fire Pit",
+        "price": 149.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Grills & Outdoor Cooking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "58a914c9-b13a-4b12-bea1-ae67dfb87327",
+        "name": "Lawn Mower",
+        "brand": "EGO Power+ 56V Self-Propelled",
+        "price": 599.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Lawn Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b477b55b-0689-4a26-bbec-e2ddc103a82e",
+        "name": "Weed Trimmer",
+        "brand": "Husqvarna 128LD Gas String Trimmer",
+        "price": 199.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Lawn Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "dd374c61-92fa-4d1d-98f9-d481ba7d0338",
+        "name": "Lawn Fertilizer",
+        "brand": "Scotts Turf Builder",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Lawn Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "00aac693-0f30-4808-b758-7d7d963a1a70",
+        "name": "Sprinkler System",
+        "brand": "Orbit In-Ground Sprinkler Kit",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Lawn Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "979536c4-dc46-48a4-b1c7-d90f97471bf3",
+        "name": "Leaf Blower",
+        "brand": "DEWALT 20V MAX Cordless Blower",
+        "price": 149.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Lawn Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a5a7017a-7935-40f4-9f0e-7b82041853ba",
+        "name": "Lawn Edger",
+        "brand": "BLACK+DECKER Electric Edger",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Lawn Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6af0383f-68b5-41ad-8615-63357318978c",
+        "name": "Grass Seed",
+        "brand": "Pennington Smart Seed Sun & Shade",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Lawn Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "565896e2-f269-4fc5-acce-ccab00b1f9aa",
+        "name": "Garden Hose",
+        "brand": "Flexzilla 50ft Heavy Duty",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Lawn Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6185ff30-7632-45eb-a386-f937fbdcfd80",
+        "name": "Wheelbarrow",
+        "brand": "True Temper 6 Cu. Ft. Steel Wheelbarrow",
+        "price": 89.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Lawn Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ca54db98-59e0-46e5-8f40-1d5bdaa6373e",
+        "name": "Mulch",
+        "brand": "Vigoro Brown Wood Mulch 2 cu. ft.",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Lawn Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c0801931-e53d-4670-9c80-6032ff1ee678",
+        "name": "String Lights",
+        "brand": "Brightech Ambience Pro LED",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Outdoor D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2340c544-1ef8-4376-b15c-bca497af130e",
+        "name": "Garden Statue",
+        "brand": "Design Toscano Fairy Garden Statue",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Outdoor D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "628f66cf-71ec-4fa3-8161-bdb2c3bd3f25",
+        "name": "Bird Feeder",
+        "brand": "Perky-Pet Copper Panorama Feeder",
+        "price": 25.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Outdoor D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "368de2c4-a3f8-4ed0-beac-51f1cf084cf1",
+        "name": "Solar Pathway Lights",
+        "brand": "BEAU JARDIN 8-Pack Solar Lights",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Outdoor D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9719f585-eb7f-4f1a-96b8-f030f7eaf819",
+        "name": "Wind Chimes",
+        "brand": "Woodstock Amazing Grace Chimes",
+        "price": 44.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Outdoor D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0c132e49-d5be-4b04-b5f1-dc7cbdb34b70",
+        "name": "Outdoor Rug",
+        "brand": "Rugshop Moroccan Trellis",
+        "price": 89.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Outdoor D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7dad8a03-a523-4004-b5e4-da2dba2e0989",
+        "name": "Water Fountain",
+        "brand": "Alpine 3-Tier Waterfall Fountain",
+        "price": 159.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Outdoor D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1245c8ba-f953-4281-a45f-245225d09919",
+        "name": "Fire Pit",
+        "brand": "Sunnydaze Cosmic Fire Pit",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Outdoor D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9ada606b-1b62-406c-a68c-cbf9db483a8a",
+        "name": "Garden Trellis",
+        "brand": "Amagabeli Metal Garden Trellis",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Outdoor D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9115ec9b-8688-4def-b919-a4b41f055bdb",
+        "name": "Welcome Mat",
+        "brand": "Calloway Mills Coir Doormat",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "gardenAndOutdoorLiving": "Outdoor D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    }
+]

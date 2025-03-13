@@ -1,0 +1,602 @@
+[
+    {
+        "id": "be1c0222-cd17-48cc-9edf-9c93ec0bd1e8",
+        "name": "Pain Reliever",
+        "brand": "Tylenol Extra Strength",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Over-the-Counter Medications"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "297f0828-7f25-444d-b437-17f38a7566ab",
+        "name": "Cold & Flu Medicine",
+        "brand": "DayQuil Severe",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Over-the-Counter Medications"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b2b9f718-5fae-4987-94c4-90d1b2c7b327",
+        "name": "Allergy Relief",
+        "brand": "Zyrtec 24 Hour",
+        "price": 18.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Over-the-Counter Medications"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "859902b0-fff6-4fae-9c2b-dacc9d058c5c",
+        "name": "Antacid",
+        "brand": "TUMS Ultra Strength",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Over-the-Counter Medications"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "add1550e-d4e1-4798-8a9e-5a5c958420f4",
+        "name": "Cough Syrup",
+        "brand": "Robitussin DM",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Over-the-Counter Medications"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "367d48f8-c26e-4eb6-9422-cc0bc7bbc922",
+        "name": "Sleep Aid",
+        "brand": "ZzzQuil Nighttime Sleep-Aid",
+        "price": 10.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Over-the-Counter Medications"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1627b18e-0673-4af0-8cad-abffe12b2488",
+        "name": "Motion Sickness Relief",
+        "brand": "Dramamine Original",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Over-the-Counter Medications"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "825e06a0-3ada-4ae7-9ed9-70a999553858",
+        "name": "Anti-Diarrheal",
+        "brand": "Imodium A-D",
+        "price": 11.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Over-the-Counter Medications"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2fb95a19-8eb2-4f63-ac93-0559df7c79c1",
+        "name": "Laxative",
+        "brand": "Dulcolax Tablets",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Over-the-Counter Medications"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a36118ef-9a27-466f-9b8c-e23e2396a772",
+        "name": "Anti-Fungal Cream",
+        "brand": "Lotrimin Ultra",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Over-the-Counter Medications"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "91ee7060-8af0-4d51-b550-014dd29fce1a",
+        "name": "Multivitamin",
+        "brand": "Centrum Adult Multivitamin",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Vitamins & Supplements"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1caa295a-c9e3-4793-b235-a59b86e41e47",
+        "name": "Vitamin C",
+        "brand": "Nature Made 1000mg",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Vitamins & Supplements"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0c1d93b5-2bfe-474b-a88c-8037826462e3",
+        "name": "Fish Oil",
+        "brand": "Nordic Naturals Omega-3",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Vitamins & Supplements"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "628f92f6-c007-4d3c-ad56-c4a8d210a588",
+        "name": "Probiotics",
+        "brand": "Culturelle Daily Probiotic",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Vitamins & Supplements"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8a3cbfcd-e556-479e-8f7c-5cb34e39cc85",
+        "name": "Calcium Supplement",
+        "brand": "Citracal Petites",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Vitamins & Supplements"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7d4db6cc-d51c-4277-8453-3556ddbea004",
+        "name": "Vitamin D3",
+        "brand": "Nature\u2019s Bounty 5000 IU",
+        "price": 10.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Vitamins & Supplements"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "90f962df-0110-423c-b817-24bcde17d41b",
+        "name": "Collagen Peptides",
+        "brand": "Vital Proteins",
+        "price": 27.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Vitamins & Supplements"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "54f20d5f-92ca-47da-a29c-fa50baa5285a",
+        "name": "Magnesium Supplement",
+        "brand": "Natural Vitality Calm",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Vitamins & Supplements"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1fa55b98-c65f-4c70-91f1-0f892536898d",
+        "name": "Iron Supplement",
+        "brand": "Slow Fe Iron Tablets",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Vitamins & Supplements"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "06993125-51e2-4fd4-8687-0439cd623b17",
+        "name": "Zinc Tablets",
+        "brand": "NOW Zinc 50mg",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Vitamins & Supplements"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1d234c23-2e69-4582-9fb9-b1da3aabaf92",
+        "name": "Bandages",
+        "brand": "Band-Aid Flexible Fabric",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "First Aid"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "dd081e36-bfe7-43ae-b104-68bbe0edf82d",
+        "name": "Antiseptic Cream",
+        "brand": "Neosporin Original",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "First Aid"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cb8e2d59-521a-4a49-a290-696034ea2be3",
+        "name": "Hydrogen Peroxide",
+        "brand": "Swan 3% Solution",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "First Aid"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5996593c-9d5c-4cb2-8d1d-743b7827160f",
+        "name": "Adhesive Tape",
+        "brand": "Nexcare Durable Cloth Tape",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "First Aid"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "199ade7a-3627-4aae-bce7-6e90be7d26e8",
+        "name": "Gauze Pads",
+        "brand": "Curad Sterile Pads",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "First Aid"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6d816ebb-d0f9-4af6-b2f4-360a93faa58c",
+        "name": "Burn Cream",
+        "brand": "Alocane Maximum Strength",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "First Aid"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bdcb031d-56b2-4188-a096-b420b47d75d2",
+        "name": "Tweezers",
+        "brand": "Revlon Slant Tip",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "First Aid"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "71aa09a4-fc7f-4bc1-b542-8e9f5dcfceee",
+        "name": "First Aid Kit",
+        "brand": "Be Smart Get Prepared",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "First Aid"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "173a5e1a-5ba7-4ff7-beea-52a40cd1fa19",
+        "name": "Cold Pack",
+        "brand": "ACE Reusable Cold Compress",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "First Aid"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9a2ccb4b-f6fc-4e16-b350-c993f9bf2672",
+        "name": "Finger Splint",
+        "brand": "BodyMed Aluminum Splint",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "First Aid"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b5c1c92f-6eac-420c-9eb6-cf70f0e7a872",
+        "name": "Blood Pressure Monitor",
+        "brand": "Omron Platinum",
+        "price": 74.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Home Health Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "85704fe2-1392-47c6-9a48-b0fa0a21a549",
+        "name": "Pulse Oximeter",
+        "brand": "Zacurate Pro Series 500DL",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Home Health Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4706d588-4b0d-4916-8a9b-d002a70d7891",
+        "name": "Thermometer",
+        "brand": "iHealth No-Touch Forehead Thermometer",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Home Health Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "89dc3e84-76c2-45f6-be3f-9f03cf2a1c28",
+        "name": "Nebulizer",
+        "brand": "Philips Respironics InnoSpire",
+        "price": 59.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Home Health Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "67d7ddb1-0cc0-458c-9bd0-966a225484ed",
+        "name": "Glucose Meter",
+        "brand": "Accu-Chek Guide",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Home Health Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "184ae1ba-4590-44b4-bdf2-093b727e843b",
+        "name": "Wrist Support Brace",
+        "brand": "Mueller Green Fitted Wrist Brace",
+        "price": 16.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Home Health Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f52d21b7-82d8-4790-9214-2f680eb824d0",
+        "name": "Knee Brace",
+        "brand": "Shock Doctor Compression Knee Support",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Home Health Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a691b3dd-4959-431d-bb85-90a3309400df",
+        "name": "Hearing Aids",
+        "brand": "Banglijian Rechargeable Hearing Aids",
+        "price": 69.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Home Health Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ecfe92fe-b45d-43fa-a3c4-235102bcc0eb",
+        "name": "Compression Socks",
+        "brand": "Physix Gear Sport",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Home Health Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e5456f10-7b46-478c-aff5-aa5804623dd0",
+        "name": "TENS Unit",
+        "brand": "iReliev TENS + EMS",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Home Health Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "68f2a24f-7e8d-4175-af96-5c66850edc16",
+        "name": "Face Masks",
+        "brand": "KN95 Protective Masks 20-Pack",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Personal Protective Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7a39ef41-6a37-4d45-a596-0f74f1a83f31",
+        "name": "Hand Sanitizer",
+        "brand": "Purell Advanced 8oz",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Personal Protective Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "53c5e299-62b6-4f75-a86f-c6754107e785",
+        "name": "Disposable Gloves",
+        "brand": "MedPride Nitrile Gloves 100-Count",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Personal Protective Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "46f93284-4441-4340-8df8-f5ea58c7be49",
+        "name": "Disinfecting Wipes",
+        "brand": "Clorox Wipes 3-Pack",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Personal Protective Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3e25eefd-da4a-4508-a28b-d08baf94fa06",
+        "name": "Face Shield",
+        "brand": "Sneeze Guard Full Face Cover",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Personal Protective Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "101eb02a-b5b3-4593-8745-4d28a278d921",
+        "name": "Protective Eyewear",
+        "brand": "3M Virtua Safety Glasses",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Personal Protective Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "eee7ec98-5a11-403c-afe8-f20794bc9fc9",
+        "name": "Earplugs",
+        "brand": "Mack's Ultra Soft Foam Earplugs",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Personal Protective Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9ed3f566-9bc8-4d1a-a2fd-a8e95624f2eb",
+        "name": "Hand Soap",
+        "brand": "Softsoap Antibacterial 11oz",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Personal Protective Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6ec9859b-82c8-47cb-9b2f-c2790983d465",
+        "name": "Infrared Thermometer",
+        "brand": "Berrcom Non-Contact Thermometer",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Personal Protective Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "72877630-2b86-447c-a20f-138db62ad52c",
+        "name": "Sanitizing Spray",
+        "brand": "Lysol Disinfectant Spray",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "healthCare": "Personal Protective Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    }
+]

@@ -1,0 +1,842 @@
+[
+    {
+        "id": "29a6e679-51fe-454f-9144-104668533dfd",
+        "name": "Shampoo",
+        "brand": "Pantene Pro-V",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Hair Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b2b14a27-0123-45c9-a515-2a13797a2fd7",
+        "name": "Conditioner",
+        "brand": "Herbal Essences Bio Renew",
+        "price": 6.49,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Hair Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7994011c-1517-4f81-938a-74a743db1e3d",
+        "name": "Hair Spray",
+        "brand": "TRESemm\u00e9 Extra Hold",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Hair Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2d6d8da6-b7e0-4068-8924-f12868dd38a9",
+        "name": "Dry Shampoo",
+        "brand": "Batiste Original",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Hair Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1fa76693-22bb-44b5-a287-f488c463db81",
+        "name": "Hair Gel",
+        "brand": "Garnier Fructis Pure Clean",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Hair Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "244a405f-4dd1-4b95-84ce-5f5e66e69a84",
+        "name": "Hair Serum",
+        "brand": "Moroccanoil Treatment",
+        "price": 15.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Hair Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "375fce01-6983-4542-9822-752df6e28340",
+        "name": "Hair Mask",
+        "brand": "SheaMoisture Deep Treatment",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Hair Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b47646c0-8a47-4b61-a685-9d91deb4eebe",
+        "name": "Hair Brush",
+        "brand": "Wet Brush Original Detangler",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Hair Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5faa7ef3-c1d1-4b41-b968-3caf55cc7a4a",
+        "name": "Heat Protectant",
+        "brand": "CHI 44 Iron Guard",
+        "price": 11.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Hair Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0684b22b-c7e2-4e7f-81e7-7fa741b9dbd5",
+        "name": "Hair Dye",
+        "brand": "L'Or\u00e9al Paris Excellence",
+        "price": 10.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Hair Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "584a2496-9a12-4443-8613-bed6b48fe083",
+        "name": "Facial Cleanser",
+        "brand": "CeraVe Hydrating Facial Cleanser",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Skin Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "92743d7e-895f-4382-8bbd-573245c45e7d",
+        "name": "Moisturizer",
+        "brand": "Neutrogena Hydro Boost",
+        "price": 16.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Skin Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ee9c491c-6da3-445c-9d33-01a1ad682f54",
+        "name": "Sunscreen",
+        "brand": "EltaMD UV Clear SPF 46",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Skin Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "679ce8dd-6c91-4bb6-9886-05ffd90ae97a",
+        "name": "Face Serum",
+        "brand": "The Ordinary Niacinamide 10%",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Skin Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ab7d03b4-2a1d-4ed9-9d7a-cd65ae901e99",
+        "name": "Toner",
+        "brand": "Thayers Witch Hazel Rose Petal",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Skin Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d73be278-2f7a-4d97-b038-630e05e769b5",
+        "name": "Eye Cream",
+        "brand": "Olay Eyes Ultimate",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Skin Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bdf9e1df-0c5f-434f-9d27-f377d4469cb8",
+        "name": "Face Mask",
+        "brand": "Aztec Secret Indian Healing Clay",
+        "price": 10.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Skin Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a389b1ad-24ba-4e42-b7d6-4f3c9a3a4a7c",
+        "name": "Lip Balm",
+        "brand": "Burt's Bees Original",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Skin Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "531c4eb0-c160-4c0c-b3da-968b526a3fec",
+        "name": "Acne Treatment",
+        "brand": "Differin Gel",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Skin Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "43b801dd-6373-4fe1-88b3-6c168f1272a7",
+        "name": "Body Lotion",
+        "brand": "Aveeno Daily Moisturizing",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Skin Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ee20d911-260e-4e97-976c-64d36503e492",
+        "name": "Foundation",
+        "brand": "Maybelline Fit Me Matte",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Makeup"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8755f658-162c-4429-b955-20f03574d665",
+        "name": "Mascara",
+        "brand": "L'Or\u00e9al Voluminous Lash Paradise",
+        "price": 10.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Makeup"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3ef80cdf-829f-4c6b-9017-cd65673a88f7",
+        "name": "Lipstick",
+        "brand": "MAC Matte Lipstick",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Makeup"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bbd11f04-20d4-4e0c-bf6a-0951a3590460",
+        "name": "Eyeshadow Palette",
+        "brand": "Urban Decay Naked3",
+        "price": 54.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Makeup"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4f516779-cad4-4378-9f99-707ad779c2f3",
+        "name": "Blush",
+        "brand": "NARS Orgasm",
+        "price": 30.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Makeup"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "48da399b-1cbe-4d64-9c46-6fca6a1a38f5",
+        "name": "Highlighter",
+        "brand": "Becca Shimmering Skin Perfector",
+        "price": 38.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Makeup"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c5056ef9-34aa-43b3-934e-730ec5804c63",
+        "name": "Eyeliner",
+        "brand": "Stila Stay All Day Waterproof",
+        "price": 22.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Makeup"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "015d0387-785c-466c-96af-2c5362f4595b",
+        "name": "Brow Pencil",
+        "brand": "Anastasia Beverly Hills Brow Wiz",
+        "price": 23.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Makeup"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7b9f64be-c0e2-4b8b-8126-1355cb6576cc",
+        "name": "Concealer",
+        "brand": "Tarte Shape Tape",
+        "price": 27.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Makeup"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6a1c10a1-fb55-4ff6-8338-c753061e4dd3",
+        "name": "Setting Spray",
+        "brand": "Urban Decay All Nighter",
+        "price": 33.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Makeup"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a3dad37b-17f9-406b-beee-17fbdc9c52af",
+        "name": "Perfume",
+        "brand": "Chanel No. 5",
+        "price": 135.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Fragrances"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "550dd06f-dd91-4d5b-8adf-e34d74dbe73d",
+        "name": "Cologne",
+        "brand": "Dior Sauvage",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Fragrances"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e518da6e-f91c-4a9b-83f0-9a2a583b9ae7",
+        "name": "Body Mist",
+        "brand": "Bath & Body Works Warm Vanilla",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Fragrances"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "33e2621b-70ff-4cec-81c0-f16ae537022c",
+        "name": "Rollerball Perfume",
+        "brand": "Jo Malone Peony & Blush",
+        "price": 28.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Fragrances"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bc25f4f7-c99a-4a67-aa27-62b2a42e9001",
+        "name": "Aftershave",
+        "brand": "Proraso Refreshing",
+        "price": 16.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Fragrances"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6b89ef8a-393d-4afb-a2e2-c5529d3634f9",
+        "name": "Unisex Fragrance",
+        "brand": "Le Labo Santal 33",
+        "price": 198.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Fragrances"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "407dcda7-27b7-4518-94fe-ceb7c83345da",
+        "name": "Deodorant Spray",
+        "brand": "Axe Phoenix",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Fragrances"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "931161f3-4b9f-4889-b72b-16b2d9becd55",
+        "name": "Solid Cologne",
+        "brand": "Duke Cannon Solid Cologne",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Fragrances"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7bbef414-fa31-4822-bea4-606875d461ae",
+        "name": "Luxury Perfume",
+        "brand": "Tom Ford Black Orchid",
+        "price": 185.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Fragrances"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b504741a-5945-4c74-8e3b-66dbc1cc0ed2",
+        "name": "Gift Set",
+        "brand": "Marc Jacobs Daisy Set",
+        "price": 89.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Fragrances"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1d6d3592-be04-47e3-942d-8fc81ccc6ccf",
+        "name": "Toothpaste",
+        "brand": "Colgate Total Whitening",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Oral Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "70a1008d-7611-4f0b-bcf6-d55c7698d5b6",
+        "name": "Mouthwash",
+        "brand": "Listerine Cool Mint",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Oral Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0c3e451c-2f95-4d03-9bf6-0783491cd6b2",
+        "name": "Toothbrush",
+        "brand": "Oral-B Pro 1000 Electric",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Oral Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "69d6e2a8-72ba-4dd5-8743-38a55b91c3a5",
+        "name": "Floss",
+        "brand": "Oral-B Glide Pro-Health",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Oral Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "97ee90d9-2dc1-4d6e-a56d-cad324a11e8c",
+        "name": "Whitening Strips",
+        "brand": "Crest 3D Whitestrips",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Oral Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f963d317-eb81-47fc-80a6-71749187f5e6",
+        "name": "Tongue Scraper",
+        "brand": "Dr. Tung\u2019s Stainless Steel",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Oral Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2e5dc006-f1d8-4c74-8b35-963c5ba5a9e4",
+        "name": "Denture Cleaner",
+        "brand": "Polident 3-Minute Tablets",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Oral Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1d50f42b-1c04-4052-936b-6de6df2bac4e",
+        "name": "Oral Irrigator",
+        "brand": "Waterpik Aquarius",
+        "price": 69.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Oral Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3fea69fb-2075-49e7-bf8a-16f63b76e7b7",
+        "name": "Sensitive Toothpaste",
+        "brand": "Sensodyne Pronamel",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Oral Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3cf50731-452d-43c8-87d5-a230b646ee36",
+        "name": "Chewing Gum",
+        "brand": "Trident White Peppermint",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Oral Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "87e74fb0-94d7-4efe-b10f-78378ff3956f",
+        "name": "Razor",
+        "brand": "Gillette Fusion5",
+        "price": 10.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Shaving & Grooming"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "af89a534-c7be-49c5-a11b-25b42298c950",
+        "name": "Electric Shaver",
+        "brand": "Philips Norelco 3800",
+        "price": 59.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Shaving & Grooming"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "560cf391-fc09-47c8-b528-1399b179af91",
+        "name": "Shaving Cream",
+        "brand": "Barbasol Original",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Shaving & Grooming"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e945b60f-1a01-4e33-b4e8-1b6f3b8a4637",
+        "name": "Aftershave Balm",
+        "brand": "Nivea Men Sensitive",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Shaving & Grooming"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "85c8e609-c4a4-4877-9773-ab4942884f3c",
+        "name": "Beard Trimmer",
+        "brand": "Braun Series 7",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Shaving & Grooming"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "98a5f25b-1f48-4d65-bcb7-d391b1c724d9",
+        "name": "Hair Clippers",
+        "brand": "Wahl Professional 5-Star",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Shaving & Grooming"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b9074175-4c59-4b06-bb12-0a8bd5a54595",
+        "name": "Shaving Brush",
+        "brand": "Parker Safety Badger",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Shaving & Grooming"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "97121aec-d2c4-4802-844f-42f006c2989f",
+        "name": "Safety Razor",
+        "brand": "Merkur Classic 34C",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Shaving & Grooming"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "53fe3d32-2051-421a-bb94-27a3dc4583ab",
+        "name": "Body Groomer",
+        "brand": "Manscaped Lawn Mower 4.0",
+        "price": 89.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Shaving & Grooming"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "eac15e14-36e3-42c2-9c22-a6fd0890dae8",
+        "name": "Pre-Shave Oil",
+        "brand": "The Art of Shaving Sandalwood",
+        "price": 25.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Shaving & Grooming"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5a9f56e9-50a2-4356-82e0-8cf048e9b98d",
+        "name": "Body Wash",
+        "brand": "Dove Deep Moisture",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Bath & Body"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5aa16356-b109-40f8-9a4c-729ca3cfd1c9",
+        "name": "Bar Soap",
+        "brand": "Dr. Bronner\u2019s Pure-Castile",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Bath & Body"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4a32fb35-2b46-4a40-8ead-b74391e1211c",
+        "name": "Bath Bomb",
+        "brand": "Lush Intergalactic",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Bath & Body"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ac5cbf5f-1b4b-4ecb-98fe-ee5863fee173",
+        "name": "Body Scrub",
+        "brand": "Tree Hut Shea Sugar Scrub",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Bath & Body"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ce4ff0fb-c39f-469c-91f9-55e42d27d42d",
+        "name": "Epsom Salt",
+        "brand": "Dr Teal\u2019s Lavender",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Bath & Body"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "27b6ee1c-7ed9-41b7-b4e1-d932f2a3b57b",
+        "name": "Body Oil",
+        "brand": "Neutrogena Light Sesame",
+        "price": 10.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Bath & Body"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "caa94f36-fb35-4204-976c-5f73349a4669",
+        "name": "Hand Soap",
+        "brand": "Mrs. Meyer\u2019s Clean Day",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Bath & Body"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7fdba8a8-82b5-47f2-a1e2-1567544a3c1d",
+        "name": "Deodorant Stick",
+        "brand": "Native Coconut & Vanilla",
+        "price": 11.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Bath & Body"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c1e0d62e-000e-48f3-8eba-a23b2c562ca3",
+        "name": "Hand Cream",
+        "brand": "L'Occitane Shea Butter",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Bath & Body"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "693d65b9-7b0b-4d72-983c-8ff70efde4f3",
+        "name": "Loofah",
+        "brand": "EcoTools Exfoliating Sponge",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "beautyAndPersonalCare": "Bath & Body"
+        },
+        "inStock": true,
+        "onSale": false
+    }
+]

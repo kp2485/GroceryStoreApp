@@ -1,0 +1,722 @@
+[
+    {
+        "id": "c543ea55-ce47-4f89-8fe4-256271e32a8c",
+        "name": "Spider-Man Action Figure",
+        "brand": "Hasbro Marvel Legends",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Action Figures"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "accd58b8-0ab6-4aed-ac03-06abee372907",
+        "name": "Batman Action Figure",
+        "brand": "McFarlane DC Multiverse",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Action Figures"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "178df175-e196-413b-adf2-e778ead5b32c",
+        "name": "Transformers Optimus Prime",
+        "brand": "Hasbro Transformers",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Action Figures"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7ef79fbf-dd1f-43db-bc54-a5a5df819094",
+        "name": "Star Wars Darth Vader",
+        "brand": "Hasbro Black Series",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Action Figures"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "93648dcd-cd2a-4b1e-a6e3-f6fecfc7de4f",
+        "name": "G.I. Joe Snake Eyes",
+        "brand": "Hasbro Classified Series",
+        "price": 22.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Action Figures"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "47c17d6c-bcc5-4cc1-957b-f089d551663a",
+        "name": "Power Rangers Megazord",
+        "brand": "Bandai",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Action Figures"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "888ab47d-bb23-4df2-84c8-364fd45babe1",
+        "name": "Fortnite Action Figure",
+        "brand": "Jazwares Legendary Series",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Action Figures"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cba29be6-fa48-46a7-81d4-f08f1080913d",
+        "name": "Teenage Mutant Ninja Turtles",
+        "brand": "NECA Michelangelo",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Action Figures"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f5655827-a717-4771-b616-7822f9dad101",
+        "name": "Avengers Iron Man",
+        "brand": "Hasbro Marvel Legends",
+        "price": 26.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Action Figures"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "47226790-fd10-4073-821c-e1d06443ac41",
+        "name": "Jurassic Park T-Rex",
+        "brand": "Mattel Dino Escape",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Action Figures"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b9b630b2-f433-43d7-8f1e-092747924e6d",
+        "name": "Barbie Fashionista",
+        "brand": "Mattel Barbie",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Dolls"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "44dee55f-0e7d-410b-8d0c-774665903546",
+        "name": "Baby Alive Doll",
+        "brand": "Hasbro Baby Alive",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Dolls"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cebbfaa4-8c57-4b37-b93a-fa234ae2ba03",
+        "name": "LOL Surprise Doll",
+        "brand": "MGA Entertainment",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Dolls"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bef703eb-f6a5-4294-b795-414243bdc574",
+        "name": "American Girl Doll",
+        "brand": "American Girl",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Dolls"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "602db359-d4ef-4939-8414-748c4d0ba027",
+        "name": "Disney Princess Elsa",
+        "brand": "Hasbro Frozen II",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Dolls"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "dbc3f9c9-aa8a-44d5-9169-885d8c14bde1",
+        "name": "Bratz Doll",
+        "brand": "MGA Bratz",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Dolls"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0fcd5c89-228c-4775-b532-753809ccd761",
+        "name": "Cabbage Patch Kids",
+        "brand": "Wicked Cool Toys",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Dolls"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "598caf9a-021a-48ef-8178-86224b95c51c",
+        "name": "Rainbow High Fashion Doll",
+        "brand": "MGA Entertainment",
+        "price": 26.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Dolls"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "263a0184-9907-4f1d-9dcc-c1c6db854050",
+        "name": "Polly Pocket Playset",
+        "brand": "Mattel Polly Pocket",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Dolls"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f4661210-eaa5-4b95-bd29-bd3ce917fbf2",
+        "name": "Monster High Draculaura",
+        "brand": "Mattel Monster High",
+        "price": 32.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Dolls"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "513cad4d-0fc2-461f-b945-cdf45945f30c",
+        "name": "LEGO Star Wars Millennium Falcon",
+        "brand": "LEGO",
+        "price": 159.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Building Sets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5ebbcc4a-b86e-4343-bd00-a5bf163fb59b",
+        "name": "LEGO Technic Bugatti Chiron",
+        "brand": "LEGO",
+        "price": 349.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Building Sets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "097f1c89-d8a0-4c75-aa81-17d020ba7eff",
+        "name": "LEGO Harry Potter Hogwarts Castle",
+        "brand": "LEGO",
+        "price": 399.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Building Sets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1be4deef-a3b0-455e-abca-1aa342e1c207",
+        "name": "Mega Construx Pok\u00e9mon Charizard",
+        "brand": "Mega Construx",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Building Sets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "46fefec4-629b-457a-9c98-7e5cf902bb09",
+        "name": "K\u2019NEX Ferris Wheel",
+        "brand": "K\u2019NEX",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Building Sets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c1b70b4e-ec36-45e0-9845-644b97022e59",
+        "name": "LEGO Minecraft The Creeper Mine",
+        "brand": "LEGO",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Building Sets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b9a2e3b4-002d-4ef0-a307-516246b720a4",
+        "name": "LEGO City Police Station",
+        "brand": "LEGO",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Building Sets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7672dae5-c8aa-4165-9e46-39c1f4dbf58c",
+        "name": "LEGO Friends Heartlake City",
+        "brand": "LEGO",
+        "price": 59.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Building Sets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8d89f8a0-ecbf-4148-861b-86ab42e65a83",
+        "name": "LEGO Architecture Empire State",
+        "brand": "LEGO",
+        "price": 89.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Building Sets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7065f650-2f63-47aa-9a9b-d3490ce6ca80",
+        "name": "LEGO Super Mario Starter Course",
+        "brand": "LEGO",
+        "price": 59.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Building Sets"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "eecca8a9-5329-4ecd-a58c-9e761388d9bd",
+        "name": "VTech KidiZoom Camera",
+        "brand": "VTech",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Educational Toys"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2a9036fd-af92-46be-aa29-74c9345fe0c2",
+        "name": "LeapFrog LeapStart",
+        "brand": "LeapFrog",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Educational Toys"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f048a173-36d6-4a12-b843-8829b019489c",
+        "name": "Osmo Genius Kit",
+        "brand": "Osmo",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Educational Toys"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "838035bf-a74b-4bb5-84ed-5f12f6a2d93d",
+        "name": "Melissa & Doug Wooden Abacus",
+        "brand": "Melissa & Doug",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Educational Toys"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ddc8b868-27d2-4c39-bac4-2b5b5dd1934e",
+        "name": "STEM Solar Robot Kit",
+        "brand": "Discovery Kids",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Educational Toys"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "75722bbe-a983-4fad-a500-f3998d714467",
+        "name": "Science Experiment Kit",
+        "brand": "National Geographic",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Educational Toys"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c275f50a-f185-4110-8dc6-780dd0c76c65",
+        "name": "Coding Robot",
+        "brand": "Sphero Bolt",
+        "price": 149.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Educational Toys"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3357b44e-7dcf-49bb-ad93-72ce84e8a704",
+        "name": "Alphabet Learning Toy",
+        "brand": "LeapFrog Letter Factory",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Educational Toys"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5704a20f-7859-4aa5-bebb-8ada312a728c",
+        "name": "Math Flash Cards",
+        "brand": "School Zone",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Educational Toys"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c5bde85d-14d8-4e2c-83df-b7c2d922cb5b",
+        "name": "Shape Sorter Cube",
+        "brand": "Melissa & Doug",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Educational Toys"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "838ae2d4-8b87-4e58-8af4-da014941ddc8",
+        "name": "Nerf Elite 2.0 Blaster",
+        "brand": "Hasbro Nerf",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Outdoor Play"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c20859d7-0f08-45f2-af0a-572d950f296b",
+        "name": "Slip \u2018N Slide",
+        "brand": "Wham-O",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Outdoor Play"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "02cbc559-8ce6-4026-9bd2-4938935e7596",
+        "name": "Swing Set",
+        "brand": "Backyard Discovery",
+        "price": 599.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Outdoor Play"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b1573cbf-c66b-4fe3-bdee-9b9776f4858b",
+        "name": "Trampoline",
+        "brand": "Skywalker Trampolines",
+        "price": 249.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Outdoor Play"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bdf9d829-8a3f-4c83-a869-8b2dedfa7e6a",
+        "name": "Scooter",
+        "brand": "Razor A5 Lux",
+        "price": 89.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Outdoor Play"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8fa4af5c-086c-47df-82db-27030c97ce49",
+        "name": "Basketball Hoop",
+        "brand": "Lifetime 44-inch",
+        "price": 149.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Outdoor Play"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a47efeec-88be-417e-a61f-3c5e916c262f",
+        "name": "Kite",
+        "brand": "Hengda Delta Kite",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Outdoor Play"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9870f05d-a1e9-42ad-8060-29966ed493a6",
+        "name": "Inflatable Pool",
+        "brand": "Intex Easy Set",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Outdoor Play"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "136b89e2-8efe-4767-8064-1e3262594728",
+        "name": "Frisbee",
+        "brand": "Wham-O Ultimate Frisbee",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Outdoor Play"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "db780f74-7ce3-4c48-ae32-7757af6e5e91",
+        "name": "Cornhole Set",
+        "brand": "GoSports Classic",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Outdoor Play"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ebc5aafd-451f-45a1-9b75-95be7d29d49e",
+        "name": "Monopoly Board Game",
+        "brand": "Hasbro",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Games & Puzzles"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "78e8292b-a9ad-474c-af20-3c68de4cb660",
+        "name": "Scrabble Classic",
+        "brand": "Mattel",
+        "price": 16.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Games & Puzzles"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "07542bcd-2d99-48c6-86d5-f6d71f7fc4ba",
+        "name": "Jigsaw Puzzle 1000 Pieces",
+        "brand": "Buffalo Games",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Games & Puzzles"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "edf46629-d2af-4e38-86d4-2ceac01f7230",
+        "name": "Risk Strategy Game",
+        "brand": "Hasbro",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Games & Puzzles"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a8b50345-adaa-4e3a-a889-b9c77e6ff6c5",
+        "name": "Uno Card Game",
+        "brand": "Mattel",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Games & Puzzles"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4bee02f9-df95-4b7c-8f2f-b5f632fb9ea7",
+        "name": "Catan Board Game",
+        "brand": "Catan Studio",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Games & Puzzles"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "99dc87c9-81d0-44cf-9123-46241ab5a69e",
+        "name": "Chess Set",
+        "brand": "WE Games",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Games & Puzzles"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4af68b8f-f9cc-4720-b4ac-095b8bbd6d4b",
+        "name": "Escape Room Game",
+        "brand": "ThinkFun Escape the Room",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Games & Puzzles"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4b2bb334-1644-43af-bc2c-db706817d330",
+        "name": "Jenga Classic",
+        "brand": "Hasbro",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Games & Puzzles"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a5fc5833-5648-4dea-81e1-c25e6d7d3059",
+        "name": "Dungeons & Dragons Starter Set",
+        "brand": "Wizards of the Coast",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "toys": "Games & Puzzles"
+        },
+        "inStock": true,
+        "onSale": false
+    }
+]

@@ -1,0 +1,722 @@
+[
+    {
+        "id": "0a5078df-a201-42cc-b1a5-4e4a06ef27ea",
+        "name": "Comforter Set",
+        "brand": "Utopia Bedding",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bedding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d114608c-9e3f-424e-a075-5f651ea064f6",
+        "name": "Memory Foam Pillow",
+        "brand": "Tempur-Pedic",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bedding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6f4ad209-edd0-495f-92a1-987de4016e2c",
+        "name": "Sheet Set",
+        "brand": "California Design Den",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bedding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f020e2a2-d1bb-4a48-b946-bd92344d2556",
+        "name": "Weighted Blanket",
+        "brand": "YnM",
+        "price": 59.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bedding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "38e118e7-b62e-4769-8d43-338649d8214d",
+        "name": "Mattress Protector",
+        "brand": "SafeRest",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bedding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "93178f3f-adb8-479a-9b53-145b0033b31f",
+        "name": "Duvet Cover",
+        "brand": "Bedsure Microfiber",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bedding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "84f7dea0-80a1-4be9-bd09-d9cb09ef533f",
+        "name": "Throw Blanket",
+        "brand": "Bedsure Sherpa Fleece",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bedding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c2b5850b-4d2a-4863-9b9d-02742eafbbcd",
+        "name": "Bed Skirt",
+        "brand": "Amazon Basics",
+        "price": 18.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bedding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0558b5f4-bb45-4875-8820-fbeda72a1d8c",
+        "name": "Cooling Pillow",
+        "brand": "Coop Home Goods",
+        "price": 69.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bedding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "541d08a3-1723-4e97-95ac-0a26ab364d29",
+        "name": "Mattress Topper",
+        "brand": "Linenspa Gel Infused",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bedding"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3414fb0f-226f-4e78-9b13-1a7f2741f382",
+        "name": "Bath Towels",
+        "brand": "Utopia Towels",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bath"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4211527f-83f9-4980-855c-b16a3b3429da",
+        "name": "Shower Curtain",
+        "brand": "AmazerBath Waterproof",
+        "price": 15.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bath"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d520004f-f491-4b79-8223-24d0a48e3358",
+        "name": "Bath Mat",
+        "brand": "Genteele Memory Foam",
+        "price": 21.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bath"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "afd0f5e8-79f7-4c00-99ef-88f533afac82",
+        "name": "Soap Dispenser",
+        "brand": "Simplehuman Sensor",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bath"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "735f46b3-ad4a-4ad4-a5e9-44c7a04f311a",
+        "name": "Toilet Brush",
+        "brand": "OXO Good Grips",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bath"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8194e203-c6a5-48a6-a6f7-b9681d78a6d2",
+        "name": "Shower Caddy",
+        "brand": "SimpleHouseware Hanging",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bath"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "088746ac-7e78-4197-af8a-73572a319abf",
+        "name": "Bathroom Mirror",
+        "brand": "Keonjinn LED Mirror",
+        "price": 139.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bath"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3d8d2a31-248a-41fb-ad4f-b0edf5145772",
+        "name": "Towel Rack",
+        "brand": "KES Stainless Steel",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bath"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "28657386-7576-48ba-9a5d-652a335d67a2",
+        "name": "Bathrobe",
+        "brand": "Alexander Del Rossa Plush",
+        "price": 44.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bath"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "82c190eb-ad1e-4c30-9ecb-1b195cd79986",
+        "name": "Trash Can",
+        "brand": "Simplehuman Step Trash",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "home": "Bath"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d909d204-b89f-43fa-a756-09bf4d51c4b0",
+        "name": "Sofa",
+        "brand": "Zinus Josh Loveseat",
+        "price": 289.99,
+        "salePrice": null,
+        "category": {
+            "home": "Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "416c66ec-1325-4208-a159-3d7755cd31ba",
+        "name": "Dining Table",
+        "brand": "Walker Edison Wood Table",
+        "price": 399.99,
+        "salePrice": null,
+        "category": {
+            "home": "Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "153ae196-71ba-4a0e-a36f-5b4a223173d0",
+        "name": "Office Chair",
+        "brand": "Herman Miller Aeron",
+        "price": 1399.99,
+        "salePrice": null,
+        "category": {
+            "home": "Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d92ee589-ec8f-4843-8f5c-f77e9309d1a7",
+        "name": "Coffee Table",
+        "brand": "Sauder North Avenue",
+        "price": 119.99,
+        "salePrice": null,
+        "category": {
+            "home": "Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "76e032ad-ac06-492d-87ae-e560497af285",
+        "name": "Bookshelf",
+        "brand": "IKEA Billy",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "home": "Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "947619f8-a7c5-43c8-a7d8-4462898af1eb",
+        "name": "Bed Frame",
+        "brand": "Zinus SmartBase",
+        "price": 159.99,
+        "salePrice": null,
+        "category": {
+            "home": "Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e6416bb7-02a7-4185-8716-87f2095f6058",
+        "name": "TV Stand",
+        "brand": "Walker Edison Modern Stand",
+        "price": 199.99,
+        "salePrice": null,
+        "category": {
+            "home": "Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ef6c064c-7f6e-43a4-bbe7-5fc39d5add5a",
+        "name": "Nightstand",
+        "brand": "VASAGLE Industrial Table",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "home": "Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "eeba165e-933b-483a-b729-78c01718365a",
+        "name": "Recliner Chair",
+        "brand": "Signature Design by Ashley",
+        "price": 299.99,
+        "salePrice": null,
+        "category": {
+            "home": "Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c90a04c8-b62c-464c-ab6d-ae3babd9dd92",
+        "name": "Storage Cabinet",
+        "brand": "Sauder HomePlus",
+        "price": 179.99,
+        "salePrice": null,
+        "category": {
+            "home": "Furniture"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5567286f-da0d-4f86-bc22-34a18ee5a06d",
+        "name": "Wall Art",
+        "brand": "Wieco Art Canvas Prints",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "home": "Home D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "59fca5bc-6150-4b15-a195-9e9ec1c493b1",
+        "name": "Vase",
+        "brand": "Hosley Decorative Vase",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "home": "Home D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "783bd46f-c2d5-45dd-a2a9-e1113faa5ef4",
+        "name": "Picture Frame Set",
+        "brand": "Gallery Wall Frames",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "home": "Home D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0735ec15-e55b-4474-9935-6bd6d52ffbf8",
+        "name": "Candles",
+        "brand": "Yankee Candle Large Jar",
+        "price": 27.99,
+        "salePrice": null,
+        "category": {
+            "home": "Home D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3cc1bc84-949e-4e5a-b3bc-26108071120f",
+        "name": "Decorative Pillow",
+        "brand": "MIULEE Velvet Covers",
+        "price": 18.99,
+        "salePrice": null,
+        "category": {
+            "home": "Home D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8b9aa6dd-de33-4ad4-bcc9-acf69f370184",
+        "name": "Wall Clock",
+        "brand": "FirsTime & Co. Rustic",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "home": "Home D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cf2c55e9-ed61-42e0-bb15-398a7e72af59",
+        "name": "Indoor Plants",
+        "brand": "Costa Farms Snake Plant",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "home": "Home D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "36ca0813-d029-4fa2-8f23-26e95df2ac64",
+        "name": "Curtains",
+        "brand": "NICETOWN Blackout Panels",
+        "price": 32.99,
+        "salePrice": null,
+        "category": {
+            "home": "Home D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "99bd51df-be60-423e-9e1e-4afb51c9fcf3",
+        "name": "Rug",
+        "brand": "nuLOOM Moroccan Shag",
+        "price": 89.99,
+        "salePrice": null,
+        "category": {
+            "home": "Home D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "17578dc3-54ab-4456-85eb-82b704e3c736",
+        "name": "Mirror",
+        "brand": "Hamilton Hills Large Mirror",
+        "price": 149.99,
+        "salePrice": null,
+        "category": {
+            "home": "Home D\u00e9cor"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5a8cde78-0441-44dc-8d3b-9ea1587d2e1e",
+        "name": "Cookware Set",
+        "brand": "T-fal Nonstick 12-Piece",
+        "price": 89.99,
+        "salePrice": null,
+        "category": {
+            "home": "Kitchen & Dining"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cffbfa90-c541-4608-ab6c-6772105a43d5",
+        "name": "Knife Set",
+        "brand": "Cuisinart 15-Piece",
+        "price": 69.99,
+        "salePrice": null,
+        "category": {
+            "home": "Kitchen & Dining"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9e3130a1-3e5a-4975-a17f-6ad4e42558da",
+        "name": "Blender",
+        "brand": "Ninja Professional",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "home": "Kitchen & Dining"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "153108a3-6873-4ef5-9cbb-e45b17f38f16",
+        "name": "Coffee Maker",
+        "brand": "Keurig K-Classic",
+        "price": 119.99,
+        "salePrice": null,
+        "category": {
+            "home": "Kitchen & Dining"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "624b5d56-a458-4106-834b-00f53e7899ae",
+        "name": "Dinnerware Set",
+        "brand": "Corelle 16-Piece",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "home": "Kitchen & Dining"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8269691d-7b1c-4d11-8509-2cd55818cea0",
+        "name": "Cutting Board",
+        "brand": "John Boos Maple Wood",
+        "price": 69.99,
+        "salePrice": null,
+        "category": {
+            "home": "Kitchen & Dining"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bc9cb7d8-84cc-4058-a224-7101dcafd5d8",
+        "name": "Utensil Set",
+        "brand": "OXO Good Grips",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "home": "Kitchen & Dining"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cb638b1b-43b6-476a-b1e2-dc7c8b0ce78e",
+        "name": "Toaster",
+        "brand": "Cuisinart 4-Slice",
+        "price": 69.99,
+        "salePrice": null,
+        "category": {
+            "home": "Kitchen & Dining"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "46608721-0ce6-49e5-a9f4-5b483f9356c9",
+        "name": "Slow Cooker",
+        "brand": "Crock-Pot 7-Quart",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "home": "Kitchen & Dining"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bdad9eb8-ad87-43ff-9e3b-fd00e827aba3",
+        "name": "Microwave Oven",
+        "brand": "Panasonic Inverter",
+        "price": 159.99,
+        "salePrice": null,
+        "category": {
+            "home": "Kitchen & Dining"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d334e52c-a0d3-44b5-8d30-f4eb9fbdd048",
+        "name": "Closet Organizer",
+        "brand": "Simple Houseware",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "home": "Storage & Organization"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1b117b35-5c8f-463a-8e6f-f55811a87798",
+        "name": "Storage Bins",
+        "brand": "Amazon Basics Fabric Bins",
+        "price": 21.99,
+        "salePrice": null,
+        "category": {
+            "home": "Storage & Organization"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7134a610-2489-4b26-acd6-371feb75f080",
+        "name": "Shoe Rack",
+        "brand": "Seville Classics 3-Tier",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "home": "Storage & Organization"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4160f191-d9a6-48fa-adba-dc6d4470addd",
+        "name": "Bookshelf",
+        "brand": "Homfa 6-Cube Shelf",
+        "price": 59.99,
+        "salePrice": null,
+        "category": {
+            "home": "Storage & Organization"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "347ec27f-ddc3-4c09-9c4e-c9b9ad46db7f",
+        "name": "Pantry Organizer",
+        "brand": "mDesign Stackable Bins",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "home": "Storage & Organization"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d9a8ca8f-a9db-4c3a-a7aa-2b200f549ed5",
+        "name": "Under Bed Storage",
+        "brand": "ZOBER Storage Bag",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "home": "Storage & Organization"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a40a33a2-80e6-44cc-a7b0-32b02391707a",
+        "name": "Hanging Organizer",
+        "brand": "SimpleHouseware Hanging",
+        "price": 16.99,
+        "salePrice": null,
+        "category": {
+            "home": "Storage & Organization"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "87af76a1-cdae-467e-a9b5-61cf85e8699f",
+        "name": "Laundry Basket",
+        "brand": "Mind Reader Basket",
+        "price": 17.99,
+        "salePrice": null,
+        "category": {
+            "home": "Storage & Organization"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8ef29ea1-1c17-4af9-b5e3-f49af6938925",
+        "name": "Toy Storage",
+        "brand": "Humble Crew Toy Organizer",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "home": "Storage & Organization"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d72c9cb6-d51f-4fac-9f04-4c938c589bbf",
+        "name": "Garage Shelving",
+        "brand": "FLEXIMOUNTS Adjustable",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "home": "Storage & Organization"
+        },
+        "inStock": true,
+        "onSale": false
+    }
+]

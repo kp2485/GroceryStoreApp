@@ -1,0 +1,602 @@
+[
+    {
+        "id": "f2dbb9cc-6b3b-4200-87d3-fc98ecfa4dd5",
+        "name": "Treadmill",
+        "brand": "NordicTrack Commercial 1750",
+        "price": 1899.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Fitness Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bc292584-95ce-4b61-b2ee-718df9885ed1",
+        "name": "Dumbbell Set",
+        "brand": "Bowflex SelectTech 552",
+        "price": 429.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Fitness Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4eb7dab8-4fe0-4b28-bf89-829417d438d7",
+        "name": "Yoga Mat",
+        "brand": "Manduka PRO Yoga Mat",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Fitness Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6d7c913f-7ab8-459a-85fb-1b648ee1c2c7",
+        "name": "Resistance Bands",
+        "brand": "Fit Simplify Loop Bands",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Fitness Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4707a7d7-3a09-4ca8-826a-f682bbfd76de",
+        "name": "Kettlebell",
+        "brand": "CAP Barbell Cast Iron",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Fitness Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3db753aa-e7b0-4a7e-81bf-3a602f19e89c",
+        "name": "Jump Rope",
+        "brand": "Crossrope Get Lean",
+        "price": 69.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Fitness Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "03612318-ceb5-4d35-8f4d-489a38e47f45",
+        "name": "Foam Roller",
+        "brand": "TriggerPoint GRID Foam Roller",
+        "price": 36.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Fitness Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "33b2df74-7c6c-44f1-9490-fd171b56f36f",
+        "name": "Weight Bench",
+        "brand": "Marcy Adjustable Utility Bench",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Fitness Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "79c1f6e3-7809-49a4-a5bb-a9df59eca367",
+        "name": "Rowing Machine",
+        "brand": "Concept2 Model D",
+        "price": 999.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Fitness Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "61a6a78a-6d7c-43d0-a431-deb022e6527b",
+        "name": "Pull-Up Bar",
+        "brand": "Iron Gym Total Upper Body",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Fitness Equipment"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "03f68ce6-37ae-41cf-bd86-5ee4f6f310e9",
+        "name": "Tent",
+        "brand": "Coleman Sundome 4-Person Tent",
+        "price": 89.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Outdoor Recreation"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1d827a11-c30b-4b5e-a9ef-f42b8545db28",
+        "name": "Hiking Backpack",
+        "brand": "Osprey Atmos AG 65",
+        "price": 299.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Outdoor Recreation"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "05c59649-09b2-4922-a9e2-3b3d51c57530",
+        "name": "Sleeping Bag",
+        "brand": "TETON Sports Celsius",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Outdoor Recreation"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f4df38ae-4933-4403-ab6d-4b274f9c4303",
+        "name": "Camping Stove",
+        "brand": "Coleman Classic Propane Stove",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Outdoor Recreation"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "38a0191e-1457-4682-9c12-e0ca2b8a5fd5",
+        "name": "Cooler",
+        "brand": "YETI Tundra 45",
+        "price": 299.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Outdoor Recreation"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7a8ea0c5-ea80-4f6a-9e20-32296c9e5a58",
+        "name": "Binoculars",
+        "brand": "Nikon Prostaff 7s",
+        "price": 199.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Outdoor Recreation"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cba3a199-9d06-4b75-9bb0-e60efcf89a63",
+        "name": "Headlamp",
+        "brand": "Black Diamond Spot 400",
+        "price": 44.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Outdoor Recreation"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "22cfc8fd-4f5a-49bc-b8e3-602cf38d2fbe",
+        "name": "Camping Hammock",
+        "brand": "Wise Owl Outfitters",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Outdoor Recreation"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d04acbac-5733-46bd-a028-e1174b4b21d7",
+        "name": "Portable Fire Pit",
+        "brand": "Solo Stove Bonfire",
+        "price": 299.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Outdoor Recreation"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7c067eb5-22ba-4806-af15-db2722d98234",
+        "name": "Water Filter",
+        "brand": "LifeStraw Personal Filter",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Outdoor Recreation"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d9a81bed-29ff-44d7-a704-002e6f5e06fd",
+        "name": "Basketball",
+        "brand": "Spalding NBA Official",
+        "price": 59.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Team Sports"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b4bf22fa-e82c-466c-b361-d4fb4283a06c",
+        "name": "Soccer Ball",
+        "brand": "Adidas MLS Club Ball",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Team Sports"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1112ee49-019d-45fc-a370-47e94f8829e4",
+        "name": "Football",
+        "brand": "Wilson NFL Super Grip",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Team Sports"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "82fc53cd-c550-4117-b069-67f6d05cf920",
+        "name": "Baseball Glove",
+        "brand": "Rawlings Player Preferred",
+        "price": 69.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Team Sports"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c12aa65d-13f2-4ef1-89a9-96f39a6adc4b",
+        "name": "Volleyball",
+        "brand": "Mikasa VLS300",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Team Sports"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "96495d0f-7a31-48d9-b2f7-eabb76bf2592",
+        "name": "Hockey Stick",
+        "brand": "Bauer Vapor X3.7",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Team Sports"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b84d8450-78b5-410a-a8c2-746afc260b72",
+        "name": "Softball Bat",
+        "brand": "Easton Ghost Advanced",
+        "price": 349.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Team Sports"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "be38b103-7e0d-4a1f-9e59-414b768e573b",
+        "name": "Lacrosse Stick",
+        "brand": "STX Stallion 200",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Team Sports"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "14a840bf-e12c-4a72-8611-edf0ce5a9ec6",
+        "name": "Tennis Racket",
+        "brand": "Wilson Pro Staff RF97",
+        "price": 249.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Team Sports"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8824952f-5280-476d-a49b-dfd47e2944ea",
+        "name": "Golf Clubs",
+        "brand": "Callaway Strata Complete Set",
+        "price": 399.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Team Sports"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c2f1d061-fe5d-4da6-a4e8-742584282ae5",
+        "name": "Backpacking Tent",
+        "brand": "Big Agnes Copper Spur HV UL2",
+        "price": 499.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Camping & Hiking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "afc67222-8536-46fa-9c71-b13828dc10b7",
+        "name": "Hiking Boots",
+        "brand": "Merrell Moab 3",
+        "price": 139.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Camping & Hiking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0c288596-bb72-493a-a229-fd5044c3b658",
+        "name": "Hydration Pack",
+        "brand": "CamelBak M.U.L.E.",
+        "price": 109.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Camping & Hiking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "6b9f61e6-0de5-448c-82f6-b2f9ab32eda4",
+        "name": "Hiking Poles",
+        "brand": "Black Diamond Trail Ergo",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Camping & Hiking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "16f0f211-5320-4b09-b68e-6bb2424c2a3f",
+        "name": "Bear Spray",
+        "brand": "Counter Assault Bear Deterrent",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Camping & Hiking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2e2c91fe-ff39-4cb6-8642-e54105950154",
+        "name": "Compass",
+        "brand": "Suunto MC-2",
+        "price": 54.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Camping & Hiking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "47439e55-289f-4f74-a102-6a5c08c78431",
+        "name": "Camping Lantern",
+        "brand": "LE LED Camping Lantern",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Camping & Hiking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "da93c272-f093-4d91-89a0-29fc5b66bfb4",
+        "name": "Multi-Tool",
+        "brand": "Leatherman Wave Plus",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Camping & Hiking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "7762d4da-e45a-4876-bed9-ea559c52c501",
+        "name": "Backpacking Stove",
+        "brand": "MSR PocketRocket 2",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Camping & Hiking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2d4cdfc5-5d49-4c21-987f-677b084ecf67",
+        "name": "GPS Device",
+        "brand": "Garmin eTrex 32x",
+        "price": 249.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Camping & Hiking"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "49b20575-4132-46c3-a96f-608e6ac20c3c",
+        "name": "Mountain Bike",
+        "brand": "Trek Marlin 7",
+        "price": 1099.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Cycling"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4ee2980a-e837-424b-be1e-e7e9931b2344",
+        "name": "Road Bike",
+        "brand": "Specialized Allez",
+        "price": 1299.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Cycling"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "dee3781a-bccb-4f18-b5d3-4cd8b2179dfa",
+        "name": "Bike Helmet",
+        "brand": "Giro Syntax MIPS",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Cycling"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ab700232-357c-4630-8788-2ad9ac76337f",
+        "name": "Bike Lock",
+        "brand": "Kryptonite New-U Evolution",
+        "price": 89.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Cycling"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "40de1b2b-9110-4472-a324-af95183ab605",
+        "name": "Cycling Gloves",
+        "brand": "Pearl Izumi Ride Select",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Cycling"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "365a080e-0778-49d4-b60c-c96432d81c94",
+        "name": "Bike Lights",
+        "brand": "Cygolite Metro Pro 1100",
+        "price": 89.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Cycling"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d29659d3-d59b-4cf4-9652-2c16896e1b85",
+        "name": "Bike Pump",
+        "brand": "Lezyne Steel Floor Drive",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Cycling"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "abc8978f-8e92-4b7f-89c5-b3ae3f538864",
+        "name": "Cycling Shoes",
+        "brand": "Shimano RC1",
+        "price": 89.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Cycling"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0561e7a1-df10-4d20-99e1-67dacbc2d5b1",
+        "name": "Bike Water Bottle",
+        "brand": "CamelBak Podium",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Cycling"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "5809b491-de76-42d9-87c8-001574ab81fd",
+        "name": "Bike Repair Kit",
+        "brand": "Park Tool AK-5 Advanced",
+        "price": 149.99,
+        "salePrice": null,
+        "category": {
+            "sportingGoods": "Cycling"
+        },
+        "inStock": true,
+        "onSale": false
+    }
+]

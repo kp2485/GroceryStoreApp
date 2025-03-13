@@ -1,0 +1,602 @@
+[
+    {
+        "id": "d7cd4697-d630-46d8-8e23-f37abbb65958",
+        "name": "Disinfecting Wipes",
+        "brand": "Clorox",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Cleaning Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "32206b0f-9f9a-4c1a-ad55-b1f725ea1427",
+        "name": "All-Purpose Cleaner",
+        "brand": "Lysol",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Cleaning Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "794b9765-c090-4a44-b1de-ce068c9ac019",
+        "name": "Glass Cleaner",
+        "brand": "Windex",
+        "price": 3.49,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Cleaning Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9ada78b5-8acf-4758-9b14-10cbfb762448",
+        "name": "Mop & Bucket",
+        "brand": "O-Cedar EasyWring",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Cleaning Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b8e3642b-867b-4415-ab25-86185d677073",
+        "name": "Laundry Detergent",
+        "brand": "Tide Pods",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Cleaning Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a4a816cd-db98-479f-b519-685303cf4ce7",
+        "name": "Dish Soap",
+        "brand": "Dawn Ultra",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Cleaning Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c091006d-6ea5-49ee-a42e-8fb8347bfd8d",
+        "name": "Sponges",
+        "brand": "Scotch-Brite Heavy Duty",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Cleaning Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "66894df4-24bf-45b4-b1b7-d81af091d71d",
+        "name": "Bleach",
+        "brand": "Clorox Regular",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Cleaning Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "812c1971-91d1-4dc1-818a-2414bedb4109",
+        "name": "Toilet Bowl Cleaner",
+        "brand": "Lysol Power",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Cleaning Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b5420ebb-1955-477b-a8ce-40b103482337",
+        "name": "Carpet Cleaner",
+        "brand": "Bissell ProHeat 2X",
+        "price": 199.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Cleaning Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a73e0676-476c-4926-8aa7-567ad84f50f8",
+        "name": "Toilet Paper",
+        "brand": "Charmin Ultra Soft",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Paper & Plastic Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4fb3a841-43b0-4592-98ab-c1b2e6798815",
+        "name": "Paper Towels",
+        "brand": "Bounty Select-A-Size",
+        "price": 16.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Paper & Plastic Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "32f00442-91c0-4b41-81e2-56e208b24d01",
+        "name": "Napkins",
+        "brand": "Vanity Fair Everyday",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Paper & Plastic Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1a4cbfdf-6dd0-4733-ae0c-ef865ddaa670",
+        "name": "Plastic Cups",
+        "brand": "Solo Red Cups",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Paper & Plastic Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d7a47ec1-a874-4667-ac42-193ff81a6339",
+        "name": "Paper Plates",
+        "brand": "Dixie Heavy Duty",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Paper & Plastic Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "54fd73af-0698-4529-be60-2aea1dd0fc22",
+        "name": "Plastic Utensils",
+        "brand": "Hefty Cutlery",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Paper & Plastic Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0eb0b6f1-e4a3-4389-bae2-b644559292f9",
+        "name": "Trash Bags",
+        "brand": "Glad ForceFlex 13 Gallon",
+        "price": 10.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Paper & Plastic Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "db3a26fd-441b-45c3-be1e-e24476eded96",
+        "name": "Aluminum Foil",
+        "brand": "Reynolds Wrap Heavy Duty",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Paper & Plastic Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3cf43e5c-55cf-4ac4-b4e4-f989429be392",
+        "name": "Wax Paper",
+        "brand": "Cut-Rite",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Paper & Plastic Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "04690a36-9304-442f-8b0a-83e019bd8818",
+        "name": "Plastic Wrap",
+        "brand": "Saran Wrap",
+        "price": 4.49,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Paper & Plastic Products"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "27047414-9df1-4347-9455-dbd20786e46c",
+        "name": "Laundry Detergent",
+        "brand": "Tide Original",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Laundry Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "642d46c8-d0cf-4420-946d-6e5ee9681b35",
+        "name": "Fabric Softener",
+        "brand": "Downy April Fresh",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Laundry Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "17e81c6f-e8f9-4cf6-81a4-1164e34e5391",
+        "name": "Stain Remover",
+        "brand": "OxiClean MaxForce",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Laundry Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4e27dfe9-2368-42a8-b598-0c8dc2cd8939",
+        "name": "Dryer Sheets",
+        "brand": "Bounce Fresh Linen",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Laundry Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9e6d89c3-5fd4-4fa7-91cf-8e58ee81f537",
+        "name": "Bleach",
+        "brand": "Clorox Performance",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Laundry Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "32f277fb-4146-45f3-bd81-99a7d82b2ae9",
+        "name": "Laundry Pods",
+        "brand": "Gain Flings",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Laundry Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "aa52b437-0884-4f2c-bcac-a9b856c73608",
+        "name": "Wool Dryer Balls",
+        "brand": "Smart Sheep",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Laundry Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "dd691e3b-44ca-4484-9663-9f5989f5ae82",
+        "name": "Laundry Basket",
+        "brand": "Sterilite Ultra",
+        "price": 11.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Laundry Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0b0897c4-7987-45fb-9912-ed8b15558693",
+        "name": "Lint Roller",
+        "brand": "Scotch-Brite Large Surface",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Laundry Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c10b1eed-94cd-4aa4-a4d5-9ec8df44fc7d",
+        "name": "Delicates Wash Bag",
+        "brand": "Whitmor Mesh Laundry Bag",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Laundry Care"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3420e111-e7d4-4a23-a136-9ab59e36b25c",
+        "name": "Dish Soap",
+        "brand": "Dawn Platinum",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Dishwashing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "43f7c790-9994-435f-8935-f61b7bfcd5b7",
+        "name": "Dishwasher Detergent",
+        "brand": "Cascade Platinum Pods",
+        "price": 18.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Dishwashing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "727032cf-04cf-4448-9b0f-32bd24ad66c5",
+        "name": "Scrub Brush",
+        "brand": "OXO Good Grips",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Dishwashing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "993988d4-9423-42f6-815a-088fbc19bf84",
+        "name": "Dish Drying Rack",
+        "brand": "Simplehuman",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Dishwashing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bf15c2cf-4e49-45c8-a9e9-c35717bce7da",
+        "name": "Dish Towels",
+        "brand": "Utopia Kitchen Cotton",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Dishwashing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "01de036b-0be2-4526-9a9b-83ac59bb5f51",
+        "name": "Rinse Aid",
+        "brand": "Finish Jet-Dry",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Dishwashing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "36b74922-222d-44ac-abe0-696bd9f33ae5",
+        "name": "Dishwasher Cleaner",
+        "brand": "Affresh Tablets",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Dishwashing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "72bfdfb5-f770-4bb9-9ee2-b8eb44428555",
+        "name": "Bottle Brush",
+        "brand": "Munchkin Bristle Brush",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Dishwashing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f9543d95-38be-440a-9faa-0008f965630b",
+        "name": "Gloves",
+        "brand": "Playtex Living Reusable",
+        "price": 3.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Dishwashing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d64e0046-255d-4a44-a289-e17a87a3f5c4",
+        "name": "Sponge Holder",
+        "brand": "Kohler Suction Cup",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Dishwashing"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3b850e77-cae9-473f-96c6-59d28662887e",
+        "name": "Plug-In Air Freshener",
+        "brand": "Glade Plugins",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Air Fresheners"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f155e237-80d9-454f-b982-5687d255bceb",
+        "name": "Aerosol Spray",
+        "brand": "Febreze Air Effects",
+        "price": 3.49,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Air Fresheners"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e0a20490-0e1b-4278-a0f4-ab12096e881d",
+        "name": "Essential Oil Diffuser",
+        "brand": "InnoGear Ultrasonic",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Air Fresheners"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "58b3c3c5-4145-41a5-a2dc-0af7f44b1cf9",
+        "name": "Scented Candles",
+        "brand": "Yankee Candle",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Air Fresheners"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "404f110b-e66d-497f-9f2f-96f67a1fd598",
+        "name": "Car Air Freshener",
+        "brand": "Little Trees Black Ice",
+        "price": 2.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Air Fresheners"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "750f73f9-8f01-49e9-a1d8-14c1356ff32e",
+        "name": "Gel Air Freshener",
+        "brand": "Renuzit Adjustables",
+        "price": 1.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Air Fresheners"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "42bb2f57-cd77-4c15-bb28-a2972ae46bc8",
+        "name": "Room Spray",
+        "brand": "Mrs. Meyer's Clean Day",
+        "price": 5.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Air Fresheners"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2d1f836f-76ca-4e58-94d4-e80e6aabb0d4",
+        "name": "Activated Charcoal Odor Absorber",
+        "brand": "Moso Natural",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Air Fresheners"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "761499bd-89a7-4d23-9fdb-ad9370a407cd",
+        "name": "Wax Melts",
+        "brand": "Better Homes & Gardens",
+        "price": 4.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Air Fresheners"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "be997e85-962f-4618-b50c-b55f37b370e8",
+        "name": "Automatic Spray Refill",
+        "brand": "Air Wick Freshmatic",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "householdEssentials": "Air Fresheners"
+        },
+        "inStock": true,
+        "onSale": false
+    }
+]

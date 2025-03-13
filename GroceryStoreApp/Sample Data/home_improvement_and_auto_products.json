@@ -1,0 +1,602 @@
+[
+    {
+        "id": "303cef2f-8ba2-4cbb-b27a-418101ca1816",
+        "name": "Cordless Drill",
+        "brand": "DEWALT 20V MAX",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Tools"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "2ec7ae36-8a33-4ea5-87c2-57b428e7787a",
+        "name": "Socket Set",
+        "brand": "Craftsman 230-Piece",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Tools"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a612fcc4-c7d8-462a-a7a1-f0fceafd67be",
+        "name": "Adjustable Wrench",
+        "brand": "Crescent 10-Inch",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Tools"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3f4908ca-4b9a-4840-900a-6cab241d821a",
+        "name": "Tape Measure",
+        "brand": "Stanley PowerLock 25ft",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Tools"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a786063a-297e-4fb5-82df-e7e4b3f4d4eb",
+        "name": "Utility Knife",
+        "brand": "Milwaukee Fastback",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Tools"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "21450aaf-e8bf-4ddc-b475-8f1850371dba",
+        "name": "Claw Hammer",
+        "brand": "Estwing 16oz",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Tools"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c1870858-1ab1-432d-a78e-0f2aa22b239a",
+        "name": "Level",
+        "brand": "Bosch 48-Inch Aluminum",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Tools"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "c64db232-9095-4567-b078-2f113597379b",
+        "name": "Screwdriver Set",
+        "brand": "Wiha Precision 11-Piece",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Tools"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f7cda8ac-5ae8-469d-9a8e-22c22d360c38",
+        "name": "Power Saw",
+        "brand": "Makita Circular Saw 7-1/4",
+        "price": 149.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Tools"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b495e655-8baf-4756-b5c6-acaa2fec57ac",
+        "name": "Stud Finder",
+        "brand": "Zircon MultiScanner",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Tools"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "08c7b8cd-6f9a-4f2b-9b3b-cff48657573e",
+        "name": "Interior Paint",
+        "brand": "Behr Premium Ultra Pure White",
+        "price": 32.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Paint & Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "55b2068e-79f1-4743-b2d8-536d773bdc27",
+        "name": "Exterior Paint",
+        "brand": "Sherwin-Williams Duration",
+        "price": 48.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Paint & Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "00f158de-e08d-4da4-b647-a0a76225ae49",
+        "name": "Paint Roller Set",
+        "brand": "Wooster Pro 9-Inch Kit",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Paint & Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "177e92f7-13be-446d-b14d-3c967959d37d",
+        "name": "Paint Brushes",
+        "brand": "Purdy XL 3-Pack",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Paint & Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "d79fced1-4256-416e-82a1-825ef8410180",
+        "name": "Painter's Tape",
+        "brand": "FrogTape Multi-Surface",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Paint & Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "f95be158-69dd-41ad-aa88-3fcfcb657ce9",
+        "name": "Drop Cloth",
+        "brand": "Trimaco SuperTuff Canvas",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Paint & Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "4175437b-418a-4db0-9d3c-623cf33c6e30",
+        "name": "Paint Sprayer",
+        "brand": "Wagner Control Spray Max",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Paint & Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e89ef1f5-d3ce-42a2-bd7f-567f21878a5c",
+        "name": "Sandpaper",
+        "brand": "3M Assorted Grit Pack",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Paint & Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "288c3761-9f2a-450a-9f10-0f3fc573dded",
+        "name": "Wood Stain",
+        "brand": "Minwax PolyShades Espresso",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Paint & Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b3016a8d-bd7d-446a-b2b3-d955f497b80b",
+        "name": "Paint Tray",
+        "brand": "Shur-Line Deep Well",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Paint & Supplies"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a88248cc-e8ba-4550-81e4-ab23efa236ae",
+        "name": "Door Lock",
+        "brand": "Kwikset SmartKey Deadbolt",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Hardware"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b2d80d04-4853-43ac-82e3-40ca7875baa1",
+        "name": "Cabinet Knobs",
+        "brand": "Amazon Basics 10-Pack",
+        "price": 18.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Hardware"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "592e1bad-f0b4-4c72-8d7d-eaf31e4ffa1d",
+        "name": "Hinges",
+        "brand": "Everbilt 4-Inch Heavy Duty",
+        "price": 7.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Hardware"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "bb809cbd-66d9-4141-bcb1-45c922a84e80",
+        "name": "Anchor Screws",
+        "brand": "TOGGLER Snaptoggle 10-Pack",
+        "price": 9.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Hardware"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "8673723c-c3fb-487f-9c0f-96c87eb8df25",
+        "name": "L-Brackets",
+        "brand": "Stanley 90-Degree 4-Pack",
+        "price": 6.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Hardware"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "b4da1e71-1f1b-4300-b522-f7ae1abc5a42",
+        "name": "Door Handle Set",
+        "brand": "Schlage Camelot Keypad Entry",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Hardware"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1e1477ba-b105-4205-845e-b70b71f1ffa8",
+        "name": "Gate Latch",
+        "brand": "National Hardware Self-Closing",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Hardware"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "965f7232-2be5-4b5d-b9de-c5d888cbba66",
+        "name": "Wall Hooks",
+        "brand": "Command Large Utility Hooks",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Hardware"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "122a95b1-a8c1-4b49-a9ca-251321f3cfba",
+        "name": "Drawer Slides",
+        "brand": "Soft Close 22-Inch Pair",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Hardware"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "0735a469-6ffb-489d-9ffb-d43d836d5194",
+        "name": "House Numbers",
+        "brand": "Hillman Reflective 5-Pack",
+        "price": 12.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Hardware"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9a0de84a-b452-489c-9aa0-1660de57c92a",
+        "name": "Motor Oil",
+        "brand": "Mobil 1 Full Synthetic 5W-30",
+        "price": 29.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Automotive"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "465deb29-8570-4b74-b540-373d2697cd39",
+        "name": "Car Battery",
+        "brand": "Optima RedTop 8004-003",
+        "price": 199.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Automotive"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "dc794c87-6053-467e-af15-7878f36873d6",
+        "name": "Windshield Wipers",
+        "brand": "Bosch ICON 24A",
+        "price": 24.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Automotive"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "3252a010-d2bf-4699-86ff-a4eb349f9eec",
+        "name": "Car Wash Soap",
+        "brand": "Chemical Guys Honeydew Snow Foam",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Automotive"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "46892b73-bef4-4c1d-a5df-f31fbcedcda3",
+        "name": "Tire Inflator",
+        "brand": "EPAuto 12V DC Portable",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Automotive"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e28060c7-073a-4183-9821-222867e7f064",
+        "name": "Jump Starter",
+        "brand": "NOCO Boost Plus GB40",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Automotive"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "1e0c71b9-bc9f-4515-8dae-b143329372cf",
+        "name": "Seat Covers",
+        "brand": "BDK PolyPro Universal Fit",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Automotive"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "38af4d9e-25cd-4e61-b670-4ef5058d6ca3",
+        "name": "Floor Mats",
+        "brand": "WeatherTech Custom Fit",
+        "price": 89.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Automotive"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "975c622c-b51f-4d79-bea0-c08813ffe14c",
+        "name": "OBD2 Scanner",
+        "brand": "BlueDriver Bluetooth Scanner",
+        "price": 99.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Automotive"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "56aca0cb-e055-4be4-bd93-9634341abc94",
+        "name": "Air Freshener",
+        "brand": "Little Trees Black Ice 6-Pack",
+        "price": 8.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Automotive"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "95503b13-e7f1-4e8a-9ef2-fd0fb91e8273",
+        "name": "LED Light Bulbs",
+        "brand": "Philips Hue White 4-Pack",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Lighting & Electrical"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "42e47a58-71e7-48b1-aec8-783199f62be1",
+        "name": "Smart Plug",
+        "brand": "Kasa Smart Wi-Fi Plug",
+        "price": 19.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Lighting & Electrical"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "9f51646b-cf4a-47d3-b8db-97c6bfe0bc58",
+        "name": "Extension Cord",
+        "brand": "GE 6-Outlet Power Strip",
+        "price": 14.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Lighting & Electrical"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "cfb78fae-cb79-45ee-9316-4f0cb0578d08",
+        "name": "Surge Protector",
+        "brand": "APC 11-Outlet Surge Protector",
+        "price": 34.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Lighting & Electrical"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "e6fa84cc-1300-4a98-b55f-c47dd963f340",
+        "name": "Ceiling Fan",
+        "brand": "Hunter Dempsey 52-Inch",
+        "price": 149.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Lighting & Electrical"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "a0de17e4-2fd8-4afe-8304-334bdae939ba",
+        "name": "Light Switch",
+        "brand": "Lutron Caseta Smart Switch",
+        "price": 59.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Lighting & Electrical"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "24f6631a-d76f-4ad9-b71d-03571b2986f9",
+        "name": "Outdoor Floodlight",
+        "brand": "Ring Smart Floodlight",
+        "price": 129.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Lighting & Electrical"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "40cb5118-be02-477f-98f9-8b2795f38ca4",
+        "name": "Flashlight",
+        "brand": "Maglite ML300L LED",
+        "price": 49.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Lighting & Electrical"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "ffbee912-5ceb-4390-8993-a268a9533dac",
+        "name": "Recessed Lighting",
+        "brand": "Globe Electric LED Retrofit 6-Pack",
+        "price": 79.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Lighting & Electrical"
+        },
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "id": "07c46b31-7874-4423-99b6-6000d47d4eea",
+        "name": "Dimmer Switch",
+        "brand": "Leviton Decora Smart Dimmer",
+        "price": 39.99,
+        "salePrice": null,
+        "category": {
+            "homeImprovementAndAuto": "Lighting & Electrical"
+        },
+        "inStock": true,
+        "onSale": false
+    }
+]
