@@ -21,12 +21,10 @@ class User: Identifiable, ObservableObject {
         self.orderHistory = orderHistory
     }
     
-    // Add product to the cart
     func addToCart(product: Product, quantity: Int = 1) {
         cart[product.id, default: 0] += quantity
     }
     
-    // Remove product from the cart
     func removeFromCart(product: Product, quantity: Int = 1) {
         if let currentQuantity = cart[product.id] {
             let newQuantity = currentQuantity - quantity
