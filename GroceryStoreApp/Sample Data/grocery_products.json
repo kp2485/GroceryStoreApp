@@ -6,9 +6,7 @@
         "price": 0.59,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Fruits"
-            }
+            "grocery": "Fruits"
         },
         "inStock": true,
         "onSale": false
@@ -20,9 +18,7 @@
         "price": 1.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Fruits"
-            }
+            "grocery": "Fruits"
         },
         "inStock": true,
         "onSale": false
@@ -34,9 +30,7 @@
         "price": 1.49,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Fruits"
-            }
+            "grocery": "Fruits"
         },
         "inStock": true,
         "onSale": false
@@ -48,9 +42,7 @@
         "price": 2.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Fruits"
-            }
+            "grocery": "Fruits"
         },
         "inStock": true,
         "onSale": false
@@ -62,9 +54,7 @@
         "price": 3.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Fruits"
-            }
+            "grocery": "Fruits"
         },
         "inStock": true,
         "onSale": false
@@ -76,9 +66,7 @@
         "price": 4.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Fruits"
-            }
+            "grocery": "Fruits"
         },
         "inStock": true,
         "onSale": false
@@ -90,9 +78,7 @@
         "price": 1.89,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Fruits"
-            }
+            "grocery": "Fruits"
         },
         "inStock": true,
         "onSale": false
@@ -104,9 +90,7 @@
         "price": 2.49,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Fruits"
-            }
+            "grocery": "Fruits"
         },
         "inStock": true,
         "onSale": false
@@ -118,9 +102,7 @@
         "price": 3.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Fruits"
-            }
+            "grocery": "Fruits"
         },
         "inStock": true,
         "onSale": false
@@ -132,9 +114,7 @@
         "price": 5.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Fruits"
-            }
+            "grocery": "Fruits"
         },
         "inStock": true,
         "onSale": false
@@ -146,9 +126,7 @@
         "price": 1.29,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Vegetables"
-            }
+            "grocery": "Vegetables"
         },
         "inStock": true,
         "onSale": false
@@ -160,9 +138,7 @@
         "price": 2.49,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Vegetables"
-            }
+            "grocery": "Vegetables"
         },
         "inStock": true,
         "onSale": false
@@ -174,9 +150,7 @@
         "price": 2.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Vegetables"
-            }
+            "grocery": "Vegetables"
         },
         "inStock": true,
         "onSale": false
@@ -188,9 +162,7 @@
         "price": 2.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Vegetables"
-            }
+            "grocery": "Vegetables"
         },
         "inStock": true,
         "onSale": false
@@ -202,9 +174,7 @@
         "price": 3.49,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Vegetables"
-            }
+            "grocery": "Vegetables"
         },
         "inStock": true,
         "onSale": false
@@ -216,9 +186,7 @@
         "price": 1.49,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Vegetables"
-            }
+            "grocery": "Vegetables"
         },
         "inStock": true,
         "onSale": false
@@ -230,9 +198,7 @@
         "price": 3.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Vegetables"
-            }
+            "grocery": "Vegetables"
         },
         "inStock": true,
         "onSale": false
@@ -244,9 +210,7 @@
         "price": 1.89,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Vegetables"
-            }
+            "grocery": "Vegetables"
         },
         "inStock": true,
         "onSale": false
@@ -258,9 +222,7 @@
         "price": 1.49,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Vegetables"
-            }
+            "grocery": "Vegetables"
         },
         "inStock": true,
         "onSale": false
@@ -272,9 +234,7 @@
         "price": 0.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Vegetables"
-            }
+            "grocery": "Vegetables"
         },
         "inStock": true,
         "onSale": false
@@ -286,9 +246,7 @@
         "price": 7.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Prepared Foods"
-            }
+            "grocery": "Prepared Foods"
         },
         "inStock": true,
         "onSale": false
@@ -300,9 +258,7 @@
         "price": 4.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Prepared Foods"
-            }
+            "grocery": "Prepared Foods"
         },
         "inStock": true,
         "onSale": false
@@ -314,9 +270,7 @@
         "price": 5.49,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Prepared Foods"
-            }
+            "grocery": "Prepared Foods"
         },
         "inStock": true,
         "onSale": false
@@ -328,9 +282,7 @@
         "price": 8.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Prepared Foods"
-            }
+            "grocery": "Prepared Foods"
         },
         "inStock": true,
         "onSale": false
@@ -342,9 +294,7 @@
         "price": 6.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Prepared Foods"
-            }
+            "grocery": "Prepared Foods"
         },
         "inStock": true,
         "onSale": false
@@ -356,9 +306,7 @@
         "price": 3.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Prepared Foods"
-            }
+            "grocery": "Prepared Foods"
         },
         "inStock": true,
         "onSale": false
@@ -370,9 +318,7 @@
         "price": 12.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Prepared Foods"
-            }
+            "grocery": "Prepared Foods"
         },
         "inStock": true,
         "onSale": false
@@ -384,9 +330,7 @@
         "price": 5.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Prepared Foods"
-            }
+            "grocery": "Prepared Foods"
         },
         "inStock": true,
         "onSale": false
@@ -398,9 +342,7 @@
         "price": 6.49,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Prepared Foods"
-            }
+            "grocery": "Prepared Foods"
         },
         "inStock": true,
         "onSale": false
@@ -412,9 +354,7 @@
         "price": 4.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Prepared Foods"
-            }
+            "grocery": "Prepared Foods"
         },
         "inStock": true,
         "onSale": false
@@ -426,9 +366,7 @@
         "price": 8.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Deli"
-            }
+            "grocery": "Deli"
         },
         "inStock": true,
         "onSale": false
@@ -440,9 +378,7 @@
         "price": 6.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Deli"
-            }
+            "grocery": "Deli"
         },
         "inStock": true,
         "onSale": false
@@ -454,9 +390,7 @@
         "price": 9.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Deli"
-            }
+            "grocery": "Deli"
         },
         "inStock": true,
         "onSale": false
@@ -468,9 +402,7 @@
         "price": 7.49,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Deli"
-            }
+            "grocery": "Deli"
         },
         "inStock": true,
         "onSale": false
@@ -482,9 +414,7 @@
         "price": 5.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Deli"
-            }
+            "grocery": "Deli"
         },
         "inStock": true,
         "onSale": false
@@ -496,9 +426,7 @@
         "price": 6.49,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Deli"
-            }
+            "grocery": "Deli"
         },
         "inStock": true,
         "onSale": false
@@ -510,9 +438,7 @@
         "price": 5.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Deli"
-            }
+            "grocery": "Deli"
         },
         "inStock": true,
         "onSale": false
@@ -524,9 +450,7 @@
         "price": 4.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Deli"
-            }
+            "grocery": "Deli"
         },
         "inStock": true,
         "onSale": false
@@ -538,9 +462,7 @@
         "price": 3.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Deli"
-            }
+            "grocery": "Deli"
         },
         "inStock": true,
         "onSale": false
@@ -552,9 +474,7 @@
         "price": 4.49,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Deli"
-            }
+            "grocery": "Deli"
         },
         "inStock": true,
         "onSale": false
@@ -566,9 +486,7 @@
         "price": 9.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Floral"
-            }
+            "grocery": "Floral"
         },
         "inStock": true,
         "onSale": false
@@ -580,9 +498,7 @@
         "price": 7.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Floral"
-            }
+            "grocery": "Floral"
         },
         "inStock": true,
         "onSale": false
@@ -594,9 +510,7 @@
         "price": 6.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Floral"
-            }
+            "grocery": "Floral"
         },
         "inStock": true,
         "onSale": false
@@ -608,9 +522,7 @@
         "price": 14.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Floral"
-            }
+            "grocery": "Floral"
         },
         "inStock": true,
         "onSale": false
@@ -622,9 +534,7 @@
         "price": 10.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Floral"
-            }
+            "grocery": "Floral"
         },
         "inStock": true,
         "onSale": false
@@ -636,9 +546,7 @@
         "price": 5.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Floral"
-            }
+            "grocery": "Floral"
         },
         "inStock": true,
         "onSale": false
@@ -650,9 +558,7 @@
         "price": 8.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Floral"
-            }
+            "grocery": "Floral"
         },
         "inStock": true,
         "onSale": false
@@ -664,9 +570,7 @@
         "price": 4.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Floral"
-            }
+            "grocery": "Floral"
         },
         "inStock": true,
         "onSale": false
@@ -678,9 +582,7 @@
         "price": 12.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Floral"
-            }
+            "grocery": "Floral"
         },
         "inStock": true,
         "onSale": false
@@ -692,9 +594,7 @@
         "price": 11.99,
         "salePrice": null,
         "category": {
-            "grocery": {
-                "freshProduce": "Floral"
-            }
+            "grocery": "Floral"
         },
         "inStock": true,
         "onSale": false

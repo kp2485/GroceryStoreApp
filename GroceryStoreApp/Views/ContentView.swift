@@ -8,17 +8,38 @@
 import SwiftUI
 
 struct ContentView: View {
-    var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
-    }
-}
+    @ObservedObject var productStore: ProductStore
+    @ObservedObject var user: User
 
-#Preview {
-    ContentView()
+    var body: some View {
+        TabView {
+            NavigationView {
+                ShopView(productStore: productStore, user: user)
+            }
+            .tabItem {
+                Label("Shop", systemImage: "cart")
+            }
+            
+            NavigationView {
+                CartView(user: user, productStore: productStore)
+            }
+            .tabItem {
+                Label("Cart", systemImage: "bag")
+            }
+            
+            NavigationView {
+                QuickActionsView()
+            }
+            .tabItem {
+                Label("Quick Actions", systemImage: "bolt")
+            }
+            
+            NavigationView {
+                UserView(user: user)
+            }
+            .tabItem {
+                Label("User", systemImage: "person")
+            }
+        }
+    }
 }

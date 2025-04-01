@@ -6,7 +6,7 @@
         "price": 2.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Meijer Brand Products"
+            "Our Brands": "Meijer Brand Products"
         },
         "inStock": true,
         "onSale": false
@@ -18,7 +18,7 @@
         "price": 3.49,
         "salePrice": null,
         "category": {
-            "ourBrands": "Meijer Brand Products"
+            "Our Brands": "Meijer Brand Products"
         },
         "inStock": true,
         "onSale": false
@@ -30,7 +30,7 @@
         "price": 2.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Meijer Brand Products"
+            "Our Brands": "Meijer Brand Products"
         },
         "inStock": true,
         "onSale": false
@@ -42,7 +42,7 @@
         "price": 5.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Meijer Brand Products"
+            "Our Brands": "Meijer Brand Products"
         },
         "inStock": true,
         "onSale": false
@@ -54,7 +54,7 @@
         "price": 0.79,
         "salePrice": null,
         "category": {
-            "ourBrands": "Meijer Brand Products"
+            "Our Brands": "Meijer Brand Products"
         },
         "inStock": true,
         "onSale": false
@@ -66,7 +66,7 @@
         "price": 4.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Meijer Brand Products"
+            "Our Brands": "Meijer Brand Products"
         },
         "inStock": true,
         "onSale": false
@@ -78,7 +78,7 @@
         "price": 8.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Meijer Brand Products"
+            "Our Brands": "Meijer Brand Products"
         },
         "inStock": true,
         "onSale": false
@@ -90,7 +90,7 @@
         "price": 6.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Meijer Brand Products"
+            "Our Brands": "Meijer Brand Products"
         },
         "inStock": true,
         "onSale": false
@@ -102,7 +102,7 @@
         "price": 1.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Meijer Brand Products"
+            "Our Brands": "Meijer Brand Products"
         },
         "inStock": true,
         "onSale": false
@@ -114,7 +114,7 @@
         "price": 3.49,
         "salePrice": null,
         "category": {
-            "ourBrands": "Meijer Brand Products"
+            "Our Brands": "Meijer Brand Products"
         },
         "inStock": true,
         "onSale": false
@@ -126,7 +126,7 @@
         "price": 6.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Frederik's by Meijer"
+            "Our Brands": "Frederik's by Meijer"
         },
         "inStock": true,
         "onSale": false
@@ -138,7 +138,7 @@
         "price": 8.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Frederik's by Meijer"
+            "Our Brands": "Frederik's by Meijer"
         },
         "inStock": true,
         "onSale": false
@@ -150,7 +150,7 @@
         "price": 9.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Frederik's by Meijer"
+            "Our Brands": "Frederik's by Meijer"
         },
         "inStock": true,
         "onSale": false
@@ -162,7 +162,7 @@
         "price": 5.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Frederik's by Meijer"
+            "Our Brands": "Frederik's by Meijer"
         },
         "inStock": true,
         "onSale": false
@@ -174,7 +174,7 @@
         "price": 12.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Frederik's by Meijer"
+            "Our Brands": "Frederik's by Meijer"
         },
         "inStock": true,
         "onSale": false
@@ -186,7 +186,7 @@
         "price": 10.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Frederik's by Meijer"
+            "Our Brands": "Frederik's by Meijer"
         },
         "inStock": true,
         "onSale": false
@@ -198,7 +198,7 @@
         "price": 3.49,
         "salePrice": null,
         "category": {
-            "ourBrands": "Frederik's by Meijer"
+            "Our Brands": "Frederik's by Meijer"
         },
         "inStock": true,
         "onSale": false
@@ -210,7 +210,7 @@
         "price": 5.49,
         "salePrice": null,
         "category": {
-            "ourBrands": "Frederik's by Meijer"
+            "Our Brands": "Frederik's by Meijer"
         },
         "inStock": true,
         "onSale": false
@@ -222,7 +222,7 @@
         "price": 4.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Frederik's by Meijer"
+            "Our Brands": "Frederik's by Meijer"
         },
         "inStock": true,
         "onSale": false
@@ -234,7 +234,7 @@
         "price": 14.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Frederik's by Meijer"
+            "Our Brands": "Frederik's by Meijer"
         },
         "inStock": true,
         "onSale": false
@@ -246,7 +246,7 @@
         "price": 3.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "True Goodness"
+            "Our Brands": "True Goodness"
         },
         "inStock": true,
         "onSale": false
@@ -258,7 +258,7 @@
         "price": 4.49,
         "salePrice": null,
         "category": {
-            "ourBrands": "True Goodness"
+            "Our Brands": "True Goodness"
         },
         "inStock": true,
         "onSale": false
@@ -270,7 +270,7 @@
         "price": 5.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "True Goodness"
+            "Our Brands": "True Goodness"
         },
         "inStock": true,
         "onSale": false
@@ -282,7 +282,7 @@
         "price": 9.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "True Goodness"
+            "Our Brands": "True Goodness"
         },
         "inStock": true,
         "onSale": false
@@ -294,7 +294,7 @@
         "price": 3.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "True Goodness"
+            "Our Brands": "True Goodness"
         },
         "inStock": true,
         "onSale": false
@@ -306,7 +306,7 @@
         "price": 4.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "True Goodness"
+            "Our Brands": "True Goodness"
         },
         "inStock": true,
         "onSale": false
@@ -318,7 +318,7 @@
         "price": 6.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "True Goodness"
+            "Our Brands": "True Goodness"
         },
         "inStock": true,
         "onSale": false
@@ -330,7 +330,7 @@
         "price": 5.49,
         "salePrice": null,
         "category": {
-            "ourBrands": "True Goodness"
+            "Our Brands": "True Goodness"
         },
         "inStock": true,
         "onSale": false
@@ -342,7 +342,7 @@
         "price": 7.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "True Goodness"
+            "Our Brands": "True Goodness"
         },
         "inStock": true,
         "onSale": false
@@ -354,7 +354,7 @@
         "price": 3.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "True Goodness"
+            "Our Brands": "True Goodness"
         },
         "inStock": true,
         "onSale": false
@@ -366,7 +366,7 @@
         "price": 3.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Purple Cow"
+            "Our Brands": "Purple Cow"
         },
         "inStock": true,
         "onSale": false
@@ -378,7 +378,7 @@
         "price": 3.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Purple Cow"
+            "Our Brands": "Purple Cow"
         },
         "inStock": true,
         "onSale": false
@@ -390,7 +390,7 @@
         "price": 4.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Purple Cow"
+            "Our Brands": "Purple Cow"
         },
         "inStock": true,
         "onSale": false
@@ -402,7 +402,7 @@
         "price": 3.49,
         "salePrice": null,
         "category": {
-            "ourBrands": "Purple Cow"
+            "Our Brands": "Purple Cow"
         },
         "inStock": true,
         "onSale": false
@@ -414,7 +414,7 @@
         "price": 3.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Purple Cow"
+            "Our Brands": "Purple Cow"
         },
         "inStock": true,
         "onSale": false
@@ -426,7 +426,7 @@
         "price": 4.49,
         "salePrice": null,
         "category": {
-            "ourBrands": "Purple Cow"
+            "Our Brands": "Purple Cow"
         },
         "inStock": true,
         "onSale": false
@@ -438,7 +438,7 @@
         "price": 3.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Purple Cow"
+            "Our Brands": "Purple Cow"
         },
         "inStock": true,
         "onSale": false
@@ -450,7 +450,7 @@
         "price": 4.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Purple Cow"
+            "Our Brands": "Purple Cow"
         },
         "inStock": true,
         "onSale": false
@@ -462,7 +462,7 @@
         "price": 4.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Purple Cow"
+            "Our Brands": "Purple Cow"
         },
         "inStock": true,
         "onSale": false
@@ -474,7 +474,7 @@
         "price": 2.99,
         "salePrice": null,
         "category": {
-            "ourBrands": "Purple Cow"
+            "Our Brands": "Purple Cow"
         },
         "inStock": true,
         "onSale": false

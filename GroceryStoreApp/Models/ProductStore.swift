@@ -7,7 +7,7 @@
 
 import Foundation
 
-class ProductStore: ObservableObject {
+class ProductStore: ObservableObject, @unchecked Sendable {
     @Published var products: [Product] = []
     
     // Lookup product by id
@@ -18,5 +18,24 @@ class ProductStore: ObservableObject {
     // Filter products by a specific category
     func products(inCategory category: ProductCategory) -> [Product] {
         products.filter { $0.category == category }
+    }
+    
+    // Load products from JSON file
+    func loadProducts(from fileName: String) async {
+        guard let url = Bundle.main.url(forResource: fileName, withExtension: nil) else {
+            print("⚠️ Failed to find \(fileName) in bundle.")
+            return
+        }
+        
+        do {
+            let data = try Data(contentsOf: url)
+            let decodedProducts = try JSONDecoder().decode([Product].self, from: data)
+            
+            DispatchQueue.main.async {
+                self.products.append(contentsOf: decodedProducts)
+            }
+        } catch {
+            print("❌ Error loading \(fileName): \(error.localizedDescription)")
+        }
     }
 }
