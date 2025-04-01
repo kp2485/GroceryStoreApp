@@ -13,6 +13,7 @@ struct ShopView: View {
 
     @AppStorage("selectedViewStyle") private var selectedViewStyleRaw: String = ProductViewStyle.classic.rawValue
     @State private var selectedMainCategory: String = "Grocery"
+    @State private var selectedSubcategory: String = ""
 
     var selectedViewStyle: ProductViewStyle {
         ProductViewStyle(rawValue: selectedViewStyleRaw) ?? .classic
@@ -40,14 +41,17 @@ struct ShopView: View {
             case .classic:
                 ClassicShopView(groupedProducts: groupedProducts, user: user)
             case .largeText:
-                LargeTextShopView(groupedProducts: groupedProducts, user: user)
+                LargeTextShopView(groupedProducts: groupedProducts, user: user, selectedSubcategory: $selectedSubcategory)
             case .simplified:
                 SimplifiedShopView(groupedProducts: groupedProducts, user: user)
             case .highContrast:
                 HighContrastShopView(groupedProducts: groupedProducts, user: user)
             case .gridView:
-                GridShopView(products: filteredProducts, user: user)
+                GridShopView(groupedProducts: groupedProducts, user: user, selectedSubcategory: $selectedSubcategory)
             }
+        }
+        .onChange(of: selectedMainCategory) { _ in
+            selectedSubcategory = groupedProducts.keys.sorted().first ?? ""
         }
         .toolbar {
             ToolbarItem(placement: .navigationBarLeading) {

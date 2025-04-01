@@ -10,29 +10,40 @@ import SwiftUI
 struct LargeTextShopView: View {
     let groupedProducts: [String: [Product]]
     @ObservedObject var user: User
+    @Binding var selectedSubcategory: String
 
     var body: some View {
-        ScrollView {
-            VStack(alignment: .leading, spacing: 24) {
-                ForEach(groupedProducts.keys.sorted(), id: \ .self) { subCategory in
-                    VStack(alignment: .leading) {
-                        Text(subCategory)
-                            .font(.title2.bold())
-                            .padding(.leading)
+        let subcategories = groupedProducts.keys.sorted()
+        let currentSubcategory = selectedSubcategory.isEmpty ? subcategories.first ?? "" : selectedSubcategory
+        let products = groupedProducts[currentSubcategory] ?? []
 
-                        ScrollView(.horizontal, showsIndicators: false) {
-                            HStack(spacing: 16) {
-                                ForEach(groupedProducts[subCategory] ?? []) { product in
-                                    ProductItemView(product: product, user: user)
-                                        .scaleEffect(1.2)
-                                }
-                            }
-                            .padding(.horizontal)
-                        }
+        VStack(alignment: .leading) {
+            Menu {
+                ForEach(subcategories, id: \ .self) { sub in
+                    Button(action: { selectedSubcategory = sub }) {
+                        Text(sub)
                     }
                 }
+            } label: {
+                HStack {
+                    Text(currentSubcategory)
+                        .font(.title2.bold())
+                    Image(systemName: "chevron.down")
+                }
+                .padding(.horizontal)
             }
-            .padding(.top)
+
+            ScrollView(.horizontal, showsIndicators: false) {
+                HStack(spacing: 16) {
+                    ForEach(products) { product in
+                        ProductItemView(product: product, user: user)
+                            .scaleEffect(1.2)
+                    }
+                }
+                .padding(.horizontal)
+            }
+            Spacer()
         }
+        .padding(.top)
     }
 }

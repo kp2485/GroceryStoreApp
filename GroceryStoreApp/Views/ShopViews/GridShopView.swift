@@ -8,19 +8,42 @@
 import SwiftUI
 
 struct GridShopView: View {
-    let products: [Product]
+    let groupedProducts: [String: [Product]]
     @ObservedObject var user: User
+    @Binding var selectedSubcategory: String
 
     let columns = [GridItem(.flexible()), GridItem(.flexible()), GridItem(.flexible())]
 
     var body: some View {
-        ScrollView {
-            LazyVGrid(columns: columns, spacing: 20) {
-                ForEach(products) { product in
-                    ProductItemView(product: product, user: user)
+        let subcategories = groupedProducts.keys.sorted()
+        let currentSubcategory = selectedSubcategory.isEmpty ? subcategories.first ?? "" : selectedSubcategory
+        let products = groupedProducts[currentSubcategory] ?? []
+
+        VStack(alignment: .leading) {
+            Menu {
+                ForEach(subcategories, id: \ .self) { sub in
+                    Button(action: { selectedSubcategory = sub }) {
+                        Text(sub)
+                    }
                 }
+            } label: {
+                HStack {
+                    Text(currentSubcategory)
+                        .font(.title2.bold())
+                    Image(systemName: "chevron.down")
+                }
+                .padding(.horizontal)
             }
-            .padding()
+
+            ScrollView {
+                LazyVGrid(columns: columns, spacing: 20) {
+                    ForEach(products) { product in
+                        ProductItemView(product: product, user: user)
+                    }
+                }
+                .padding()
+            }
         }
+        .padding(.top)
     }
 }
