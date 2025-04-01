@@ -1,8 +1,7 @@
+// ProductItemView.swift
+// GroceryStoreApp
 //
-//  ProductItemView.swift
-//  GroceryStoreApp
-//
-//  Created by Kyle Peterson on 3/28/25.
+// Created by Kyle Peterson on 3/28/25.
 //
 
 import SwiftUI
@@ -12,17 +11,12 @@ struct ProductItemView: View {
     @ObservedObject var user: User
 
     var body: some View {
-        // Use a ZStack for the product image (wrapped in a rounded rectangle)
-        // and overlay the + and - buttons.
         ZStack(alignment: .bottom) {
-            // Wrap the product view in a NavigationLink to ProductDetailView.
             NavigationLink(destination: ProductDetailView(product: product)) {
                 RoundedRectangle(cornerRadius: 10)
                     .fill(Color.gray.opacity(0.2))
                     .frame(width: 120, height: 140)
                     .overlay(
-                        // Try to load an image named exactly as the product name.
-                        // If not found, use a default system image based on category.
                         Group {
                             if UIImage(named: product.name) != nil {
                                 Image(product.name)
@@ -30,18 +24,14 @@ struct ProductItemView: View {
                                     .scaledToFit()
                                     .frame(width: 80, height: 80)
                             } else {
-                                Image(systemName: systemImageName(main: product.category.main, sub: product.category.sub))
-                                    .resizable()
-                                    .scaledToFit()
-                                    .frame(width: 80, height: 80)
-                                    .foregroundColor(.blue)
+                                Text(emojiForCategory(main: product.category.main, sub: product.category.sub))
+                                    .font(.system(size: 80))
                             }
                         }
                     )
             }
             .buttonStyle(PlainButtonStyle())
-            
-            // Overlay the plus button in the bottom right and a minus button in the bottom left if the item is in the cart.
+
             HStack {
                 if let quantity = user.cart[product.id], quantity > 0 {
                     Button(action: { user.removeFromCart(product: product) }) {
@@ -60,307 +50,188 @@ struct ProductItemView: View {
             .frame(width: 120)
         }
     }
-    
-    // Return a system image name based on the product category's main property.
-    func systemImageName(main: String, sub: String) -> String {
-        // Normalize strings.
+
+    func emojiForCategory(main: String, sub: String) -> String {
         let mainCategory = main.lowercased().trimmingCharacters(in: .whitespacesAndNewlines)
         let subCategory = sub.lowercased().trimmingCharacters(in: .whitespacesAndNewlines)
-        
+
         switch mainCategory {
         case "grocery":
             switch subCategory {
-            case "fresh produce":
-                return "leaf.fill"
-            case "dairy & eggs":
-                return "drop.fill"
-            case "bakery":
-                return "bag.fill"
-            case "meat & seafood":
-                return "fork.knife"  // Alternatively, consider "takeoutbag.and.cup.and.straw.fill"
-            case "pantry":
-                return "archivebox.fill"
-            case "frozen foods":
-                return "snowflake"
-            case "beverages":
-                return "cup.and.saucer.fill"
-            case "snacks":
-                return "bag.fill"
-            default:
-                return "questionmark.square.fill"
+            case "fruits": return "🍎"
+            case "vegetables": return "🥕"
+            case "prepared foods": return "🥡"
+            case "deli": return "🥪"
+            case "floral": return "💐"
+            case "dairy & eggs": return "🥚"
+            case "bakery": return "🥖"
+            case "meat & seafood": return "🥩"
+            case "pantry": return "🧂"
+            case "frozen foods": return "🧊"
+            case "beverages": return "🥤"
+            case "snacks": return "🍿"
+            default: return "🛒"
             }
-            
-        case "fresh":
-            switch subCategory {
-            case "fruits":
-                return "sun.max.fill"
-            case "vegetables":
-                return "leaf.arrow.triangle.circlepath"
-            case "prepared foods":
-                return "fork.knife"
-            case "deli":
-                return "takeoutbag.and.cup.and.straw.fill"
-            case "floral":
-                return "sparkles"
-            default:
-                return "questionmark.square.fill"
-            }
-            
+
         case "electronics":
             switch subCategory {
-            case "tv & home theater":
-                return "tv.fill"
-            case "computers & tablets":
-                return "desktopcomputer"
-            case "cell phones":
-                return "iphone"
-            case "video games":
-                return "gamecontroller.fill"
-            case "cameras":
-                return "camera.fill"
-            case "audio":
-                return "speaker.3.fill"
-            case "wearable technology":
-                return "applewatch"
-            default:
-                return "questionmark.square.fill"
+            case "tv & home theater": return "📺"
+            case "computers & tablets": return "💻"
+            case "cell phones": return "📱"
+            case "video games": return "🎮"
+            case "cameras": return "📷"
+            case "audio": return "🎧"
+            case "wearable technology": return "⌚"
+            default: return "📦"
             }
-            
+
         case "household essentials":
             switch subCategory {
-            case "cleaning supplies":
-                return "sparkles"
-            case "paper & plastic products":
-                return "doc.on.doc.fill"
-            case "laundry care":
-                return "drop.fill"
-            case "dishwashing":
-                return "fork.knife"
-            case "air fresheners":
-                return "wind"
-            default:
-                return "questionmark.square.fill"
+            case "cleaning supplies": return "🧼"
+            case "paper & plastic products": return "🧻"
+            case "laundry care": return "🧺"
+            case "dishwashing": return "🍽️"
+            case "air fresheners": return "🌀"
+            default: return "🏠"
             }
-            
+
         case "beauty & personal care":
             switch subCategory {
-            case "hair care":
-                return "scissors" // or a custom comb icon if available
-            case "skin care":
-                return "face.smiling.fill"
-            case "makeup":
-                return "paintbrush.fill"
-            case "fragrances":
-                return "drop.fill"
-            case "oral care":
-                return "mouth.fill"
-            case "shaving & grooming":
-                return "scissors"
-            case "bath & body":
-                return "drop.fill"
-            default:
-                return "questionmark.square.fill"
+            case "hair care": return "💇‍♀️"
+            case "skin care": return "🧴"
+            case "makeup": return "💄"
+            case "fragrances": return "🌸"
+            case "oral care": return "🦷"
+            case "shaving & grooming": return "🪒"
+            case "bath & body": return "🛁"
+            default: return "🧖"
             }
-            
+
         case "toys":
             switch subCategory {
-            case "action figures":
-                return "figure.walk"
-            case "dolls":
-                return "person.fill"
-            case "building sets":
-                return "cube.fill"
-            case "educational toys":
-                return "book.fill"
-            case "outdoor play":
-                return "sportscourt.fill"
-            case "games & puzzles":
-                return "puzzlepiece.fill"
-            default:
-                return "questionmark.square.fill"
+            case "action figures": return "🦸"
+            case "dolls": return "🧸"
+            case "building sets": return "🧱"
+            case "educational toys": return "📘"
+            case "outdoor play": return "🤾"
+            case "games & puzzles": return "🧩"
+            default: return "🪀"
             }
-            
-        case "beer, wine, & spirits":
+
+        case "beer, wine & spirits":
             switch subCategory {
-            case "beer":
-                return "cup.and.saucer.fill"
-            case "wine":
-                return "wineglass.fill"
-            case "spirits":
-                return "flame.fill"
-            case "mixers":
-                return "sparkles"
-            case "bar accessories":
-                return "fork.knife"
-            default:
-                return "questionmark.square.fill"
+            case "beer": return "🍺"
+            case "wine": return "🍷"
+            case "spirits": return "🥃"
+            case "mixers": return "🧉"
+            case "bar accessories": return "🍸"
+            default: return "🍹"
             }
-            
+
         case "pet care":
             switch subCategory {
-            case "dog supplies":
-                return "pawprint.fill"
-            case "cat supplies":
-                return "pawprint.fill"
-            case "fish supplies":
-                return "fish.fill"
-            case "bird supplies":
-                return "bird.fill"
-            case "small animal supplies":
-                return "hare.fill"
-            default:
-                return "questionmark.square.fill"
+            case "dog supplies": return "🐶"
+            case "cat supplies": return "🐱"
+            case "fish supplies": return "🐟"
+            case "bird supplies": return "🐦"
+            case "small animal supplies": return "🐹"
+            default: return "🐾"
             }
-            
+
         case "home":
             switch subCategory {
-            case "bedding":
-                return "bed.double.fill"
-            case "bath":
-                return "bathtub.fill"
-            case "furniture":
-                return "sofa.fill"
-            case "home décor", "home decor":
-                return "photo.fill"
-            case "kitchen & dining":
-                return "fork.knife"
-            case "storage & organization":
-                return "archivebox.fill"
-            default:
-                return "questionmark.square.fill"
+            case "bedding": return "🛏️"
+            case "bath": return "🛁"
+            case "furniture": return "🪑"
+            case "home décor", "home decor": return "🖼️"
+            case "kitchen & dining": return "🍽️"
+            case "storage & organization": return "📦"
+            default: return "🏡"
             }
-            
+
         case "baby & toddler":
             switch subCategory {
-            case "diapers & wipes":
-                return "bandage.fill"
-            case "feeding":
-                return "cup.and.saucer.fill"
-            case "baby gear":
-                return "bag.fill"
-            case "nursery":
-                return "bed.double.fill"
-            case "toddler clothing":
-                return "tshirt.fill"
-            default:
-                return "questionmark.square.fill"
+            case "diapers & wipes": return "🧷"
+            case "feeding": return "🍼"
+            case "baby gear": return "👶"
+            case "nursery": return "🛏️"
+            case "toddler clothing": return "👕"
+            default: return "👶"
             }
-            
+
         case "sporting goods":
             switch subCategory {
-            case "fitness equipment":
-                return "figure.walk"
-            case "outdoor recreation":
-                return "sun.max.fill"
-            case "team sports":
-                return "sportscourt.fill"
-            case "camping & hiking":
-                return "tent.fill"
-            case "cycling":
-                return "bicycle"
-            default:
-                return "questionmark.square.fill"
+            case "fitness equipment": return "🏋️"
+            case "outdoor recreation": return "⛺"
+            case "team sports": return "🏈"
+            case "camping & hiking": return "🥾"
+            case "cycling": return "🚴"
+            default: return "⚽"
             }
-            
+
         case "our brands":
-            // For "Our Brands," we use the same icon for all.
-            return "tag.fill"
-            
+            return "🏷️"
+
         case "health care":
             switch subCategory {
-            case "over-the-counter medications":
-                return "pills.fill"
-            case "vitamins & supplements":
-                return "capsule.fill"
-            case "first aid":
-                return "cross.fill"
-            case "home health care":
-                return "house.fill"
-            case "personal protective equipment":
-                return "shield.fill"
-            default:
-                return "questionmark.square.fill"
+            case "over-the-counter medications": return "💊"
+            case "vitamins & supplements": return "🧬"
+            case "first aid": return "🩹"
+            case "home health care": return "🏥"
+            case "personal protective equipment": return "😷"
+            default: return "🩺"
             }
-            
+
         case "card & party":
             switch subCategory {
-            case "greeting cards":
-                return "envelope.fill"
-            case "gift wrap":
-                return "gift.fill"
-            case "party supplies":
-                return "sparkles"
-            case "balloons":
-                return "circle.grid.3x3.fill"
-            default:
-                return "questionmark.square.fill"
+            case "greeting cards": return "💌"
+            case "gift wrap": return "🎁"
+            case "party supplies": return "🥳"
+            case "balloons": return "🎈"
+            default: return "🎊"
             }
-            
+
         case "clothing, shoes & accessories":
             switch subCategory {
-            case "men's clothing":
-                return "person.fill"
-            case "women's clothing":
-                return "person.fill"
-            case "kids' clothing":
-                return "person.fill"
-            case "shoes":
-                return "shoeprints.fill"
-            case "accessories":
-                return "eyeglasses"
-            default:
-                return "questionmark.square.fill"
+            case "men's clothing": return "👔"
+            case "women's clothing": return "👗"
+            case "kids' clothing": return "🧒"
+            case "shoes": return "👟"
+            case "accessories": return "👜"
+            default: return "👚"
             }
-            
+
         case "books & entertainment":
             switch subCategory {
-            case "books":
-                return "book.fill"
-            case "movies":
-                return "film.fill"
-            case "music":
-                return "music.note"
-            case "video games":
-                return "gamecontroller.fill"
-            default:
-                return "questionmark.square.fill"
+            case "books": return "📚"
+            case "movies": return "🎬"
+            case "music": return "🎵"
+            case "video games": return "🎮"
+            default: return "📀"
             }
-            
+
         case "home improvement & auto":
             switch subCategory {
-            case "tools":
-                return "wrench.fill"
-            case "paint & supplies":
-                return "paintbrush.fill"
-            case "hardware":
-                return "hammer.fill"
-            case "automotive":
-                return "car.fill"
-            case "lighting & electrical":
-                return "lightbulb.fill"
-            default:
-                return "questionmark.square.fill"
+            case "tools": return "🛠️"
+            case "paint & supplies": return "🎨"
+            case "hardware": return "🔩"
+            case "automotive": return "🚗"
+            case "lighting & electrical": return "💡"
+            default: return "🧰"
             }
-            
+
         case "garden & outdoor living":
             switch subCategory {
-            case "plants & flowers":
-                return "leaf.fill"
-            case "patio furniture":
-                return "sofa.fill"
-            case "grills & outdoor cooking":
-                return "flame.fill"
-            case "lawn care":
-                return "leaf.arrow.triangle.circlepath"
-            case "outdoor décor", "outdoor decor":
-                return "photo.fill"
-            default:
-                return "questionmark.square.fill"
+            case "plants & flowers": return "🌷"
+            case "patio furniture": return "🪑"
+            case "grills & outdoor cooking": return "🔥"
+            case "lawn care": return "🌿"
+            case "outdoor décor", "outdoor decor": return "🏡"
+            default: return "🌳"
             }
-            
+
         default:
-            return "questionmark.square.fill"
+            return "🛒"
         }
     }
-
 }
