@@ -61,15 +61,28 @@ struct ShopView: View {
         }
         .toolbar {
             ToolbarItem(placement: .navigationBarLeading) {
-                Text("Shop")
-            }
-            ToolbarItem(placement: .navigationBarTrailing) {
-                Picker("Category", selection: $selectedMainCategory) {
+                Menu {
                     ForEach(mainCategories, id: \.self) { category in
-                        Text(category)
+                        Button(action: {
+                            selectedMainCategory = category
+                        }) {
+                            Text(category)
+                                .truncationMode(.tail)
+                        }
+                    }
+                } label: {
+                    HStack {
+                        Text(selectedMainCategory)
+                            .font(.title2)
+                            .foregroundColor(.primary)
+                            .truncationMode(.tail)
+                        Image(systemName: "chevron.down")
+                            .font(.caption)
                     }
                 }
-                .pickerStyle(MenuPickerStyle())
+            }
+            ToolbarItem(placement: .navigationBarTrailing) {
+                Image(systemName: "square.grid.3x1.below.line.grid.1x2.fill")
             }
         }
     }
