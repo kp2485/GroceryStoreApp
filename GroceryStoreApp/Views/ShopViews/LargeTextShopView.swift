@@ -33,17 +33,25 @@ struct LargeTextShopView: View {
                 .padding(.horizontal)
             }
 
-            ScrollView(.horizontal, showsIndicators: false) {
-                HStack(spacing: 16) {
-                    ForEach(products) { product in
-                        ProductItemView(product: product, user: user)
-                            .scaleEffect(1.2)
+            List(products) { product in
+                HStack {
+                    VStack(alignment: .leading, spacing: 4) {
+                        Text(product.name)
+                            .font(.title2.weight(.bold))
+                        Text(product.brand)
+                            .font(.caption)
+                            .foregroundColor(.secondary)
                     }
+                    .padding(.vertical, 8)
+                    
+                    Spacer()
+                    
+                    Text("$\(String(format: "%.2f", product.price))")
+                        .font(.title)
+                        .foregroundColor(.green)
                 }
-                .padding(.horizontal)
             }
-            Spacer()
+            .listStyle(.plain)
         }
-        .padding(.top)
     }
 }
