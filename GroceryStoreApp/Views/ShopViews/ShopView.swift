@@ -50,7 +50,7 @@ struct ShopView: View {
                 GridShopView(groupedProducts: groupedProducts, user: user, selectedSubcategory: $selectedSubcategory)
             }
         }
-        .onChange(of: selectedMainCategory) { _ in
+        .onChange(of: selectedMainCategory) {
             selectedSubcategory = groupedProducts.keys.sorted().first ?? ""
         }
         .toolbar {
