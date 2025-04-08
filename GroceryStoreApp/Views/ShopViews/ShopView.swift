@@ -14,6 +14,9 @@ struct ShopView: View {
     @AppStorage("selectedViewStyle") private var selectedViewStyleRaw: String = ProductViewStyle.classic.rawValue
     @State private var selectedMainCategory: String = "Grocery"
     @State private var selectedSubcategory: String = ""
+    
+    @State private var isSearchPresented = false
+    @State private var searchText = ""
 
     var selectedViewStyle: ProductViewStyle {
         ProductViewStyle(rawValue: selectedViewStyleRaw) ?? .classic
@@ -53,6 +56,13 @@ struct ShopView: View {
         .onChange(of: selectedMainCategory) {
             selectedSubcategory = groupedProducts.keys.sorted().first ?? ""
         }
+        .sheet(isPresented: $isSearchPresented) {
+            ProductSearchView(
+                isPresented: $isSearchPresented,
+                searchText: $searchText,
+                products: productStore.products
+            )
+        }
         .toolbar {
             ToolbarItem(placement: .navigationBarLeading) {
                 Menu {
@@ -68,6 +78,13 @@ struct ShopView: View {
                             .foregroundColor(.primary)
                         Image(systemName: "chevron.down")
                     }
+                }
+            }
+            ToolbarItem(placement: .navigationBarTrailing) {
+                Button(action: {
+                    isSearchPresented = true
+                }) {
+                    Image(systemName: "magnifyingglass")
                 }
             }
             ToolbarItem(placement: .navigationBarTrailing) {
