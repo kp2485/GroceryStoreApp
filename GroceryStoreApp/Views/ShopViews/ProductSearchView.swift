@@ -51,6 +51,7 @@ struct ProductSearchView: View {
                         .padding(.vertical, 4)
                     }
                 }
+                .listStyle(PlainListStyle())
             }
             .navigationTitle("Search")
             .toolbar {
